@@ -1,0 +1,2549 @@
+fecha,tienda,canal,categoria,unidades,precio_promedio_cop,venta_cop,devoluciones
+2025-01-06,Bogotá - Andino,Tienda física,Jeans,138,120148,16580424,2
+2025-01-06,Bogotá - Andino,Tienda física,Camisetas,137,39615,5427255,3
+2025-01-06,Bogotá - Andino,Tienda física,Blusas,79,66614,5262506,1
+2025-01-06,Bogotá - Andino,Tienda física,Chaquetas,42,152798,6417516,0
+2025-01-06,Bogotá - Andino,Tienda física,Vestidos,12,134290,1611480,0
+2025-01-06,Bogotá - Andino,Tienda física,Calzado,47,159931,7516757,1
+2025-01-06,Bogotá - Andino,Tienda física,Accesorios,12,30740,368880,0
+2025-01-06,Bogotá - Unicentro,Tienda física,Jeans,115,122139,14045985,2
+2025-01-06,Bogotá - Unicentro,Tienda física,Camisetas,116,38889,4511124,3
+2025-01-06,Bogotá - Unicentro,Tienda física,Blusas,61,67415,4112315,1
+2025-01-06,Bogotá - Unicentro,Tienda física,Chaquetas,24,158911,3813864,0
+2025-01-06,Bogotá - Unicentro,Tienda física,Vestidos,19,133572,2537868,0
+2025-01-06,Bogotá - Unicentro,Tienda física,Calzado,26,155923,4053998,0
+2025-01-06,Bogotá - Unicentro,Tienda física,Accesorios,8,29489,235912,0
+2025-01-06,Medellín - Santafé,Tienda física,Jeans,121,116246,14065766,3
+2025-01-06,Medellín - Santafé,Tienda física,Camisetas,90,39581,3562290,2
+2025-01-06,Medellín - Santafé,Tienda física,Blusas,52,71886,3738072,1
+2025-01-06,Medellín - Santafé,Tienda física,Chaquetas,21,157253,3302313,0
+2025-01-06,Medellín - Santafé,Tienda física,Vestidos,35,133343,4667005,0
+2025-01-06,Medellín - Santafé,Tienda física,Calzado,42,161685,6790770,1
+2025-01-06,Medellín - Santafé,Tienda física,Accesorios,26,30068,781768,0
+2025-01-06,Cali - Chipichape,Tienda física,Jeans,93,119467,11110431,2
+2025-01-06,Cali - Chipichape,Tienda física,Camisetas,109,39418,4296562,2
+2025-01-06,Cali - Chipichape,Tienda física,Blusas,22,66744,1468368,0
+2025-01-06,Cali - Chipichape,Tienda física,Chaquetas,4,162419,649676,0
+2025-01-06,Cali - Chipichape,Tienda física,Vestidos,0,137222,0,0
+2025-01-06,Cali - Chipichape,Tienda física,Calzado,40,154054,6162160,0
+2025-01-06,Cali - Chipichape,Tienda física,Accesorios,18,28546,513828,0
+2025-01-06,Barranquilla - Buenavista,Tienda física,Jeans,96,117654,11294784,2
+2025-01-06,Barranquilla - Buenavista,Tienda física,Camisetas,91,38162,3472742,2
+2025-01-06,Barranquilla - Buenavista,Tienda física,Blusas,18,70986,1277748,0
+2025-01-06,Barranquilla - Buenavista,Tienda física,Chaquetas,16,155466,2487456,0
+2025-01-06,Barranquilla - Buenavista,Tienda física,Vestidos,5,143623,718115,0
+2025-01-06,Barranquilla - Buenavista,Tienda física,Calzado,43,154159,6628837,0
+2025-01-06,Barranquilla - Buenavista,Tienda física,Accesorios,16,29814,477024,0
+2025-01-06,Bucaramanga - Cacique,Tienda física,Jeans,89,113944,10141016,2
+2025-01-06,Bucaramanga - Cacique,Tienda física,Camisetas,59,40947,2415873,1
+2025-01-06,Bucaramanga - Cacique,Tienda física,Blusas,46,69287,3187202,1
+2025-01-06,Bucaramanga - Cacique,Tienda física,Chaquetas,18,163411,2941398,0
+2025-01-06,Bucaramanga - Cacique,Tienda física,Vestidos,14,142692,1997688,0
+2025-01-06,Bucaramanga - Cacique,Tienda física,Calzado,10,153229,1532290,0
+2025-01-06,Bucaramanga - Cacique,Tienda física,Accesorios,20,28553,571060,0
+2025-01-06,Tienda virtual,Online,Jeans,132,117166,15465912,2
+2025-01-06,Tienda virtual,Online,Camisetas,129,37905,4889745,3
+2025-01-06,Tienda virtual,Online,Blusas,70,66547,4658290,3
+2025-01-06,Tienda virtual,Online,Chaquetas,41,159760,6550160,1
+2025-01-06,Tienda virtual,Online,Vestidos,30,136980,4109400,0
+2025-01-06,Tienda virtual,Online,Calzado,46,162764,7487144,2
+2025-01-06,Tienda virtual,Online,Accesorios,8,28610,228880,0
+2025-01-13,Bogotá - Andino,Tienda física,Jeans,144,117191,16875504,3
+2025-01-13,Bogotá - Andino,Tienda física,Camisetas,135,37978,5127030,3
+2025-01-13,Bogotá - Andino,Tienda física,Blusas,59,69359,4092181,1
+2025-01-13,Bogotá - Andino,Tienda física,Chaquetas,34,158660,5394440,1
+2025-01-13,Bogotá - Andino,Tienda física,Vestidos,32,142567,4562144,0
+2025-01-13,Bogotá - Andino,Tienda física,Calzado,36,154041,5545476,0
+2025-01-13,Bogotá - Andino,Tienda física,Accesorios,34,29678,1009052,0
+2025-01-13,Bogotá - Unicentro,Tienda física,Jeans,116,121689,14115924,3
+2025-01-13,Bogotá - Unicentro,Tienda física,Camisetas,120,40626,4875120,3
+2025-01-13,Bogotá - Unicentro,Tienda física,Blusas,64,67672,4331008,1
+2025-01-13,Bogotá - Unicentro,Tienda física,Chaquetas,14,156453,2190342,0
+2025-01-13,Bogotá - Unicentro,Tienda física,Vestidos,37,135805,5024785,0
+2025-01-13,Bogotá - Unicentro,Tienda física,Calzado,33,164140,5416620,0
+2025-01-13,Bogotá - Unicentro,Tienda física,Accesorios,53,30689,1626517,1
+2025-01-13,Medellín - Santafé,Tienda física,Jeans,102,116019,11833938,2
+2025-01-13,Medellín - Santafé,Tienda física,Camisetas,110,39897,4388670,3
+2025-01-13,Medellín - Santafé,Tienda física,Blusas,61,71104,4337344,1
+2025-01-13,Medellín - Santafé,Tienda física,Chaquetas,18,152989,2753802,0
+2025-01-13,Medellín - Santafé,Tienda física,Vestidos,9,143087,1287783,0
+2025-01-13,Medellín - Santafé,Tienda física,Calzado,30,154188,4625640,0
+2025-01-13,Medellín - Santafé,Tienda física,Accesorios,5,29200,146000,0
+2025-01-13,Cali - Chipichape,Tienda física,Jeans,112,117755,13188560,3
+2025-01-13,Cali - Chipichape,Tienda física,Camisetas,91,40218,3659838,1
+2025-01-13,Cali - Chipichape,Tienda física,Blusas,51,71464,3644664,1
+2025-01-13,Cali - Chipichape,Tienda física,Chaquetas,31,153774,4766994,0
+2025-01-13,Cali - Chipichape,Tienda física,Vestidos,40,136826,5473040,1
+2025-01-13,Cali - Chipichape,Tienda física,Calzado,24,153580,3685920,0
+2025-01-13,Cali - Chipichape,Tienda física,Accesorios,33,29664,978912,0
+2025-01-13,Barranquilla - Buenavista,Tienda física,Jeans,87,118066,10271742,2
+2025-01-13,Barranquilla - Buenavista,Tienda física,Camisetas,88,38708,3406304,2
+2025-01-13,Barranquilla - Buenavista,Tienda física,Blusas,35,67750,2371250,0
+2025-01-13,Barranquilla - Buenavista,Tienda física,Chaquetas,23,153581,3532363,0
+2025-01-13,Barranquilla - Buenavista,Tienda física,Vestidos,33,136864,4516512,0
+2025-01-13,Barranquilla - Buenavista,Tienda física,Calzado,1,157285,157285,0
+2025-01-13,Barranquilla - Buenavista,Tienda física,Accesorios,2,29604,59208,0
+2025-01-13,Bucaramanga - Cacique,Tienda física,Jeans,73,118126,8623198,1
+2025-01-13,Bucaramanga - Cacique,Tienda física,Camisetas,70,37917,2654190,1
+2025-01-13,Bucaramanga - Cacique,Tienda física,Blusas,41,70460,2888860,1
+2025-01-13,Bucaramanga - Cacique,Tienda física,Chaquetas,32,156074,4994368,0
+2025-01-13,Bucaramanga - Cacique,Tienda física,Vestidos,0,134092,0,0
+2025-01-13,Bucaramanga - Cacique,Tienda física,Calzado,12,155083,1860996,0
+2025-01-13,Bucaramanga - Cacique,Tienda física,Accesorios,14,29748,416472,0
+2025-01-13,Tienda virtual,Online,Jeans,116,122657,14228212,4
+2025-01-13,Tienda virtual,Online,Camisetas,111,39539,4388829,5
+2025-01-13,Tienda virtual,Online,Blusas,51,68934,3515634,2
+2025-01-13,Tienda virtual,Online,Chaquetas,6,160849,965094,0
+2025-01-13,Tienda virtual,Online,Vestidos,34,143449,4877266,1
+2025-01-13,Tienda virtual,Online,Calzado,8,162650,1301200,0
+2025-01-13,Tienda virtual,Online,Accesorios,11,28695,315645,0
+2025-01-20,Bogotá - Andino,Tienda física,Jeans,149,114606,17076294,3
+2025-01-20,Bogotá - Andino,Tienda física,Camisetas,135,40407,5454945,3
+2025-01-20,Bogotá - Andino,Tienda física,Blusas,76,70097,5327372,1
+2025-01-20,Bogotá - Andino,Tienda física,Chaquetas,53,163198,8649494,1
+2025-01-20,Bogotá - Andino,Tienda física,Vestidos,38,137362,5219756,0
+2025-01-20,Bogotá - Andino,Tienda física,Calzado,66,164567,10861422,1
+2025-01-20,Bogotá - Andino,Tienda física,Accesorios,30,29638,889140,0
+2025-01-20,Bogotá - Unicentro,Tienda física,Jeans,131,115782,15167442,3
+2025-01-20,Bogotá - Unicentro,Tienda física,Camisetas,112,39673,4443376,2
+2025-01-20,Bogotá - Unicentro,Tienda física,Blusas,54,66506,3591324,1
+2025-01-20,Bogotá - Unicentro,Tienda física,Chaquetas,22,152727,3359994,0
+2025-01-20,Bogotá - Unicentro,Tienda física,Vestidos,18,141728,2551104,0
+2025-01-20,Bogotá - Unicentro,Tienda física,Calzado,39,152411,5944029,1
+2025-01-20,Bogotá - Unicentro,Tienda física,Accesorios,25,29051,726275,0
+2025-01-20,Medellín - Santafé,Tienda física,Jeans,92,121760,11201920,2
+2025-01-20,Medellín - Santafé,Tienda física,Camisetas,120,38381,4605720,3
+2025-01-20,Medellín - Santafé,Tienda física,Blusas,37,66905,2475485,0
+2025-01-20,Medellín - Santafé,Tienda física,Chaquetas,22,160708,3535576,0
+2025-01-20,Medellín - Santafé,Tienda física,Vestidos,52,140005,7280260,1
+2025-01-20,Medellín - Santafé,Tienda física,Calzado,43,152976,6577968,1
+2025-01-20,Medellín - Santafé,Tienda física,Accesorios,41,29490,1209090,0
+2025-01-20,Cali - Chipichape,Tienda física,Jeans,110,119209,13112990,3
+2025-01-20,Cali - Chipichape,Tienda física,Camisetas,93,39586,3681498,2
+2025-01-20,Cali - Chipichape,Tienda física,Blusas,53,67017,3551901,1
+2025-01-20,Cali - Chipichape,Tienda física,Chaquetas,34,155896,5300464,0
+2025-01-20,Cali - Chipichape,Tienda física,Vestidos,26,141405,3676530,0
+2025-01-20,Cali - Chipichape,Tienda física,Calzado,19,156343,2970517,0
+2025-01-20,Cali - Chipichape,Tienda física,Accesorios,16,29004,464064,0
+2025-01-20,Barranquilla - Buenavista,Tienda física,Jeans,89,115722,10299258,2
+2025-01-20,Barranquilla - Buenavista,Tienda física,Camisetas,69,40888,2821272,1
+2025-01-20,Barranquilla - Buenavista,Tienda física,Blusas,47,69173,3251131,1
+2025-01-20,Barranquilla - Buenavista,Tienda física,Chaquetas,12,156933,1883196,0
+2025-01-20,Barranquilla - Buenavista,Tienda física,Vestidos,8,136740,1093920,0
+2025-01-20,Barranquilla - Buenavista,Tienda física,Calzado,0,160945,0,0
+2025-01-20,Barranquilla - Buenavista,Tienda física,Accesorios,5,28535,142675,0
+2025-01-20,Bucaramanga - Cacique,Tienda física,Jeans,81,114583,9281223,2
+2025-01-20,Bucaramanga - Cacique,Tienda física,Camisetas,70,38174,2672180,1
+2025-01-20,Bucaramanga - Cacique,Tienda física,Blusas,42,71273,2993466,1
+2025-01-20,Bucaramanga - Cacique,Tienda física,Chaquetas,18,155653,2801754,0
+2025-01-20,Bucaramanga - Cacique,Tienda física,Vestidos,26,134668,3501368,0
+2025-01-20,Bucaramanga - Cacique,Tienda física,Calzado,17,164346,2793882,0
+2025-01-20,Bucaramanga - Cacique,Tienda física,Accesorios,43,28989,1246527,1
+2025-01-20,Tienda virtual,Online,Jeans,126,113915,14353290,4
+2025-01-20,Tienda virtual,Online,Camisetas,132,39420,5203440,5
+2025-01-20,Tienda virtual,Online,Blusas,65,66432,4318080,1
+2025-01-20,Tienda virtual,Online,Chaquetas,48,153053,7346544,1
+2025-01-20,Tienda virtual,Online,Vestidos,33,136310,4498230,0
+2025-01-20,Tienda virtual,Online,Calzado,35,159395,5578825,1
+2025-01-20,Tienda virtual,Online,Accesorios,21,30117,632457,1
+2025-01-27,Bogotá - Andino,Tienda física,Jeans,123,117641,14469843,2
+2025-01-27,Bogotá - Andino,Tienda física,Camisetas,138,40216,5549808,3
+2025-01-27,Bogotá - Andino,Tienda física,Blusas,65,66649,4332185,1
+2025-01-27,Bogotá - Andino,Tienda física,Chaquetas,50,161292,8064600,1
+2025-01-27,Bogotá - Andino,Tienda física,Vestidos,22,134464,2958208,0
+2025-01-27,Bogotá - Andino,Tienda física,Calzado,14,162198,2270772,0
+2025-01-27,Bogotá - Andino,Tienda física,Accesorios,22,29802,655644,0
+2025-01-27,Bogotá - Unicentro,Tienda física,Jeans,113,116110,13120430,2
+2025-01-27,Bogotá - Unicentro,Tienda física,Camisetas,96,38329,3679584,2
+2025-01-27,Bogotá - Unicentro,Tienda física,Blusas,74,69528,5145072,1
+2025-01-27,Bogotá - Unicentro,Tienda física,Chaquetas,46,159915,7356090,1
+2025-01-27,Bogotá - Unicentro,Tienda física,Vestidos,27,141832,3829464,0
+2025-01-27,Bogotá - Unicentro,Tienda física,Calzado,32,158339,5066848,0
+2025-01-27,Bogotá - Unicentro,Tienda física,Accesorios,17,30167,512839,0
+2025-01-27,Medellín - Santafé,Tienda física,Jeans,112,114619,12837328,2
+2025-01-27,Medellín - Santafé,Tienda física,Camisetas,107,40266,4308462,3
+2025-01-27,Medellín - Santafé,Tienda física,Blusas,46,69167,3181682,1
+2025-01-27,Medellín - Santafé,Tienda física,Chaquetas,12,161716,1940592,0
+2025-01-27,Medellín - Santafé,Tienda física,Vestidos,29,140098,4062842,0
+2025-01-27,Medellín - Santafé,Tienda física,Calzado,36,161412,5810832,0
+2025-01-27,Medellín - Santafé,Tienda física,Accesorios,26,29763,773838,0
+2025-01-27,Cali - Chipichape,Tienda física,Jeans,109,120350,13118150,2
+2025-01-27,Cali - Chipichape,Tienda física,Camisetas,97,40061,3885917,2
+2025-01-27,Cali - Chipichape,Tienda física,Blusas,33,69012,2277396,0
+2025-01-27,Cali - Chipichape,Tienda física,Chaquetas,25,163336,4083400,0
+2025-01-27,Cali - Chipichape,Tienda física,Vestidos,51,133100,6788100,1
+2025-01-27,Cali - Chipichape,Tienda física,Calzado,23,162393,3735039,0
+2025-01-27,Cali - Chipichape,Tienda física,Accesorios,7,28906,202342,0
+2025-01-27,Barranquilla - Buenavista,Tienda física,Jeans,93,115926,10781118,2
+2025-01-27,Barranquilla - Buenavista,Tienda física,Camisetas,93,40946,3807978,1
+2025-01-27,Barranquilla - Buenavista,Tienda física,Blusas,53,70991,3762523,1
+2025-01-27,Barranquilla - Buenavista,Tienda física,Chaquetas,38,154864,5884832,1
+2025-01-27,Barranquilla - Buenavista,Tienda física,Vestidos,8,138345,1106760,0
+2025-01-27,Barranquilla - Buenavista,Tienda física,Calzado,38,157671,5991498,0
+2025-01-27,Barranquilla - Buenavista,Tienda física,Accesorios,15,28741,431115,0
+2025-01-27,Bucaramanga - Cacique,Tienda física,Jeans,66,113921,7518786,1
+2025-01-27,Bucaramanga - Cacique,Tienda física,Camisetas,91,40583,3693053,1
+2025-01-27,Bucaramanga - Cacique,Tienda física,Blusas,52,71446,3715192,1
+2025-01-27,Bucaramanga - Cacique,Tienda física,Chaquetas,11,156666,1723326,0
+2025-01-27,Bucaramanga - Cacique,Tienda física,Vestidos,33,136942,4519086,0
+2025-01-27,Bucaramanga - Cacique,Tienda física,Calzado,20,155424,3108480,0
+2025-01-27,Bucaramanga - Cacique,Tienda física,Accesorios,30,29088,872640,0
+2025-01-27,Tienda virtual,Online,Jeans,144,116296,16746624,4
+2025-01-27,Tienda virtual,Online,Camisetas,114,39096,4456944,6
+2025-01-27,Tienda virtual,Online,Blusas,60,71349,4280940,3
+2025-01-27,Tienda virtual,Online,Chaquetas,16,163938,2623008,0
+2025-01-27,Tienda virtual,Online,Vestidos,11,140958,1550538,0
+2025-01-27,Tienda virtual,Online,Calzado,33,161533,5330589,1
+2025-01-27,Tienda virtual,Online,Accesorios,8,29089,232712,0
+2025-02-03,Bogotá - Andino,Tienda física,Jeans,137,118434,16225458,3
+2025-02-03,Bogotá - Andino,Tienda física,Camisetas,120,38855,4662600,3
+2025-02-03,Bogotá - Andino,Tienda física,Blusas,70,70073,4905110,1
+2025-02-03,Bogotá - Andino,Tienda física,Chaquetas,33,159034,5248122,0
+2025-02-03,Bogotá - Andino,Tienda física,Vestidos,34,135231,4597854,0
+2025-02-03,Bogotá - Andino,Tienda física,Calzado,41,158263,6488783,0
+2025-02-03,Bogotá - Andino,Tienda física,Accesorios,55,29481,1621455,1
+2025-02-03,Bogotá - Unicentro,Tienda física,Jeans,90,115750,10417500,1
+2025-02-03,Bogotá - Unicentro,Tienda física,Camisetas,102,38668,3944136,2
+2025-02-03,Bogotá - Unicentro,Tienda física,Blusas,57,69590,3966630,1
+2025-02-03,Bogotá - Unicentro,Tienda física,Chaquetas,30,157199,4715970,0
+2025-02-03,Bogotá - Unicentro,Tienda física,Vestidos,14,137122,1919708,0
+2025-02-03,Bogotá - Unicentro,Tienda física,Calzado,39,164283,6407037,0
+2025-02-03,Bogotá - Unicentro,Tienda física,Accesorios,22,29609,651398,0
+2025-02-03,Medellín - Santafé,Tienda física,Jeans,114,116504,13281456,2
+2025-02-03,Medellín - Santafé,Tienda física,Camisetas,95,39181,3722195,2
+2025-02-03,Medellín - Santafé,Tienda física,Blusas,73,71286,5203878,1
+2025-02-03,Medellín - Santafé,Tienda física,Chaquetas,22,152317,3350974,0
+2025-02-03,Medellín - Santafé,Tienda física,Vestidos,36,139476,5021136,0
+2025-02-03,Medellín - Santafé,Tienda física,Calzado,20,156913,3138260,0
+2025-02-03,Medellín - Santafé,Tienda física,Accesorios,28,30730,860440,0
+2025-02-03,Cali - Chipichape,Tienda física,Jeans,73,114950,8391350,1
+2025-02-03,Cali - Chipichape,Tienda física,Camisetas,70,40910,2863700,1
+2025-02-03,Cali - Chipichape,Tienda física,Blusas,41,70024,2870984,1
+2025-02-03,Cali - Chipichape,Tienda física,Chaquetas,10,152410,1524100,0
+2025-02-03,Cali - Chipichape,Tienda física,Vestidos,26,135507,3523182,0
+2025-02-03,Cali - Chipichape,Tienda física,Calzado,18,153541,2763738,0
+2025-02-03,Cali - Chipichape,Tienda física,Accesorios,7,29927,209489,0
+2025-02-03,Barranquilla - Buenavista,Tienda física,Jeans,88,118935,10466280,2
+2025-02-03,Barranquilla - Buenavista,Tienda física,Camisetas,82,39143,3209726,1
+2025-02-03,Barranquilla - Buenavista,Tienda física,Blusas,38,68091,2587458,0
+2025-02-03,Barranquilla - Buenavista,Tienda física,Chaquetas,21,164171,3447591,0
+2025-02-03,Barranquilla - Buenavista,Tienda física,Vestidos,29,135532,3930428,0
+2025-02-03,Barranquilla - Buenavista,Tienda física,Calzado,13,164193,2134509,0
+2025-02-03,Barranquilla - Buenavista,Tienda física,Accesorios,13,29596,384748,0
+2025-02-03,Bucaramanga - Cacique,Tienda física,Jeans,73,117933,8609109,1
+2025-02-03,Bucaramanga - Cacique,Tienda física,Camisetas,52,38628,2008656,1
+2025-02-03,Bucaramanga - Cacique,Tienda física,Blusas,9,68295,614655,0
+2025-02-03,Bucaramanga - Cacique,Tienda física,Chaquetas,15,162101,2431515,0
+2025-02-03,Bucaramanga - Cacique,Tienda física,Vestidos,9,138555,1246995,0
+2025-02-03,Bucaramanga - Cacique,Tienda física,Calzado,29,162394,4709426,0
+2025-02-03,Bucaramanga - Cacique,Tienda física,Accesorios,9,28934,260406,0
+2025-02-03,Tienda virtual,Online,Jeans,114,118660,13527240,3
+2025-02-03,Tienda virtual,Online,Camisetas,143,38617,5522231,5
+2025-02-03,Tienda virtual,Online,Blusas,42,67223,2823366,1
+2025-02-03,Tienda virtual,Online,Chaquetas,7,154629,1082403,0
+2025-02-03,Tienda virtual,Online,Vestidos,31,133578,4140918,1
+2025-02-03,Tienda virtual,Online,Calzado,35,163394,5718790,1
+2025-02-03,Tienda virtual,Online,Accesorios,15,30633,459495,0
+2025-02-10,Bogotá - Andino,Tienda física,Jeans,90,115684,10411560,2
+2025-02-10,Bogotá - Andino,Tienda física,Camisetas,123,40025,4923075,2
+2025-02-10,Bogotá - Andino,Tienda física,Blusas,58,68495,3972710,1
+2025-02-10,Bogotá - Andino,Tienda física,Chaquetas,35,155484,5441940,0
+2025-02-10,Bogotá - Andino,Tienda física,Vestidos,31,143599,4451569,0
+2025-02-10,Bogotá - Andino,Tienda física,Calzado,43,156467,6728081,1
+2025-02-10,Bogotá - Andino,Tienda física,Accesorios,20,30371,607420,0
+2025-02-10,Bogotá - Unicentro,Tienda física,Jeans,126,117480,14802480,3
+2025-02-10,Bogotá - Unicentro,Tienda física,Camisetas,109,38521,4198789,2
+2025-02-10,Bogotá - Unicentro,Tienda física,Blusas,55,68702,3778610,1
+2025-02-10,Bogotá - Unicentro,Tienda física,Chaquetas,28,161712,4527936,0
+2025-02-10,Bogotá - Unicentro,Tienda física,Vestidos,30,143202,4296060,0
+2025-02-10,Bogotá - Unicentro,Tienda física,Calzado,31,161464,5005384,0
+2025-02-10,Bogotá - Unicentro,Tienda física,Accesorios,13,30695,399035,0
+2025-02-10,Medellín - Santafé,Tienda física,Jeans,116,116419,13504604,3
+2025-02-10,Medellín - Santafé,Tienda física,Camisetas,97,37917,3677949,2
+2025-02-10,Medellín - Santafé,Tienda física,Blusas,59,71529,4220211,1
+2025-02-10,Medellín - Santafé,Tienda física,Chaquetas,31,154896,4801776,0
+2025-02-10,Medellín - Santafé,Tienda física,Vestidos,24,143613,3446712,0
+2025-02-10,Medellín - Santafé,Tienda física,Calzado,22,157404,3462888,0
+2025-02-10,Medellín - Santafé,Tienda física,Accesorios,24,30625,735000,0
+2025-02-10,Cali - Chipichape,Tienda física,Jeans,100,121796,12179600,2
+2025-02-10,Cali - Chipichape,Tienda física,Camisetas,69,39843,2749167,1
+2025-02-10,Cali - Chipichape,Tienda física,Blusas,39,70779,2760381,0
+2025-02-10,Cali - Chipichape,Tienda física,Chaquetas,35,154429,5405015,0
+2025-02-10,Cali - Chipichape,Tienda física,Vestidos,22,133284,2932248,0
+2025-02-10,Cali - Chipichape,Tienda física,Calzado,29,156072,4526088,0
+2025-02-10,Cali - Chipichape,Tienda física,Accesorios,42,29038,1219596,0
+2025-02-10,Barranquilla - Buenavista,Tienda física,Jeans,61,114829,7004569,1
+2025-02-10,Barranquilla - Buenavista,Tienda física,Camisetas,76,38652,2937552,1
+2025-02-10,Barranquilla - Buenavista,Tienda física,Blusas,27,69873,1886571,0
+2025-02-10,Barranquilla - Buenavista,Tienda física,Chaquetas,22,160404,3528888,0
+2025-02-10,Barranquilla - Buenavista,Tienda física,Vestidos,0,142316,0,0
+2025-02-10,Barranquilla - Buenavista,Tienda física,Calzado,12,161346,1936152,0
+2025-02-10,Barranquilla - Buenavista,Tienda física,Accesorios,9,28996,260964,0
+2025-02-10,Bucaramanga - Cacique,Tienda física,Jeans,85,119451,10153335,1
+2025-02-10,Bucaramanga - Cacique,Tienda física,Camisetas,86,39169,3368534,2
+2025-02-10,Bucaramanga - Cacique,Tienda física,Blusas,24,70925,1702200,0
+2025-02-10,Bucaramanga - Cacique,Tienda física,Chaquetas,18,164581,2962458,0
+2025-02-10,Bucaramanga - Cacique,Tienda física,Vestidos,0,142312,0,0
+2025-02-10,Bucaramanga - Cacique,Tienda física,Calzado,22,152421,3353262,0
+2025-02-10,Bucaramanga - Cacique,Tienda física,Accesorios,17,30732,522444,0
+2025-02-10,Tienda virtual,Online,Jeans,128,122827,15721856,4
+2025-02-10,Tienda virtual,Online,Camisetas,123,38734,4764282,6
+2025-02-10,Tienda virtual,Online,Blusas,47,71693,3369571,1
+2025-02-10,Tienda virtual,Online,Chaquetas,19,154689,2939091,0
+2025-02-10,Tienda virtual,Online,Vestidos,19,134487,2555253,0
+2025-02-10,Tienda virtual,Online,Calzado,32,160240,5127680,0
+2025-02-10,Tienda virtual,Online,Accesorios,36,28432,1023552,1
+2025-02-17,Bogotá - Andino,Tienda física,Jeans,128,116899,14963072,2
+2025-02-17,Bogotá - Andino,Tienda física,Camisetas,116,40443,4691388,2
+2025-02-17,Bogotá - Andino,Tienda física,Blusas,66,68615,4528590,1
+2025-02-17,Bogotá - Andino,Tienda física,Chaquetas,37,160081,5922997,0
+2025-02-17,Bogotá - Andino,Tienda física,Vestidos,40,137491,5499640,0
+2025-02-17,Bogotá - Andino,Tienda física,Calzado,51,155839,7947789,1
+2025-02-17,Bogotá - Andino,Tienda física,Accesorios,16,29259,468144,0
+2025-02-17,Bogotá - Unicentro,Tienda física,Jeans,127,122194,15518638,3
+2025-02-17,Bogotá - Unicentro,Tienda física,Camisetas,100,40228,4022800,2
+2025-02-17,Bogotá - Unicentro,Tienda física,Blusas,58,66437,3853346,1
+2025-02-17,Bogotá - Unicentro,Tienda física,Chaquetas,10,157101,1571010,0
+2025-02-17,Bogotá - Unicentro,Tienda física,Vestidos,36,138063,4970268,0
+2025-02-17,Bogotá - Unicentro,Tienda física,Calzado,45,160100,7204500,1
+2025-02-17,Bogotá - Unicentro,Tienda física,Accesorios,20,28617,572340,0
+2025-02-17,Medellín - Santafé,Tienda física,Jeans,98,115304,11299792,2
+2025-02-17,Medellín - Santafé,Tienda física,Camisetas,111,39568,4392048,3
+2025-02-17,Medellín - Santafé,Tienda física,Blusas,61,70905,4325205,1
+2025-02-17,Medellín - Santafé,Tienda física,Chaquetas,37,154429,5713873,0
+2025-02-17,Medellín - Santafé,Tienda física,Vestidos,55,138307,7606885,1
+2025-02-17,Medellín - Santafé,Tienda física,Calzado,17,163752,2783784,0
+2025-02-17,Medellín - Santafé,Tienda física,Accesorios,31,30377,941687,0
+2025-02-17,Cali - Chipichape,Tienda física,Jeans,85,121442,10322570,1
+2025-02-17,Cali - Chipichape,Tienda física,Camisetas,69,40551,2798019,1
+2025-02-17,Cali - Chipichape,Tienda física,Blusas,57,67624,3854568,1
+2025-02-17,Cali - Chipichape,Tienda física,Chaquetas,13,153479,1995227,0
+2025-02-17,Cali - Chipichape,Tienda física,Vestidos,20,141017,2820340,0
+2025-02-17,Cali - Chipichape,Tienda física,Calzado,40,161594,6463760,0
+2025-02-17,Cali - Chipichape,Tienda física,Accesorios,19,30409,577771,0
+2025-02-17,Barranquilla - Buenavista,Tienda física,Jeans,72,119919,8634168,1
+2025-02-17,Barranquilla - Buenavista,Tienda física,Camisetas,70,39245,2747150,1
+2025-02-17,Barranquilla - Buenavista,Tienda física,Blusas,23,68903,1584769,0
+2025-02-17,Barranquilla - Buenavista,Tienda física,Chaquetas,30,152204,4566120,0
+2025-02-17,Barranquilla - Buenavista,Tienda física,Vestidos,11,141450,1555950,0
+2025-02-17,Barranquilla - Buenavista,Tienda física,Calzado,23,157767,3628641,0
+2025-02-17,Barranquilla - Buenavista,Tienda física,Accesorios,8,28712,229696,0
+2025-02-17,Bucaramanga - Cacique,Tienda física,Jeans,71,114784,8149664,1
+2025-02-17,Bucaramanga - Cacique,Tienda física,Camisetas,62,39936,2476032,1
+2025-02-17,Bucaramanga - Cacique,Tienda física,Blusas,32,70506,2256192,0
+2025-02-17,Bucaramanga - Cacique,Tienda física,Chaquetas,14,158351,2216914,0
+2025-02-17,Bucaramanga - Cacique,Tienda física,Vestidos,16,143547,2296752,0
+2025-02-17,Bucaramanga - Cacique,Tienda física,Calzado,43,161269,6934567,1
+2025-02-17,Bucaramanga - Cacique,Tienda física,Accesorios,0,28868,0,0
+2025-02-17,Tienda virtual,Online,Jeans,92,122691,11287572,2
+2025-02-17,Tienda virtual,Online,Camisetas,116,40421,4688836,6
+2025-02-17,Tienda virtual,Online,Blusas,67,70633,4732411,1
+2025-02-17,Tienda virtual,Online,Chaquetas,37,163373,6044801,1
+2025-02-17,Tienda virtual,Online,Vestidos,31,138525,4294275,1
+2025-02-17,Tienda virtual,Online,Calzado,26,154569,4018794,0
+2025-02-17,Tienda virtual,Online,Accesorios,9,28493,256437,0
+2025-02-24,Bogotá - Andino,Tienda física,Jeans,131,115451,15124081,3
+2025-02-24,Bogotá - Andino,Tienda física,Camisetas,112,38443,4305616,3
+2025-02-24,Bogotá - Andino,Tienda física,Blusas,38,67048,2547824,0
+2025-02-24,Bogotá - Andino,Tienda física,Chaquetas,27,163071,4402917,0
+2025-02-24,Bogotá - Andino,Tienda física,Vestidos,22,139396,3066712,0
+2025-02-24,Bogotá - Andino,Tienda física,Calzado,65,159961,10397465,1
+2025-02-24,Bogotá - Andino,Tienda física,Accesorios,45,30313,1364085,1
+2025-02-24,Bogotá - Unicentro,Tienda física,Jeans,129,117360,15139440,3
+2025-02-24,Bogotá - Unicentro,Tienda física,Camisetas,104,39316,4088864,2
+2025-02-24,Bogotá - Unicentro,Tienda física,Blusas,52,70989,3691428,1
+2025-02-24,Bogotá - Unicentro,Tienda física,Chaquetas,26,160082,4162132,0
+2025-02-24,Bogotá - Unicentro,Tienda física,Vestidos,11,136404,1500444,0
+2025-02-24,Bogotá - Unicentro,Tienda física,Calzado,21,152337,3199077,0
+2025-02-24,Bogotá - Unicentro,Tienda física,Accesorios,9,29631,266679,0
+2025-02-24,Medellín - Santafé,Tienda física,Jeans,100,115171,11517100,2
+2025-02-24,Medellín - Santafé,Tienda física,Camisetas,99,37913,3753387,2
+2025-02-24,Medellín - Santafé,Tienda física,Blusas,48,66999,3215952,1
+2025-02-24,Medellín - Santafé,Tienda física,Chaquetas,31,159440,4942640,0
+2025-02-24,Medellín - Santafé,Tienda física,Vestidos,41,139888,5735408,1
+2025-02-24,Medellín - Santafé,Tienda física,Calzado,47,155020,7285940,1
+2025-02-24,Medellín - Santafé,Tienda física,Accesorios,39,28634,1116726,1
+2025-02-24,Cali - Chipichape,Tienda física,Jeans,108,117760,12718080,2
+2025-02-24,Cali - Chipichape,Tienda física,Camisetas,73,37941,2769693,1
+2025-02-24,Cali - Chipichape,Tienda física,Blusas,33,70015,2310495,0
+2025-02-24,Cali - Chipichape,Tienda física,Chaquetas,20,163893,3277860,0
+2025-02-24,Cali - Chipichape,Tienda física,Vestidos,22,133397,2934734,0
+2025-02-24,Cali - Chipichape,Tienda física,Calzado,51,157098,8011998,1
+2025-02-24,Cali - Chipichape,Tienda física,Accesorios,35,28434,995190,0
+2025-02-24,Barranquilla - Buenavista,Tienda física,Jeans,92,122930,11309560,1
+2025-02-24,Barranquilla - Buenavista,Tienda física,Camisetas,84,39523,3319932,2
+2025-02-24,Barranquilla - Buenavista,Tienda física,Blusas,55,70953,3902415,1
+2025-02-24,Barranquilla - Buenavista,Tienda física,Chaquetas,18,152525,2745450,0
+2025-02-24,Barranquilla - Buenavista,Tienda física,Vestidos,29,141668,4108372,0
+2025-02-24,Barranquilla - Buenavista,Tienda física,Calzado,45,161437,7264665,1
+2025-02-24,Barranquilla - Buenavista,Tienda física,Accesorios,15,30179,452685,0
+2025-02-24,Bucaramanga - Cacique,Tienda física,Jeans,71,116133,8245443,1
+2025-02-24,Bucaramanga - Cacique,Tienda física,Camisetas,71,38975,2767225,1
+2025-02-24,Bucaramanga - Cacique,Tienda física,Blusas,25,70384,1759600,0
+2025-02-24,Bucaramanga - Cacique,Tienda física,Chaquetas,0,158989,0,0
+2025-02-24,Bucaramanga - Cacique,Tienda física,Vestidos,20,135874,2717480,0
+2025-02-24,Bucaramanga - Cacique,Tienda física,Calzado,4,164251,657004,0
+2025-02-24,Bucaramanga - Cacique,Tienda física,Accesorios,13,29027,377351,0
+2025-02-24,Tienda virtual,Online,Jeans,121,121040,14645840,6
+2025-02-24,Tienda virtual,Online,Camisetas,114,40714,4641396,3
+2025-02-24,Tienda virtual,Online,Blusas,46,67742,3116132,2
+2025-02-24,Tienda virtual,Online,Chaquetas,20,160414,3208280,1
+2025-02-24,Tienda virtual,Online,Vestidos,15,138159,2072385,0
+2025-02-24,Tienda virtual,Online,Calzado,25,157497,3937425,1
+2025-02-24,Tienda virtual,Online,Accesorios,0,29769,0,0
+2025-03-03,Bogotá - Andino,Tienda física,Jeans,153,114651,17541603,4
+2025-03-03,Bogotá - Andino,Tienda física,Camisetas,156,38366,5985096,3
+2025-03-03,Bogotá - Andino,Tienda física,Blusas,91,68333,6218303,1
+2025-03-03,Bogotá - Andino,Tienda física,Chaquetas,57,152272,8679504,1
+2025-03-03,Bogotá - Andino,Tienda física,Vestidos,28,140705,3939740,0
+2025-03-03,Bogotá - Andino,Tienda física,Calzado,24,152746,3665904,0
+2025-03-03,Bogotá - Andino,Tienda física,Accesorios,10,30365,303650,0
+2025-03-03,Bogotá - Unicentro,Tienda física,Jeans,145,114537,16607865,4
+2025-03-03,Bogotá - Unicentro,Tienda física,Camisetas,144,38246,5507424,3
+2025-03-03,Bogotá - Unicentro,Tienda física,Blusas,45,67031,3016395,0
+2025-03-03,Bogotá - Unicentro,Tienda física,Chaquetas,46,160017,7360782,1
+2025-03-03,Bogotá - Unicentro,Tienda física,Vestidos,12,139973,1679676,0
+2025-03-03,Bogotá - Unicentro,Tienda física,Calzado,38,161593,6140534,0
+2025-03-03,Bogotá - Unicentro,Tienda física,Accesorios,24,29168,700032,0
+2025-03-03,Medellín - Santafé,Tienda física,Jeans,132,116615,15393180,3
+2025-03-03,Medellín - Santafé,Tienda física,Camisetas,116,39079,4533164,2
+2025-03-03,Medellín - Santafé,Tienda física,Blusas,71,71165,5052715,1
+2025-03-03,Medellín - Santafé,Tienda física,Chaquetas,29,152301,4416729,0
+2025-03-03,Medellín - Santafé,Tienda física,Vestidos,9,136786,1231074,0
+2025-03-03,Medellín - Santafé,Tienda física,Calzado,40,158785,6351400,0
+2025-03-03,Medellín - Santafé,Tienda física,Accesorios,23,30365,698395,0
+2025-03-03,Cali - Chipichape,Tienda física,Jeans,103,113917,11733451,2
+2025-03-03,Cali - Chipichape,Tienda física,Camisetas,102,37918,3867636,2
+2025-03-03,Cali - Chipichape,Tienda física,Blusas,16,69153,1106448,0
+2025-03-03,Cali - Chipichape,Tienda física,Chaquetas,34,156346,5315764,0
+2025-03-03,Cali - Chipichape,Tienda física,Vestidos,37,135821,5025377,1
+2025-03-03,Cali - Chipichape,Tienda física,Calzado,26,160852,4182152,0
+2025-03-03,Cali - Chipichape,Tienda física,Accesorios,26,28667,745342,0
+2025-03-03,Barranquilla - Buenavista,Tienda física,Jeans,114,120592,13747488,3
+2025-03-03,Barranquilla - Buenavista,Tienda física,Camisetas,100,39909,3990900,2
+2025-03-03,Barranquilla - Buenavista,Tienda física,Blusas,35,71384,2498440,0
+2025-03-03,Barranquilla - Buenavista,Tienda física,Chaquetas,32,163270,5224640,0
+2025-03-03,Barranquilla - Buenavista,Tienda física,Vestidos,25,142991,3574775,0
+2025-03-03,Barranquilla - Buenavista,Tienda física,Calzado,34,156757,5329738,0
+2025-03-03,Barranquilla - Buenavista,Tienda física,Accesorios,17,29676,504492,0
+2025-03-03,Bucaramanga - Cacique,Tienda física,Jeans,93,121127,11264811,2
+2025-03-03,Bucaramanga - Cacique,Tienda física,Camisetas,68,38400,2611200,1
+2025-03-03,Bucaramanga - Cacique,Tienda física,Blusas,46,70107,3224922,1
+2025-03-03,Bucaramanga - Cacique,Tienda física,Chaquetas,27,161798,4368546,0
+2025-03-03,Bucaramanga - Cacique,Tienda física,Vestidos,30,134315,4029450,0
+2025-03-03,Bucaramanga - Cacique,Tienda física,Calzado,28,154355,4321940,0
+2025-03-03,Bucaramanga - Cacique,Tienda física,Accesorios,7,30086,210602,0
+2025-03-03,Tienda virtual,Online,Jeans,143,116279,16627897,4
+2025-03-03,Tienda virtual,Online,Camisetas,135,39571,5342085,3
+2025-03-03,Tienda virtual,Online,Blusas,61,71858,4383338,2
+2025-03-03,Tienda virtual,Online,Chaquetas,43,153207,6587901,2
+2025-03-03,Tienda virtual,Online,Vestidos,41,143916,5900556,2
+2025-03-03,Tienda virtual,Online,Calzado,44,161285,7096540,1
+2025-03-03,Tienda virtual,Online,Accesorios,28,28660,802480,0
+2025-03-10,Bogotá - Andino,Tienda física,Jeans,166,117629,19526414,3
+2025-03-10,Bogotá - Andino,Tienda física,Camisetas,122,40118,4894396,3
+2025-03-10,Bogotá - Andino,Tienda física,Blusas,82,69941,5735162,2
+2025-03-10,Bogotá - Andino,Tienda física,Chaquetas,50,157082,7854100,1
+2025-03-10,Bogotá - Andino,Tienda física,Vestidos,47,143067,6724149,1
+2025-03-10,Bogotá - Andino,Tienda física,Calzado,22,157292,3460424,0
+2025-03-10,Bogotá - Andino,Tienda física,Accesorios,16,30132,482112,0
+2025-03-10,Bogotá - Unicentro,Tienda física,Jeans,131,122081,15992611,3
+2025-03-10,Bogotá - Unicentro,Tienda física,Camisetas,101,39952,4035152,2
+2025-03-10,Bogotá - Unicentro,Tienda física,Blusas,53,66952,3548456,1
+2025-03-10,Bogotá - Unicentro,Tienda física,Chaquetas,49,161913,7933737,1
+2025-03-10,Bogotá - Unicentro,Tienda física,Vestidos,23,137645,3165835,0
+2025-03-10,Bogotá - Unicentro,Tienda física,Calzado,27,159856,4316112,0
+2025-03-10,Bogotá - Unicentro,Tienda física,Accesorios,8,28842,230736,0
+2025-03-10,Medellín - Santafé,Tienda física,Jeans,98,121369,11894162,2
+2025-03-10,Medellín - Santafé,Tienda física,Camisetas,82,38026,3118132,2
+2025-03-10,Medellín - Santafé,Tienda física,Blusas,59,67304,3970936,1
+2025-03-10,Medellín - Santafé,Tienda física,Chaquetas,46,153198,7047108,1
+2025-03-10,Medellín - Santafé,Tienda física,Vestidos,23,138960,3196080,0
+2025-03-10,Medellín - Santafé,Tienda física,Calzado,15,162509,2437635,0
+2025-03-10,Medellín - Santafé,Tienda física,Accesorios,19,29386,558334,0
+2025-03-10,Cali - Chipichape,Tienda física,Jeans,111,117669,13061259,3
+2025-03-10,Cali - Chipichape,Tienda física,Camisetas,117,38295,4480515,3
+2025-03-10,Cali - Chipichape,Tienda física,Blusas,47,67939,3193133,1
+2025-03-10,Cali - Chipichape,Tienda física,Chaquetas,31,152075,4714325,0
+2025-03-10,Cali - Chipichape,Tienda física,Vestidos,8,136845,1094760,0
+2025-03-10,Cali - Chipichape,Tienda física,Calzado,37,154775,5726675,1
+2025-03-10,Cali - Chipichape,Tienda física,Accesorios,31,28928,896768,0
+2025-03-10,Barranquilla - Buenavista,Tienda física,Jeans,90,117664,10589760,1
+2025-03-10,Barranquilla - Buenavista,Tienda física,Camisetas,104,40489,4210856,2
+2025-03-10,Barranquilla - Buenavista,Tienda física,Blusas,60,69028,4141680,1
+2025-03-10,Barranquilla - Buenavista,Tienda física,Chaquetas,30,156422,4692660,0
+2025-03-10,Barranquilla - Buenavista,Tienda física,Vestidos,53,142068,7529604,1
+2025-03-10,Barranquilla - Buenavista,Tienda física,Calzado,15,158918,2383770,0
+2025-03-10,Barranquilla - Buenavista,Tienda física,Accesorios,18,30399,547182,0
+2025-03-10,Bucaramanga - Cacique,Tienda física,Jeans,85,117513,9988605,1
+2025-03-10,Bucaramanga - Cacique,Tienda física,Camisetas,67,39265,2630755,1
+2025-03-10,Bucaramanga - Cacique,Tienda física,Blusas,56,67977,3806712,1
+2025-03-10,Bucaramanga - Cacique,Tienda física,Chaquetas,21,155765,3271065,0
+2025-03-10,Bucaramanga - Cacique,Tienda física,Vestidos,3,140283,420849,0
+2025-03-10,Bucaramanga - Cacique,Tienda física,Calzado,28,163785,4585980,0
+2025-03-10,Bucaramanga - Cacique,Tienda física,Accesorios,34,30571,1039414,0
+2025-03-10,Tienda virtual,Online,Jeans,147,115251,16941897,7
+2025-03-10,Tienda virtual,Online,Camisetas,128,37941,4856448,7
+2025-03-10,Tienda virtual,Online,Blusas,63,70073,4414599,1
+2025-03-10,Tienda virtual,Online,Chaquetas,42,154893,6505506,2
+2025-03-10,Tienda virtual,Online,Vestidos,36,136782,4924152,0
+2025-03-10,Tienda virtual,Online,Calzado,54,154052,8318808,3
+2025-03-10,Tienda virtual,Online,Accesorios,11,29860,328460,0
+2025-03-17,Bogotá - Andino,Tienda física,Jeans,137,121464,16640568,3
+2025-03-17,Bogotá - Andino,Tienda física,Camisetas,117,38535,4508595,3
+2025-03-17,Bogotá - Andino,Tienda física,Blusas,50,68857,3442850,1
+2025-03-17,Bogotá - Andino,Tienda física,Chaquetas,36,159005,5724180,0
+2025-03-17,Bogotá - Andino,Tienda física,Vestidos,35,138423,4844805,0
+2025-03-17,Bogotá - Andino,Tienda física,Calzado,46,157880,7262480,0
+2025-03-17,Bogotá - Andino,Tienda física,Accesorios,10,29695,296950,0
+2025-03-17,Bogotá - Unicentro,Tienda física,Jeans,129,113968,14701872,3
+2025-03-17,Bogotá - Unicentro,Tienda física,Camisetas,104,40028,4162912,2
+2025-03-17,Bogotá - Unicentro,Tienda física,Blusas,63,68501,4315563,1
+2025-03-17,Bogotá - Unicentro,Tienda física,Chaquetas,38,160054,6082052,1
+2025-03-17,Bogotá - Unicentro,Tienda física,Vestidos,28,133224,3730272,0
+2025-03-17,Bogotá - Unicentro,Tienda física,Calzado,22,156132,3434904,0
+2025-03-17,Bogotá - Unicentro,Tienda física,Accesorios,0,29626,0,0
+2025-03-17,Medellín - Santafé,Tienda física,Jeans,125,120793,15099125,3
+2025-03-17,Medellín - Santafé,Tienda física,Camisetas,113,38985,4405305,3
+2025-03-17,Medellín - Santafé,Tienda física,Blusas,48,69343,3328464,1
+2025-03-17,Medellín - Santafé,Tienda física,Chaquetas,42,154600,6493200,1
+2025-03-17,Medellín - Santafé,Tienda física,Vestidos,15,142157,2132355,0
+2025-03-17,Medellín - Santafé,Tienda física,Calzado,39,162493,6337227,0
+2025-03-17,Medellín - Santafé,Tienda física,Accesorios,10,29616,296160,0
+2025-03-17,Cali - Chipichape,Tienda física,Jeans,106,120183,12739398,2
+2025-03-17,Cali - Chipichape,Tienda física,Camisetas,94,38860,3652840,2
+2025-03-17,Cali - Chipichape,Tienda física,Blusas,59,69954,4127286,1
+2025-03-17,Cali - Chipichape,Tienda física,Chaquetas,47,163233,7671951,1
+2025-03-17,Cali - Chipichape,Tienda física,Vestidos,29,133461,3870369,0
+2025-03-17,Cali - Chipichape,Tienda física,Calzado,36,163691,5892876,0
+2025-03-17,Cali - Chipichape,Tienda física,Accesorios,18,29978,539604,0
+2025-03-17,Barranquilla - Buenavista,Tienda física,Jeans,110,119820,13180200,2
+2025-03-17,Barranquilla - Buenavista,Tienda física,Camisetas,81,40127,3250287,2
+2025-03-17,Barranquilla - Buenavista,Tienda física,Blusas,41,70134,2875494,1
+2025-03-17,Barranquilla - Buenavista,Tienda física,Chaquetas,18,161661,2909898,0
+2025-03-17,Barranquilla - Buenavista,Tienda física,Vestidos,23,141573,3256179,0
+2025-03-17,Barranquilla - Buenavista,Tienda física,Calzado,28,160292,4488176,0
+2025-03-17,Barranquilla - Buenavista,Tienda física,Accesorios,25,29749,743725,0
+2025-03-17,Bucaramanga - Cacique,Tienda física,Jeans,61,116802,7124922,1
+2025-03-17,Bucaramanga - Cacique,Tienda física,Camisetas,69,39953,2756757,2
+2025-03-17,Bucaramanga - Cacique,Tienda física,Blusas,49,66710,3268790,1
+2025-03-17,Bucaramanga - Cacique,Tienda física,Chaquetas,27,162270,4381290,0
+2025-03-17,Bucaramanga - Cacique,Tienda física,Vestidos,20,143186,2863720,0
+2025-03-17,Bucaramanga - Cacique,Tienda física,Calzado,33,159477,5262741,0
+2025-03-17,Bucaramanga - Cacique,Tienda física,Accesorios,14,30751,430514,0
+2025-03-17,Tienda virtual,Online,Jeans,134,120087,16091658,3
+2025-03-17,Tienda virtual,Online,Camisetas,132,38389,5067348,2
+2025-03-17,Tienda virtual,Online,Blusas,83,67085,5568055,4
+2025-03-17,Tienda virtual,Online,Chaquetas,37,153032,5662184,2
+2025-03-17,Tienda virtual,Online,Vestidos,34,140955,4792470,1
+2025-03-17,Tienda virtual,Online,Calzado,38,161288,6128944,1
+2025-03-17,Tienda virtual,Online,Accesorios,42,30111,1264662,2
+2025-03-24,Bogotá - Andino,Tienda física,Jeans,156,120904,18861024,3
+2025-03-24,Bogotá - Andino,Tienda física,Camisetas,126,39375,4961250,3
+2025-03-24,Bogotá - Andino,Tienda física,Blusas,56,67825,3798200,1
+2025-03-24,Bogotá - Andino,Tienda física,Chaquetas,39,152093,5931627,1
+2025-03-24,Bogotá - Andino,Tienda física,Vestidos,33,142052,4687716,0
+2025-03-24,Bogotá - Andino,Tienda física,Calzado,32,154028,4928896,0
+2025-03-24,Bogotá - Andino,Tienda física,Accesorios,42,29568,1241856,0
+2025-03-24,Bogotá - Unicentro,Tienda física,Jeans,117,118113,13819221,3
+2025-03-24,Bogotá - Unicentro,Tienda física,Camisetas,131,38367,5026077,3
+2025-03-24,Bogotá - Unicentro,Tienda física,Blusas,48,69926,3356448,1
+2025-03-24,Bogotá - Unicentro,Tienda física,Chaquetas,47,156839,7371433,1
+2025-03-24,Bogotá - Unicentro,Tienda física,Vestidos,49,139248,6823152,1
+2025-03-24,Bogotá - Unicentro,Tienda física,Calzado,27,152680,4122360,0
+2025-03-24,Bogotá - Unicentro,Tienda física,Accesorios,14,29199,408786,0
+2025-03-24,Medellín - Santafé,Tienda física,Jeans,101,123280,12451280,2
+2025-03-24,Medellín - Santafé,Tienda física,Camisetas,106,39272,4162832,3
+2025-03-24,Medellín - Santafé,Tienda física,Blusas,51,68511,3494061,1
+2025-03-24,Medellín - Santafé,Tienda física,Chaquetas,12,162234,1946808,0
+2025-03-24,Medellín - Santafé,Tienda física,Vestidos,13,132923,1727999,0
+2025-03-24,Medellín - Santafé,Tienda física,Calzado,18,162343,2922174,0
+2025-03-24,Medellín - Santafé,Tienda física,Accesorios,27,28506,769662,0
+2025-03-24,Cali - Chipichape,Tienda física,Jeans,116,119390,13849240,2
+2025-03-24,Cali - Chipichape,Tienda física,Camisetas,77,40621,3127817,2
+2025-03-24,Cali - Chipichape,Tienda física,Blusas,39,68344,2665416,0
+2025-03-24,Cali - Chipichape,Tienda física,Chaquetas,4,158987,635948,0
+2025-03-24,Cali - Chipichape,Tienda física,Vestidos,31,143332,4443292,0
+2025-03-24,Cali - Chipichape,Tienda física,Calzado,47,159668,7504396,1
+2025-03-24,Cali - Chipichape,Tienda física,Accesorios,9,29014,261126,0
+2025-03-24,Barranquilla - Buenavista,Tienda física,Jeans,98,121498,11906804,2
+2025-03-24,Barranquilla - Buenavista,Tienda física,Camisetas,108,40369,4359852,2
+2025-03-24,Barranquilla - Buenavista,Tienda física,Blusas,56,69646,3900176,1
+2025-03-24,Barranquilla - Buenavista,Tienda física,Chaquetas,36,158001,5688036,0
+2025-03-24,Barranquilla - Buenavista,Tienda física,Vestidos,12,135021,1620252,0
+2025-03-24,Barranquilla - Buenavista,Tienda física,Calzado,33,156546,5166018,0
+2025-03-24,Barranquilla - Buenavista,Tienda física,Accesorios,32,29367,939744,0
+2025-03-24,Bucaramanga - Cacique,Tienda física,Jeans,82,123469,10124458,1
+2025-03-24,Bucaramanga - Cacique,Tienda física,Camisetas,77,38243,2944711,2
+2025-03-24,Bucaramanga - Cacique,Tienda física,Blusas,39,69744,2720016,0
+2025-03-24,Bucaramanga - Cacique,Tienda física,Chaquetas,14,158549,2219686,0
+2025-03-24,Bucaramanga - Cacique,Tienda física,Vestidos,54,142598,7700292,1
+2025-03-24,Bucaramanga - Cacique,Tienda física,Calzado,29,159160,4615640,0
+2025-03-24,Bucaramanga - Cacique,Tienda física,Accesorios,15,30669,460035,0
+2025-03-24,Tienda virtual,Online,Jeans,126,121759,15341634,7
+2025-03-24,Tienda virtual,Online,Camisetas,129,38546,4972434,3
+2025-03-24,Tienda virtual,Online,Blusas,68,66872,4547296,1
+2025-03-24,Tienda virtual,Online,Chaquetas,14,157767,2208738,0
+2025-03-24,Tienda virtual,Online,Vestidos,23,143088,3291024,0
+2025-03-24,Tienda virtual,Online,Calzado,27,153438,4142826,1
+2025-03-24,Tienda virtual,Online,Accesorios,16,29020,464320,0
+2025-03-31,Bogotá - Andino,Tienda física,Jeans,130,120328,15642640,3
+2025-03-31,Bogotá - Andino,Tienda física,Camisetas,116,39336,4562976,2
+2025-03-31,Bogotá - Andino,Tienda física,Blusas,106,67644,7170264,2
+2025-03-31,Bogotá - Andino,Tienda física,Chaquetas,32,155177,4965664,0
+2025-03-31,Bogotá - Andino,Tienda física,Vestidos,56,142275,7967400,1
+2025-03-31,Bogotá - Andino,Tienda física,Calzado,25,161964,4049100,0
+2025-03-31,Bogotá - Andino,Tienda física,Accesorios,3,28538,85614,0
+2025-03-31,Bogotá - Unicentro,Tienda física,Jeans,100,121146,12114600,2
+2025-03-31,Bogotá - Unicentro,Tienda física,Camisetas,115,39792,4576080,3
+2025-03-31,Bogotá - Unicentro,Tienda física,Blusas,50,66994,3349700,1
+2025-03-31,Bogotá - Unicentro,Tienda física,Chaquetas,33,158061,5216013,0
+2025-03-31,Bogotá - Unicentro,Tienda física,Vestidos,36,135573,4880628,0
+2025-03-31,Bogotá - Unicentro,Tienda física,Calzado,33,161079,5315607,0
+2025-03-31,Bogotá - Unicentro,Tienda física,Accesorios,19,28491,541329,0
+2025-03-31,Medellín - Santafé,Tienda física,Jeans,128,122218,15643904,3
+2025-03-31,Medellín - Santafé,Tienda física,Camisetas,142,38351,5445842,3
+2025-03-31,Medellín - Santafé,Tienda física,Blusas,80,71114,5689120,2
+2025-03-31,Medellín - Santafé,Tienda física,Chaquetas,48,157691,7569168,1
+2025-03-31,Medellín - Santafé,Tienda física,Vestidos,34,139935,4757790,0
+2025-03-31,Medellín - Santafé,Tienda física,Calzado,20,154740,3094800,0
+2025-03-31,Medellín - Santafé,Tienda física,Accesorios,17,28751,488767,0
+2025-03-31,Cali - Chipichape,Tienda física,Jeans,92,116460,10714320,2
+2025-03-31,Cali - Chipichape,Tienda física,Camisetas,105,40584,4261320,2
+2025-03-31,Cali - Chipichape,Tienda física,Blusas,57,67343,3838551,1
+2025-03-31,Cali - Chipichape,Tienda física,Chaquetas,17,153365,2607205,0
+2025-03-31,Cali - Chipichape,Tienda física,Vestidos,48,133541,6409968,1
+2025-03-31,Cali - Chipichape,Tienda física,Calzado,24,158012,3792288,0
+2025-03-31,Cali - Chipichape,Tienda física,Accesorios,10,29021,290210,0
+2025-03-31,Barranquilla - Buenavista,Tienda física,Jeans,72,123478,8890416,2
+2025-03-31,Barranquilla - Buenavista,Tienda física,Camisetas,117,38216,4471272,2
+2025-03-31,Barranquilla - Buenavista,Tienda física,Blusas,48,70467,3382416,1
+2025-03-31,Barranquilla - Buenavista,Tienda física,Chaquetas,23,164423,3781729,0
+2025-03-31,Barranquilla - Buenavista,Tienda física,Vestidos,26,134473,3496298,0
+2025-03-31,Barranquilla - Buenavista,Tienda física,Calzado,15,162551,2438265,0
+2025-03-31,Barranquilla - Buenavista,Tienda física,Accesorios,21,30586,642306,0
+2025-03-31,Bucaramanga - Cacique,Tienda física,Jeans,92,119385,10983420,1
+2025-03-31,Bucaramanga - Cacique,Tienda física,Camisetas,83,40176,3334608,1
+2025-03-31,Bucaramanga - Cacique,Tienda física,Blusas,56,66848,3743488,1
+2025-03-31,Bucaramanga - Cacique,Tienda física,Chaquetas,10,155408,1554080,0
+2025-03-31,Bucaramanga - Cacique,Tienda física,Vestidos,9,139759,1257831,0
+2025-03-31,Bucaramanga - Cacique,Tienda física,Calzado,27,154492,4171284,0
+2025-03-31,Bucaramanga - Cacique,Tienda física,Accesorios,0,30157,0,0
+2025-03-31,Tienda virtual,Online,Jeans,138,121680,16791840,4
+2025-03-31,Tienda virtual,Online,Camisetas,125,40592,5074000,6
+2025-03-31,Tienda virtual,Online,Blusas,62,71494,4432628,2
+2025-03-31,Tienda virtual,Online,Chaquetas,37,163059,6033183,1
+2025-03-31,Tienda virtual,Online,Vestidos,41,137013,5617533,1
+2025-03-31,Tienda virtual,Online,Calzado,57,156652,8929164,2
+2025-03-31,Tienda virtual,Online,Accesorios,37,29471,1090427,1
+2025-04-07,Bogotá - Andino,Tienda física,Jeans,159,115063,18295017,4
+2025-04-07,Bogotá - Andino,Tienda física,Camisetas,157,38929,6111853,4
+2025-04-07,Bogotá - Andino,Tienda física,Blusas,52,68537,3563924,1
+2025-04-07,Bogotá - Andino,Tienda física,Chaquetas,64,164109,10502976,1
+2025-04-07,Bogotá - Andino,Tienda física,Vestidos,46,138650,6377900,1
+2025-04-07,Bogotá - Andino,Tienda física,Calzado,39,164280,6406920,0
+2025-04-07,Bogotá - Andino,Tienda física,Accesorios,25,28841,721025,0
+2025-04-07,Bogotá - Unicentro,Tienda física,Jeans,136,114193,15530248,2
+2025-04-07,Bogotá - Unicentro,Tienda física,Camisetas,149,40136,5980264,3
+2025-04-07,Bogotá - Unicentro,Tienda física,Blusas,79,69628,5500612,1
+2025-04-07,Bogotá - Unicentro,Tienda física,Chaquetas,38,160893,6113934,0
+2025-04-07,Bogotá - Unicentro,Tienda física,Vestidos,44,133410,5870040,0
+2025-04-07,Bogotá - Unicentro,Tienda física,Calzado,22,158219,3480818,0
+2025-04-07,Bogotá - Unicentro,Tienda física,Accesorios,21,29375,616875,0
+2025-04-07,Medellín - Santafé,Tienda física,Jeans,136,119581,16263016,3
+2025-04-07,Medellín - Santafé,Tienda física,Camisetas,131,40288,5277728,2
+2025-04-07,Medellín - Santafé,Tienda física,Blusas,73,71024,5184752,2
+2025-04-07,Medellín - Santafé,Tienda física,Chaquetas,25,162646,4066150,0
+2025-04-07,Medellín - Santafé,Tienda física,Vestidos,38,137332,5218616,1
+2025-04-07,Medellín - Santafé,Tienda física,Calzado,36,154979,5579244,0
+2025-04-07,Medellín - Santafé,Tienda física,Accesorios,10,29446,294460,0
+2025-04-07,Cali - Chipichape,Tienda física,Jeans,122,121722,14850084,3
+2025-04-07,Cali - Chipichape,Tienda física,Camisetas,80,38075,3046000,2
+2025-04-07,Cali - Chipichape,Tienda física,Blusas,79,67798,5356042,1
+2025-04-07,Cali - Chipichape,Tienda física,Chaquetas,22,159998,3519956,0
+2025-04-07,Cali - Chipichape,Tienda física,Vestidos,21,137751,2892771,0
+2025-04-07,Cali - Chipichape,Tienda física,Calzado,29,152171,4412959,0
+2025-04-07,Cali - Chipichape,Tienda física,Accesorios,39,30646,1195194,1
+2025-04-07,Barranquilla - Buenavista,Tienda física,Jeans,98,121667,11923366,2
+2025-04-07,Barranquilla - Buenavista,Tienda física,Camisetas,97,39952,3875344,2
+2025-04-07,Barranquilla - Buenavista,Tienda física,Blusas,45,70198,3158910,1
+2025-04-07,Barranquilla - Buenavista,Tienda física,Chaquetas,0,159852,0,0
+2025-04-07,Barranquilla - Buenavista,Tienda física,Vestidos,16,138728,2219648,0
+2025-04-07,Barranquilla - Buenavista,Tienda física,Calzado,36,155811,5609196,0
+2025-04-07,Barranquilla - Buenavista,Tienda física,Accesorios,14,28692,401688,0
+2025-04-07,Bucaramanga - Cacique,Tienda física,Jeans,98,116479,11414942,2
+2025-04-07,Bucaramanga - Cacique,Tienda física,Camisetas,75,39608,2970600,1
+2025-04-07,Bucaramanga - Cacique,Tienda física,Blusas,44,68046,2994024,1
+2025-04-07,Bucaramanga - Cacique,Tienda física,Chaquetas,27,155593,4201011,0
+2025-04-07,Bucaramanga - Cacique,Tienda física,Vestidos,32,142303,4553696,0
+2025-04-07,Bucaramanga - Cacique,Tienda física,Calzado,30,159198,4775940,0
+2025-04-07,Bucaramanga - Cacique,Tienda física,Accesorios,19,29507,560633,0
+2025-04-07,Tienda virtual,Online,Jeans,165,119782,19764030,6
+2025-04-07,Tienda virtual,Online,Camisetas,134,38612,5174008,5
+2025-04-07,Tienda virtual,Online,Blusas,77,68547,5278119,3
+2025-04-07,Tienda virtual,Online,Chaquetas,50,162929,8146450,1
+2025-04-07,Tienda virtual,Online,Vestidos,35,139135,4869725,1
+2025-04-07,Tienda virtual,Online,Calzado,31,155685,4826235,1
+2025-04-07,Tienda virtual,Online,Accesorios,59,28784,1698256,1
+2025-04-14,Bogotá - Andino,Tienda física,Jeans,167,114499,19121333,3
+2025-04-14,Bogotá - Andino,Tienda física,Camisetas,138,39309,5424642,3
+2025-04-14,Bogotá - Andino,Tienda física,Blusas,80,71769,5741520,2
+2025-04-14,Bogotá - Andino,Tienda física,Chaquetas,47,153881,7232407,1
+2025-04-14,Bogotá - Andino,Tienda física,Vestidos,26,139802,3634852,0
+2025-04-14,Bogotá - Andino,Tienda física,Calzado,56,162409,9094904,1
+2025-04-14,Bogotá - Andino,Tienda física,Accesorios,25,30222,755550,0
+2025-04-14,Bogotá - Unicentro,Tienda física,Jeans,116,121434,14086344,3
+2025-04-14,Bogotá - Unicentro,Tienda física,Camisetas,132,40684,5370288,2
+2025-04-14,Bogotá - Unicentro,Tienda física,Blusas,60,70686,4241160,1
+2025-04-14,Bogotá - Unicentro,Tienda física,Chaquetas,5,159221,796105,0
+2025-04-14,Bogotá - Unicentro,Tienda física,Vestidos,32,141676,4533632,0
+2025-04-14,Bogotá - Unicentro,Tienda física,Calzado,27,157690,4257630,0
+2025-04-14,Bogotá - Unicentro,Tienda física,Accesorios,15,30134,452010,0
+2025-04-14,Medellín - Santafé,Tienda física,Jeans,118,117593,13875974,2
+2025-04-14,Medellín - Santafé,Tienda física,Camisetas,131,40417,5294627,3
+2025-04-14,Medellín - Santafé,Tienda física,Blusas,47,67435,3169445,1
+2025-04-14,Medellín - Santafé,Tienda física,Chaquetas,34,153759,5227806,0
+2025-04-14,Medellín - Santafé,Tienda física,Vestidos,25,143203,3580075,0
+2025-04-14,Medellín - Santafé,Tienda física,Calzado,32,162693,5206176,0
+2025-04-14,Medellín - Santafé,Tienda física,Accesorios,29,29425,853325,0
+2025-04-14,Cali - Chipichape,Tienda física,Jeans,111,114007,12654777,2
+2025-04-14,Cali - Chipichape,Tienda física,Camisetas,92,40842,3757464,2
+2025-04-14,Cali - Chipichape,Tienda física,Blusas,47,69416,3262552,1
+2025-04-14,Cali - Chipichape,Tienda física,Chaquetas,15,160670,2410050,0
+2025-04-14,Cali - Chipichape,Tienda física,Vestidos,24,136908,3285792,0
+2025-04-14,Cali - Chipichape,Tienda física,Calzado,12,160558,1926696,0
+2025-04-14,Cali - Chipichape,Tienda física,Accesorios,42,28641,1202922,0
+2025-04-14,Barranquilla - Buenavista,Tienda física,Jeans,89,119411,10627579,2
+2025-04-14,Barranquilla - Buenavista,Tienda física,Camisetas,104,40983,4262232,2
+2025-04-14,Barranquilla - Buenavista,Tienda física,Blusas,32,71975,2303200,0
+2025-04-14,Barranquilla - Buenavista,Tienda física,Chaquetas,33,158686,5236638,0
+2025-04-14,Barranquilla - Buenavista,Tienda física,Vestidos,28,143855,4027940,0
+2025-04-14,Barranquilla - Buenavista,Tienda física,Calzado,36,158462,5704632,0
+2025-04-14,Barranquilla - Buenavista,Tienda física,Accesorios,31,30367,941377,0
+2025-04-14,Bucaramanga - Cacique,Tienda física,Jeans,73,122424,8936952,1
+2025-04-14,Bucaramanga - Cacique,Tienda física,Camisetas,84,39538,3321192,2
+2025-04-14,Bucaramanga - Cacique,Tienda física,Blusas,47,67456,3170432,1
+2025-04-14,Bucaramanga - Cacique,Tienda física,Chaquetas,11,156422,1720642,0
+2025-04-14,Bucaramanga - Cacique,Tienda física,Vestidos,7,140028,980196,0
+2025-04-14,Bucaramanga - Cacique,Tienda física,Calzado,4,155828,623312,0
+2025-04-14,Bucaramanga - Cacique,Tienda física,Accesorios,25,28414,710350,0
+2025-04-14,Tienda virtual,Online,Jeans,156,120313,18768828,4
+2025-04-14,Tienda virtual,Online,Camisetas,124,39494,4897256,5
+2025-04-14,Tienda virtual,Online,Blusas,67,69377,4648259,4
+2025-04-14,Tienda virtual,Online,Chaquetas,56,159253,8918168,2
+2025-04-14,Tienda virtual,Online,Vestidos,39,141405,5514795,0
+2025-04-14,Tienda virtual,Online,Calzado,44,153185,6740140,1
+2025-04-14,Tienda virtual,Online,Accesorios,2,29871,59742,0
+2025-04-21,Bogotá - Andino,Tienda física,Jeans,155,114500,17747500,3
+2025-04-21,Bogotá - Andino,Tienda física,Camisetas,149,40188,5988012,3
+2025-04-21,Bogotá - Andino,Tienda física,Blusas,63,67352,4243176,1
+2025-04-21,Bogotá - Andino,Tienda física,Chaquetas,63,159353,10039239,1
+2025-04-21,Bogotá - Andino,Tienda física,Vestidos,52,137939,7172828,1
+2025-04-21,Bogotá - Andino,Tienda física,Calzado,66,159358,10517628,1
+2025-04-21,Bogotá - Andino,Tienda física,Accesorios,34,29456,1001504,0
+2025-04-21,Bogotá - Unicentro,Tienda física,Jeans,136,122833,16705288,3
+2025-04-21,Bogotá - Unicentro,Tienda física,Camisetas,130,38909,5058170,3
+2025-04-21,Bogotá - Unicentro,Tienda física,Blusas,67,69774,4674858,1
+2025-04-21,Bogotá - Unicentro,Tienda física,Chaquetas,26,158244,4114344,0
+2025-04-21,Bogotá - Unicentro,Tienda física,Vestidos,32,140946,4510272,0
+2025-04-21,Bogotá - Unicentro,Tienda física,Calzado,48,155859,7481232,1
+2025-04-21,Bogotá - Unicentro,Tienda física,Accesorios,1,28987,28987,0
+2025-04-21,Medellín - Santafé,Tienda física,Jeans,132,117342,15489144,2
+2025-04-21,Medellín - Santafé,Tienda física,Camisetas,131,39697,5200307,2
+2025-04-21,Medellín - Santafé,Tienda física,Blusas,59,69389,4093951,1
+2025-04-21,Medellín - Santafé,Tienda física,Chaquetas,31,153482,4757942,0
+2025-04-21,Medellín - Santafé,Tienda física,Vestidos,32,136836,4378752,0
+2025-04-21,Medellín - Santafé,Tienda física,Calzado,38,154938,5887644,0
+2025-04-21,Medellín - Santafé,Tienda física,Accesorios,30,29993,899790,0
+2025-04-21,Cali - Chipichape,Tienda física,Jeans,123,114793,14119539,2
+2025-04-21,Cali - Chipichape,Tienda física,Camisetas,121,40570,4908970,2
+2025-04-21,Cali - Chipichape,Tienda física,Blusas,31,70906,2198086,0
+2025-04-21,Cali - Chipichape,Tienda física,Chaquetas,38,156419,5943922,1
+2025-04-21,Cali - Chipichape,Tienda física,Vestidos,4,135233,540932,0
+2025-04-21,Cali - Chipichape,Tienda física,Calzado,51,158362,8076462,1
+2025-04-21,Cali - Chipichape,Tienda física,Accesorios,12,30094,361128,0
+2025-04-21,Barranquilla - Buenavista,Tienda física,Jeans,103,122534,12621002,2
+2025-04-21,Barranquilla - Buenavista,Tienda física,Camisetas,89,39846,3546294,1
+2025-04-21,Barranquilla - Buenavista,Tienda física,Blusas,54,71283,3849282,1
+2025-04-21,Barranquilla - Buenavista,Tienda física,Chaquetas,12,155364,1864368,0
+2025-04-21,Barranquilla - Buenavista,Tienda física,Vestidos,22,137211,3018642,0
+2025-04-21,Barranquilla - Buenavista,Tienda física,Calzado,17,156893,2667181,0
+2025-04-21,Barranquilla - Buenavista,Tienda física,Accesorios,12,28828,345936,0
+2025-04-21,Bucaramanga - Cacique,Tienda física,Jeans,77,114950,8851150,1
+2025-04-21,Bucaramanga - Cacique,Tienda física,Camisetas,95,39058,3710510,2
+2025-04-21,Bucaramanga - Cacique,Tienda física,Blusas,38,68145,2589510,0
+2025-04-21,Bucaramanga - Cacique,Tienda física,Chaquetas,26,153518,3991468,0
+2025-04-21,Bucaramanga - Cacique,Tienda física,Vestidos,17,143077,2432309,0
+2025-04-21,Bucaramanga - Cacique,Tienda física,Calzado,34,163197,5548698,0
+2025-04-21,Bucaramanga - Cacique,Tienda física,Accesorios,20,28475,569500,0
+2025-04-21,Tienda virtual,Online,Jeans,154,120270,18521580,5
+2025-04-21,Tienda virtual,Online,Camisetas,122,40137,4896714,3
+2025-04-21,Tienda virtual,Online,Blusas,77,71139,5477703,2
+2025-04-21,Tienda virtual,Online,Chaquetas,34,153379,5214886,1
+2025-04-21,Tienda virtual,Online,Vestidos,28,141120,3951360,1
+2025-04-21,Tienda virtual,Online,Calzado,42,153977,6467034,1
+2025-04-21,Tienda virtual,Online,Accesorios,25,29129,728225,0
+2025-04-28,Bogotá - Andino,Tienda física,Jeans,168,120027,20164536,3
+2025-04-28,Bogotá - Andino,Tienda física,Camisetas,150,40584,6087600,3
+2025-04-28,Bogotá - Andino,Tienda física,Blusas,72,68837,4956264,1
+2025-04-28,Bogotá - Andino,Tienda física,Chaquetas,33,156369,5160177,0
+2025-04-28,Bogotá - Andino,Tienda física,Vestidos,47,136109,6397123,0
+2025-04-28,Bogotá - Andino,Tienda física,Calzado,24,162831,3907944,0
+2025-04-28,Bogotá - Andino,Tienda física,Accesorios,35,28670,1003450,0
+2025-04-28,Bogotá - Unicentro,Tienda física,Jeans,138,115920,15996960,4
+2025-04-28,Bogotá - Unicentro,Tienda física,Camisetas,126,40122,5055372,3
+2025-04-28,Bogotá - Unicentro,Tienda física,Blusas,58,70585,4093930,1
+2025-04-28,Bogotá - Unicentro,Tienda física,Chaquetas,35,164010,5740350,0
+2025-04-28,Bogotá - Unicentro,Tienda física,Vestidos,36,143315,5159340,0
+2025-04-28,Bogotá - Unicentro,Tienda física,Calzado,34,159939,5437926,0
+2025-04-28,Bogotá - Unicentro,Tienda física,Accesorios,0,28534,0,0
+2025-04-28,Medellín - Santafé,Tienda física,Jeans,117,122807,14368419,2
+2025-04-28,Medellín - Santafé,Tienda física,Camisetas,127,40337,5122799,2
+2025-04-28,Medellín - Santafé,Tienda física,Blusas,54,67865,3664710,1
+2025-04-28,Medellín - Santafé,Tienda física,Chaquetas,14,164305,2300270,0
+2025-04-28,Medellín - Santafé,Tienda física,Vestidos,21,133569,2804949,0
+2025-04-28,Medellín - Santafé,Tienda física,Calzado,32,157170,5029440,0
+2025-04-28,Medellín - Santafé,Tienda física,Accesorios,19,30096,571824,0
+2025-04-28,Cali - Chipichape,Tienda física,Jeans,119,116186,13826134,2
+2025-04-28,Cali - Chipichape,Tienda física,Camisetas,92,40892,3762064,2
+2025-04-28,Cali - Chipichape,Tienda física,Blusas,51,68079,3472029,1
+2025-04-28,Cali - Chipichape,Tienda física,Chaquetas,39,156172,6090708,1
+2025-04-28,Cali - Chipichape,Tienda física,Vestidos,38,139041,5283558,1
+2025-04-28,Cali - Chipichape,Tienda física,Calzado,38,159563,6063394,0
+2025-04-28,Cali - Chipichape,Tienda física,Accesorios,34,30237,1028058,0
+2025-04-28,Barranquilla - Buenavista,Tienda física,Jeans,109,117362,12792458,2
+2025-04-28,Barranquilla - Buenavista,Tienda física,Camisetas,101,38097,3847797,2
+2025-04-28,Barranquilla - Buenavista,Tienda física,Blusas,53,68910,3652230,1
+2025-04-28,Barranquilla - Buenavista,Tienda física,Chaquetas,44,156055,6866420,1
+2025-04-28,Barranquilla - Buenavista,Tienda física,Vestidos,19,133708,2540452,0
+2025-04-28,Barranquilla - Buenavista,Tienda física,Calzado,32,164596,5267072,0
+2025-04-28,Barranquilla - Buenavista,Tienda física,Accesorios,33,30749,1014717,0
+2025-04-28,Bucaramanga - Cacique,Tienda física,Jeans,94,114948,10805112,2
+2025-04-28,Bucaramanga - Cacique,Tienda física,Camisetas,72,39638,2853936,1
+2025-04-28,Bucaramanga - Cacique,Tienda física,Blusas,42,71547,3004974,1
+2025-04-28,Bucaramanga - Cacique,Tienda física,Chaquetas,3,160253,480759,0
+2025-04-28,Bucaramanga - Cacique,Tienda física,Vestidos,0,135658,0,0
+2025-04-28,Bucaramanga - Cacique,Tienda física,Calzado,43,162644,6993692,0
+2025-04-28,Bucaramanga - Cacique,Tienda física,Accesorios,17,28849,490433,0
+2025-04-28,Tienda virtual,Online,Jeans,162,115520,18714240,8
+2025-04-28,Tienda virtual,Online,Camisetas,114,40555,4623270,5
+2025-04-28,Tienda virtual,Online,Blusas,65,71020,4616300,2
+2025-04-28,Tienda virtual,Online,Chaquetas,46,156619,7204474,1
+2025-04-28,Tienda virtual,Online,Vestidos,18,135584,2440512,0
+2025-04-28,Tienda virtual,Online,Calzado,55,159156,8753580,2
+2025-04-28,Tienda virtual,Online,Accesorios,32,30570,978240,1
+2025-05-05,Bogotá - Andino,Tienda física,Jeans,168,118647,19932696,4
+2025-05-05,Bogotá - Andino,Tienda física,Camisetas,178,39759,7077102,3
+2025-05-05,Bogotá - Andino,Tienda física,Blusas,94,70252,6603688,2
+2025-05-05,Bogotá - Andino,Tienda física,Chaquetas,19,153051,2907969,0
+2025-05-05,Bogotá - Andino,Tienda física,Vestidos,54,137823,7442442,1
+2025-05-05,Bogotá - Andino,Tienda física,Calzado,49,162660,7970340,1
+2025-05-05,Bogotá - Andino,Tienda física,Accesorios,29,30287,878323,0
+2025-05-05,Bogotá - Unicentro,Tienda física,Jeans,155,118841,18420355,3
+2025-05-05,Bogotá - Unicentro,Tienda física,Camisetas,165,38986,6432690,4
+2025-05-05,Bogotá - Unicentro,Tienda física,Blusas,62,71460,4430520,1
+2025-05-05,Bogotá - Unicentro,Tienda física,Chaquetas,22,155688,3425136,0
+2025-05-05,Bogotá - Unicentro,Tienda física,Vestidos,26,135092,3512392,0
+2025-05-05,Bogotá - Unicentro,Tienda física,Calzado,38,156045,5929710,0
+2025-05-05,Bogotá - Unicentro,Tienda física,Accesorios,52,30475,1584700,1
+2025-05-05,Medellín - Santafé,Tienda física,Jeans,147,123130,18100110,3
+2025-05-05,Medellín - Santafé,Tienda física,Camisetas,143,40064,5729152,3
+2025-05-05,Medellín - Santafé,Tienda física,Blusas,67,68066,4560422,1
+2025-05-05,Medellín - Santafé,Tienda física,Chaquetas,53,160186,8489858,1
+2025-05-05,Medellín - Santafé,Tienda física,Vestidos,31,136748,4239188,0
+2025-05-05,Medellín - Santafé,Tienda física,Calzado,48,160586,7708128,1
+2025-05-05,Medellín - Santafé,Tienda física,Accesorios,26,28608,743808,0
+2025-05-05,Cali - Chipichape,Tienda física,Jeans,121,117898,14265658,3
+2025-05-05,Cali - Chipichape,Tienda física,Camisetas,134,39707,5320738,3
+2025-05-05,Cali - Chipichape,Tienda física,Blusas,67,71381,4782527,1
+2025-05-05,Cali - Chipichape,Tienda física,Chaquetas,40,153341,6133640,1
+2025-05-05,Cali - Chipichape,Tienda física,Vestidos,30,138845,4165350,0
+2025-05-05,Cali - Chipichape,Tienda física,Calzado,40,158163,6326520,1
+2025-05-05,Cali - Chipichape,Tienda física,Accesorios,24,28675,688200,0
+2025-05-05,Barranquilla - Buenavista,Tienda física,Jeans,134,119549,16019566,2
+2025-05-05,Barranquilla - Buenavista,Tienda física,Camisetas,107,39307,4205849,3
+2025-05-05,Barranquilla - Buenavista,Tienda física,Blusas,58,69483,4030014,1
+2025-05-05,Barranquilla - Buenavista,Tienda física,Chaquetas,32,164577,5266464,0
+2025-05-05,Barranquilla - Buenavista,Tienda física,Vestidos,21,134047,2814987,0
+2025-05-05,Barranquilla - Buenavista,Tienda física,Calzado,26,164185,4268810,0
+2025-05-05,Barranquilla - Buenavista,Tienda física,Accesorios,24,30258,726192,0
+2025-05-05,Bucaramanga - Cacique,Tienda física,Jeans,99,116177,11501523,2
+2025-05-05,Bucaramanga - Cacique,Tienda física,Camisetas,88,37953,3339864,2
+2025-05-05,Bucaramanga - Cacique,Tienda física,Blusas,48,70360,3377280,1
+2025-05-05,Bucaramanga - Cacique,Tienda física,Chaquetas,36,163272,5877792,0
+2025-05-05,Bucaramanga - Cacique,Tienda física,Vestidos,33,143173,4724709,0
+2025-05-05,Bucaramanga - Cacique,Tienda física,Calzado,15,154054,2310810,0
+2025-05-05,Bucaramanga - Cacique,Tienda física,Accesorios,5,30032,150160,0
+2025-05-05,Tienda virtual,Online,Jeans,189,115082,21750498,6
+2025-05-05,Tienda virtual,Online,Camisetas,158,40208,6352864,3
+2025-05-05,Tienda virtual,Online,Blusas,51,69781,3558831,1
+2025-05-05,Tienda virtual,Online,Chaquetas,25,153350,3833750,1
+2025-05-05,Tienda virtual,Online,Vestidos,33,140462,4635246,0
+2025-05-05,Tienda virtual,Online,Calzado,50,162626,8131300,2
+2025-05-05,Tienda virtual,Online,Accesorios,40,28676,1147040,0
+2025-05-12,Bogotá - Andino,Tienda física,Jeans,201,115682,23252082,5
+2025-05-12,Bogotá - Andino,Tienda física,Camisetas,186,38830,7222380,4
+2025-05-12,Bogotá - Andino,Tienda física,Blusas,81,71300,5775300,2
+2025-05-12,Bogotá - Andino,Tienda física,Chaquetas,53,160725,8518425,1
+2025-05-12,Bogotá - Andino,Tienda física,Vestidos,45,136736,6153120,0
+2025-05-12,Bogotá - Andino,Tienda física,Calzado,48,158323,7599504,1
+2025-05-12,Bogotá - Andino,Tienda física,Accesorios,31,28841,894071,0
+2025-05-12,Bogotá - Unicentro,Tienda física,Jeans,155,120422,18665410,3
+2025-05-12,Bogotá - Unicentro,Tienda física,Camisetas,141,40602,5724882,3
+2025-05-12,Bogotá - Unicentro,Tienda física,Blusas,75,71286,5346450,1
+2025-05-12,Bogotá - Unicentro,Tienda física,Chaquetas,51,154672,7888272,1
+2025-05-12,Bogotá - Unicentro,Tienda física,Vestidos,41,139499,5719459,0
+2025-05-12,Bogotá - Unicentro,Tienda física,Calzado,47,157888,7420736,1
+2025-05-12,Bogotá - Unicentro,Tienda física,Accesorios,36,29332,1055952,0
+2025-05-12,Medellín - Santafé,Tienda física,Jeans,167,117106,19556702,3
+2025-05-12,Medellín - Santafé,Tienda física,Camisetas,142,39371,5590682,4
+2025-05-12,Medellín - Santafé,Tienda física,Blusas,77,70157,5402089,1
+2025-05-12,Medellín - Santafé,Tienda física,Chaquetas,42,155401,6526842,1
+2025-05-12,Medellín - Santafé,Tienda física,Vestidos,34,138816,4719744,1
+2025-05-12,Medellín - Santafé,Tienda física,Calzado,56,164596,9217376,1
+2025-05-12,Medellín - Santafé,Tienda física,Accesorios,6,30491,182946,0
+2025-05-12,Cali - Chipichape,Tienda física,Jeans,124,119977,14877148,3
+2025-05-12,Cali - Chipichape,Tienda física,Camisetas,117,40443,4731831,3
+2025-05-12,Cali - Chipichape,Tienda física,Blusas,69,71653,4944057,1
+2025-05-12,Cali - Chipichape,Tienda física,Chaquetas,28,161365,4518220,0
+2025-05-12,Cali - Chipichape,Tienda física,Vestidos,50,140014,7000700,1
+2025-05-12,Cali - Chipichape,Tienda física,Calzado,23,152678,3511594,0
+2025-05-12,Cali - Chipichape,Tienda física,Accesorios,18,29178,525204,0
+2025-05-12,Barranquilla - Buenavista,Tienda física,Jeans,107,116239,12437573,2
+2025-05-12,Barranquilla - Buenavista,Tienda física,Camisetas,112,39019,4370128,2
+2025-05-12,Barranquilla - Buenavista,Tienda física,Blusas,79,68938,5446102,1
+2025-05-12,Barranquilla - Buenavista,Tienda física,Chaquetas,32,159180,5093760,0
+2025-05-12,Barranquilla - Buenavista,Tienda física,Vestidos,29,136279,3952091,0
+2025-05-12,Barranquilla - Buenavista,Tienda física,Calzado,35,161200,5642000,0
+2025-05-12,Barranquilla - Buenavista,Tienda física,Accesorios,29,30608,887632,0
+2025-05-12,Bucaramanga - Cacique,Tienda física,Jeans,95,114672,10893840,2
+2025-05-12,Bucaramanga - Cacique,Tienda física,Camisetas,61,39044,2381684,1
+2025-05-12,Bucaramanga - Cacique,Tienda física,Blusas,29,68799,1995171,0
+2025-05-12,Bucaramanga - Cacique,Tienda física,Chaquetas,39,163406,6372834,0
+2025-05-12,Bucaramanga - Cacique,Tienda física,Vestidos,28,135787,3802036,0
+2025-05-12,Bucaramanga - Cacique,Tienda física,Calzado,31,160915,4988365,0
+2025-05-12,Bucaramanga - Cacique,Tienda física,Accesorios,24,29360,704640,0
+2025-05-12,Tienda virtual,Online,Jeans,152,120121,18258392,4
+2025-05-12,Tienda virtual,Online,Camisetas,146,40247,5876062,8
+2025-05-12,Tienda virtual,Online,Blusas,76,70931,5390756,4
+2025-05-12,Tienda virtual,Online,Chaquetas,42,156269,6563298,1
+2025-05-12,Tienda virtual,Online,Vestidos,45,142702,6421590,2
+2025-05-12,Tienda virtual,Online,Calzado,59,163710,9658890,1
+2025-05-12,Tienda virtual,Online,Accesorios,19,29957,569183,0
+2025-05-19,Bogotá - Andino,Tienda física,Jeans,202,120417,24324234,4
+2025-05-19,Bogotá - Andino,Tienda física,Camisetas,184,38050,7001200,4
+2025-05-19,Bogotá - Andino,Tienda física,Blusas,90,68275,6144750,2
+2025-05-19,Bogotá - Andino,Tienda física,Chaquetas,41,157832,6471112,0
+2025-05-19,Bogotá - Andino,Tienda física,Vestidos,37,143260,5300620,0
+2025-05-19,Bogotá - Andino,Tienda física,Calzado,53,159758,8467174,1
+2025-05-19,Bogotá - Andino,Tienda física,Accesorios,30,29192,875760,0
+2025-05-19,Bogotá - Unicentro,Tienda física,Jeans,162,121263,19644606,3
+2025-05-19,Bogotá - Unicentro,Tienda física,Camisetas,153,40503,6196959,3
+2025-05-19,Bogotá - Unicentro,Tienda física,Blusas,58,69508,4031464,1
+2025-05-19,Bogotá - Unicentro,Tienda física,Chaquetas,38,159600,6064800,0
+2025-05-19,Bogotá - Unicentro,Tienda física,Vestidos,36,140867,5071212,0
+2025-05-19,Bogotá - Unicentro,Tienda física,Calzado,33,161831,5340423,0
+2025-05-19,Bogotá - Unicentro,Tienda física,Accesorios,31,29488,914128,0
+2025-05-19,Medellín - Santafé,Tienda física,Jeans,119,118924,14151956,3
+2025-05-19,Medellín - Santafé,Tienda física,Camisetas,143,39423,5637489,3
+2025-05-19,Medellín - Santafé,Tienda física,Blusas,72,70734,5092848,1
+2025-05-19,Medellín - Santafé,Tienda física,Chaquetas,49,161583,7917567,1
+2025-05-19,Medellín - Santafé,Tienda física,Vestidos,34,133217,4529378,0
+2025-05-19,Medellín - Santafé,Tienda física,Calzado,53,159007,8427371,1
+2025-05-19,Medellín - Santafé,Tienda física,Accesorios,30,30652,919560,0
+2025-05-19,Cali - Chipichape,Tienda física,Jeans,136,120981,16453416,3
+2025-05-19,Cali - Chipichape,Tienda física,Camisetas,129,38422,4956438,2
+2025-05-19,Cali - Chipichape,Tienda física,Blusas,63,71898,4529574,1
+2025-05-19,Cali - Chipichape,Tienda física,Chaquetas,26,160042,4161092,0
+2025-05-19,Cali - Chipichape,Tienda física,Vestidos,35,136529,4778515,1
+2025-05-19,Cali - Chipichape,Tienda física,Calzado,22,153284,3372248,0
+2025-05-19,Cali - Chipichape,Tienda física,Accesorios,37,29366,1086542,1
+2025-05-19,Barranquilla - Buenavista,Tienda física,Jeans,125,114480,14310000,3
+2025-05-19,Barranquilla - Buenavista,Tienda física,Camisetas,88,40921,3601048,2
+2025-05-19,Barranquilla - Buenavista,Tienda física,Blusas,69,67658,4668402,1
+2025-05-19,Barranquilla - Buenavista,Tienda física,Chaquetas,30,154864,4645920,0
+2025-05-19,Barranquilla - Buenavista,Tienda física,Vestidos,40,141401,5656040,1
+2025-05-19,Barranquilla - Buenavista,Tienda física,Calzado,20,154675,3093500,0
+2025-05-19,Barranquilla - Buenavista,Tienda física,Accesorios,56,28779,1611624,1
+2025-05-19,Bucaramanga - Cacique,Tienda física,Jeans,105,121113,12716865,2
+2025-05-19,Bucaramanga - Cacique,Tienda física,Camisetas,85,38806,3298510,1
+2025-05-19,Bucaramanga - Cacique,Tienda física,Blusas,21,67308,1413468,0
+2025-05-19,Bucaramanga - Cacique,Tienda física,Chaquetas,28,159549,4467372,0
+2025-05-19,Bucaramanga - Cacique,Tienda física,Vestidos,1,135253,135253,0
+2025-05-19,Bucaramanga - Cacique,Tienda física,Calzado,14,156514,2191196,0
+2025-05-19,Bucaramanga - Cacique,Tienda física,Accesorios,21,30471,639891,0
+2025-05-19,Tienda virtual,Online,Jeans,166,116759,19381994,3
+2025-05-19,Tienda virtual,Online,Camisetas,185,37935,7017975,10
+2025-05-19,Tienda virtual,Online,Blusas,101,67248,6792048,4
+2025-05-19,Tienda virtual,Online,Chaquetas,51,160638,8192538,1
+2025-05-19,Tienda virtual,Online,Vestidos,44,136705,6015020,2
+2025-05-19,Tienda virtual,Online,Calzado,40,164436,6577440,0
+2025-05-19,Tienda virtual,Online,Accesorios,4,28966,115864,0
+2025-05-26,Bogotá - Andino,Tienda física,Jeans,183,118746,21730518,4
+2025-05-26,Bogotá - Andino,Tienda física,Camisetas,169,39279,6638151,3
+2025-05-26,Bogotá - Andino,Tienda física,Blusas,122,68174,8317228,3
+2025-05-26,Bogotá - Andino,Tienda física,Chaquetas,53,153445,8132585,1
+2025-05-26,Bogotá - Andino,Tienda física,Vestidos,51,134908,6880308,1
+2025-05-26,Bogotá - Andino,Tienda física,Calzado,58,153797,8920226,1
+2025-05-26,Bogotá - Andino,Tienda física,Accesorios,25,29250,731250,0
+2025-05-26,Bogotá - Unicentro,Tienda física,Jeans,158,122717,19389286,3
+2025-05-26,Bogotá - Unicentro,Tienda física,Camisetas,155,40724,6312220,4
+2025-05-26,Bogotá - Unicentro,Tienda física,Blusas,104,67931,7064824,2
+2025-05-26,Bogotá - Unicentro,Tienda física,Chaquetas,41,152457,6250737,1
+2025-05-26,Bogotá - Unicentro,Tienda física,Vestidos,41,137472,5636352,1
+2025-05-26,Bogotá - Unicentro,Tienda física,Calzado,41,160707,6588987,1
+2025-05-26,Bogotá - Unicentro,Tienda física,Accesorios,27,29706,802062,0
+2025-05-26,Medellín - Santafé,Tienda física,Jeans,139,122289,16998171,3
+2025-05-26,Medellín - Santafé,Tienda física,Camisetas,110,39179,4309690,2
+2025-05-26,Medellín - Santafé,Tienda física,Blusas,42,68569,2879898,1
+2025-05-26,Medellín - Santafé,Tienda física,Chaquetas,56,157149,8800344,1
+2025-05-26,Medellín - Santafé,Tienda física,Vestidos,36,139707,5029452,1
+2025-05-26,Medellín - Santafé,Tienda física,Calzado,40,155162,6206480,1
+2025-05-26,Medellín - Santafé,Tienda física,Accesorios,18,28879,519822,0
+2025-05-26,Cali - Chipichape,Tienda física,Jeans,138,121991,16834758,3
+2025-05-26,Cali - Chipichape,Tienda física,Camisetas,126,40120,5055120,2
+2025-05-26,Cali - Chipichape,Tienda física,Blusas,59,70018,4131062,1
+2025-05-26,Cali - Chipichape,Tienda física,Chaquetas,22,151916,3342152,0
+2025-05-26,Cali - Chipichape,Tienda física,Vestidos,60,142457,8547420,1
+2025-05-26,Cali - Chipichape,Tienda física,Calzado,2,154903,309806,0
+2025-05-26,Cali - Chipichape,Tienda física,Accesorios,0,30182,0,0
+2025-05-26,Barranquilla - Buenavista,Tienda física,Jeans,116,118952,13798432,3
+2025-05-26,Barranquilla - Buenavista,Tienda física,Camisetas,99,40066,3966534,2
+2025-05-26,Barranquilla - Buenavista,Tienda física,Blusas,45,67653,3044385,1
+2025-05-26,Barranquilla - Buenavista,Tienda física,Chaquetas,20,155293,3105860,0
+2025-05-26,Barranquilla - Buenavista,Tienda física,Vestidos,8,138747,1109976,0
+2025-05-26,Barranquilla - Buenavista,Tienda física,Calzado,34,154734,5260956,0
+2025-05-26,Barranquilla - Buenavista,Tienda física,Accesorios,33,29658,978714,0
+2025-05-26,Bucaramanga - Cacique,Tienda física,Jeans,92,121706,11196952,2
+2025-05-26,Bucaramanga - Cacique,Tienda física,Camisetas,103,39374,4055522,2
+2025-05-26,Bucaramanga - Cacique,Tienda física,Blusas,65,71032,4617080,1
+2025-05-26,Bucaramanga - Cacique,Tienda física,Chaquetas,28,156782,4389896,0
+2025-05-26,Bucaramanga - Cacique,Tienda física,Vestidos,20,142057,2841140,0
+2025-05-26,Bucaramanga - Cacique,Tienda física,Calzado,31,153220,4749820,0
+2025-05-26,Bucaramanga - Cacique,Tienda física,Accesorios,24,30326,727824,0
+2025-05-26,Tienda virtual,Online,Jeans,167,117699,19655733,9
+2025-05-26,Tienda virtual,Online,Camisetas,162,40123,6499926,6
+2025-05-26,Tienda virtual,Online,Blusas,58,70648,4097584,1
+2025-05-26,Tienda virtual,Online,Chaquetas,48,160605,7709040,1
+2025-05-26,Tienda virtual,Online,Vestidos,31,137054,4248674,1
+2025-05-26,Tienda virtual,Online,Calzado,44,156780,6898320,0
+2025-05-26,Tienda virtual,Online,Accesorios,33,28543,941919,0
+2025-06-02,Bogotá - Andino,Tienda física,Jeans,217,102674,22280258,4
+2025-06-02,Bogotá - Andino,Tienda física,Camisetas,185,34482,6379170,3
+2025-06-02,Bogotá - Andino,Tienda física,Blusas,102,69962,7136124,2
+2025-06-02,Bogotá - Andino,Tienda física,Chaquetas,57,162040,9236280,1
+2025-06-02,Bogotá - Andino,Tienda física,Vestidos,59,137064,8086776,1
+2025-06-02,Bogotá - Andino,Tienda física,Calzado,43,161019,6923817,0
+2025-06-02,Bogotá - Andino,Tienda física,Accesorios,37,29380,1087060,0
+2025-06-02,Bogotá - Unicentro,Tienda física,Jeans,178,99961,17793058,4
+2025-06-02,Bogotá - Unicentro,Tienda física,Camisetas,151,34728,5243928,3
+2025-06-02,Bogotá - Unicentro,Tienda física,Blusas,99,68487,6780213,2
+2025-06-02,Bogotá - Unicentro,Tienda física,Chaquetas,42,156119,6556998,0
+2025-06-02,Bogotá - Unicentro,Tienda física,Vestidos,41,138789,5690349,1
+2025-06-02,Bogotá - Unicentro,Tienda física,Calzado,34,163434,5556756,0
+2025-06-02,Bogotá - Unicentro,Tienda física,Accesorios,44,29511,1298484,1
+2025-06-02,Medellín - Santafé,Tienda física,Jeans,169,103664,17519216,4
+2025-06-02,Medellín - Santafé,Tienda física,Camisetas,130,33412,4343560,3
+2025-06-02,Medellín - Santafé,Tienda física,Blusas,81,69266,5610546,2
+2025-06-02,Medellín - Santafé,Tienda física,Chaquetas,34,157043,5339462,0
+2025-06-02,Medellín - Santafé,Tienda física,Vestidos,21,140513,2950773,0
+2025-06-02,Medellín - Santafé,Tienda física,Calzado,46,153415,7057090,1
+2025-06-02,Medellín - Santafé,Tienda física,Accesorios,7,28589,200123,0
+2025-06-02,Cali - Chipichape,Tienda física,Jeans,149,102961,15341189,3
+2025-06-02,Cali - Chipichape,Tienda física,Camisetas,138,32368,4466784,3
+2025-06-02,Cali - Chipichape,Tienda física,Blusas,64,66711,4269504,1
+2025-06-02,Cali - Chipichape,Tienda física,Chaquetas,25,157251,3931275,0
+2025-06-02,Cali - Chipichape,Tienda física,Vestidos,55,142663,7846465,1
+2025-06-02,Cali - Chipichape,Tienda física,Calzado,38,156181,5934878,0
+2025-06-02,Cali - Chipichape,Tienda física,Accesorios,60,29062,1743720,1
+2025-06-02,Barranquilla - Buenavista,Tienda física,Jeans,131,99371,13017601,2
+2025-06-02,Barranquilla - Buenavista,Tienda física,Camisetas,131,33605,4402255,3
+2025-06-02,Barranquilla - Buenavista,Tienda física,Blusas,49,66691,3267859,1
+2025-06-02,Barranquilla - Buenavista,Tienda física,Chaquetas,49,162863,7980287,1
+2025-06-02,Barranquilla - Buenavista,Tienda física,Vestidos,14,135165,1892310,0
+2025-06-02,Barranquilla - Buenavista,Tienda física,Calzado,23,157843,3630389,0
+2025-06-02,Barranquilla - Buenavista,Tienda física,Accesorios,19,29801,566219,0
+2025-06-02,Bucaramanga - Cacique,Tienda física,Jeans,111,104315,11578965,2
+2025-06-02,Bucaramanga - Cacique,Tienda física,Camisetas,93,32358,3009294,2
+2025-06-02,Bucaramanga - Cacique,Tienda física,Blusas,38,69564,2643432,0
+2025-06-02,Bucaramanga - Cacique,Tienda física,Chaquetas,26,155404,4040504,0
+2025-06-02,Bucaramanga - Cacique,Tienda física,Vestidos,20,141886,2837720,0
+2025-06-02,Bucaramanga - Cacique,Tienda física,Calzado,47,157720,7412840,1
+2025-06-02,Bucaramanga - Cacique,Tienda física,Accesorios,0,28543,0,0
+2025-06-02,Tienda virtual,Online,Jeans,196,102031,19998076,4
+2025-06-02,Tienda virtual,Online,Camisetas,178,33837,6022986,4
+2025-06-02,Tienda virtual,Online,Blusas,84,71563,6011292,3
+2025-06-02,Tienda virtual,Online,Chaquetas,54,160524,8668296,2
+2025-06-02,Tienda virtual,Online,Vestidos,30,136205,4086150,0
+2025-06-02,Tienda virtual,Online,Calzado,53,163646,8673238,1
+2025-06-02,Tienda virtual,Online,Accesorios,25,28646,716150,0
+2025-06-09,Bogotá - Andino,Tienda física,Jeans,209,100200,20941800,5
+2025-06-09,Bogotá - Andino,Tienda física,Camisetas,160,32918,5266880,4
+2025-06-09,Bogotá - Andino,Tienda física,Blusas,91,66721,6071611,2
+2025-06-09,Bogotá - Andino,Tienda física,Chaquetas,47,152439,7164633,1
+2025-06-09,Bogotá - Andino,Tienda física,Vestidos,44,139419,6134436,1
+2025-06-09,Bogotá - Andino,Tienda física,Calzado,62,159075,9862650,1
+2025-06-09,Bogotá - Andino,Tienda física,Accesorios,42,30417,1277514,0
+2025-06-09,Bogotá - Unicentro,Tienda física,Jeans,168,103336,17360448,5
+2025-06-09,Bogotá - Unicentro,Tienda física,Camisetas,159,33250,5286750,4
+2025-06-09,Bogotá - Unicentro,Tienda física,Blusas,83,67654,5615282,2
+2025-06-09,Bogotá - Unicentro,Tienda física,Chaquetas,57,161220,9189540,1
+2025-06-09,Bogotá - Unicentro,Tienda física,Vestidos,48,140503,6744144,1
+2025-06-09,Bogotá - Unicentro,Tienda física,Calzado,49,163716,8022084,1
+2025-06-09,Bogotá - Unicentro,Tienda física,Accesorios,23,30652,704996,0
+2025-06-09,Medellín - Santafé,Tienda física,Jeans,163,102937,16778731,4
+2025-06-09,Medellín - Santafé,Tienda física,Camisetas,166,34742,5767172,3
+2025-06-09,Medellín - Santafé,Tienda física,Blusas,53,69747,3696591,1
+2025-06-09,Medellín - Santafé,Tienda física,Chaquetas,46,153036,7039656,0
+2025-06-09,Medellín - Santafé,Tienda física,Vestidos,35,142366,4982810,0
+2025-06-09,Medellín - Santafé,Tienda física,Calzado,69,163732,11297508,1
+2025-06-09,Medellín - Santafé,Tienda física,Accesorios,2,29228,58456,0
+2025-06-09,Cali - Chipichape,Tienda física,Jeans,126,102172,12873672,2
+2025-06-09,Cali - Chipichape,Tienda física,Camisetas,128,32890,4209920,3
+2025-06-09,Cali - Chipichape,Tienda física,Blusas,78,67405,5257590,2
+2025-06-09,Cali - Chipichape,Tienda física,Chaquetas,37,159057,5885109,0
+2025-06-09,Cali - Chipichape,Tienda física,Vestidos,38,139078,5284964,1
+2025-06-09,Cali - Chipichape,Tienda física,Calzado,27,152336,4113072,0
+2025-06-09,Cali - Chipichape,Tienda física,Accesorios,16,28637,458192,0
+2025-06-09,Barranquilla - Buenavista,Tienda física,Jeans,141,99696,14057136,3
+2025-06-09,Barranquilla - Buenavista,Tienda física,Camisetas,133,34018,4524394,2
+2025-06-09,Barranquilla - Buenavista,Tienda física,Blusas,74,68259,5051166,2
+2025-06-09,Barranquilla - Buenavista,Tienda física,Chaquetas,59,163077,9621543,1
+2025-06-09,Barranquilla - Buenavista,Tienda física,Vestidos,33,142743,4710519,0
+2025-06-09,Barranquilla - Buenavista,Tienda física,Calzado,39,158251,6171789,0
+2025-06-09,Barranquilla - Buenavista,Tienda física,Accesorios,31,28797,892707,0
+2025-06-09,Bucaramanga - Cacique,Tienda física,Jeans,117,100951,11811267,2
+2025-06-09,Bucaramanga - Cacique,Tienda física,Camisetas,105,32771,3440955,2
+2025-06-09,Bucaramanga - Cacique,Tienda física,Blusas,62,67746,4200252,1
+2025-06-09,Bucaramanga - Cacique,Tienda física,Chaquetas,3,152098,456294,0
+2025-06-09,Bucaramanga - Cacique,Tienda física,Vestidos,25,138371,3459275,0
+2025-06-09,Bucaramanga - Cacique,Tienda física,Calzado,12,154837,1858044,0
+2025-06-09,Bucaramanga - Cacique,Tienda física,Accesorios,10,28772,287720,0
+2025-06-09,Tienda virtual,Online,Jeans,200,101043,20208600,6
+2025-06-09,Tienda virtual,Online,Camisetas,178,34635,6165030,4
+2025-06-09,Tienda virtual,Online,Blusas,80,69733,5578640,4
+2025-06-09,Tienda virtual,Online,Chaquetas,46,160997,7405862,1
+2025-06-09,Tienda virtual,Online,Vestidos,44,143906,6331864,0
+2025-06-09,Tienda virtual,Online,Calzado,66,159813,10547658,3
+2025-06-09,Tienda virtual,Online,Accesorios,35,30343,1062005,1
+2025-06-16,Bogotá - Andino,Tienda física,Jeans,192,104327,20030784,3
+2025-06-16,Bogotá - Andino,Tienda física,Camisetas,200,33323,6664600,4
+2025-06-16,Bogotá - Andino,Tienda física,Blusas,90,67774,6099660,2
+2025-06-16,Bogotá - Andino,Tienda física,Chaquetas,51,156309,7971759,1
+2025-06-16,Bogotá - Andino,Tienda física,Vestidos,41,135123,5540043,0
+2025-06-16,Bogotá - Andino,Tienda física,Calzado,38,164662,6257156,1
+2025-06-16,Bogotá - Andino,Tienda física,Accesorios,62,29552,1832224,1
+2025-06-16,Bogotá - Unicentro,Tienda física,Jeans,178,102946,18324388,4
+2025-06-16,Bogotá - Unicentro,Tienda física,Camisetas,136,32759,4455224,3
+2025-06-16,Bogotá - Unicentro,Tienda física,Blusas,93,66921,6223653,2
+2025-06-16,Bogotá - Unicentro,Tienda física,Chaquetas,28,156371,4378388,0
+2025-06-16,Bogotá - Unicentro,Tienda física,Vestidos,58,141249,8192442,1
+2025-06-16,Bogotá - Unicentro,Tienda física,Calzado,42,162502,6825084,1
+2025-06-16,Bogotá - Unicentro,Tienda física,Accesorios,45,30396,1367820,1
+2025-06-16,Medellín - Santafé,Tienda física,Jeans,155,101632,15752960,3
+2025-06-16,Medellín - Santafé,Tienda física,Camisetas,165,34581,5705865,3
+2025-06-16,Medellín - Santafé,Tienda física,Blusas,59,71778,4234902,1
+2025-06-16,Medellín - Santafé,Tienda física,Chaquetas,50,164293,8214650,1
+2025-06-16,Medellín - Santafé,Tienda física,Vestidos,36,135725,4886100,1
+2025-06-16,Medellín - Santafé,Tienda física,Calzado,45,157762,7099290,1
+2025-06-16,Medellín - Santafé,Tienda física,Accesorios,35,29583,1035405,1
+2025-06-16,Cali - Chipichape,Tienda física,Jeans,137,100015,13702055,3
+2025-06-16,Cali - Chipichape,Tienda física,Camisetas,117,34372,4021524,3
+2025-06-16,Cali - Chipichape,Tienda física,Blusas,88,68676,6043488,1
+2025-06-16,Cali - Chipichape,Tienda física,Chaquetas,30,160251,4807530,0
+2025-06-16,Cali - Chipichape,Tienda física,Vestidos,25,142264,3556600,0
+2025-06-16,Cali - Chipichape,Tienda física,Calzado,52,151962,7902024,1
+2025-06-16,Cali - Chipichape,Tienda física,Accesorios,29,30348,880092,0
+2025-06-16,Barranquilla - Buenavista,Tienda física,Jeans,131,101749,13329119,3
+2025-06-16,Barranquilla - Buenavista,Tienda física,Camisetas,117,33178,3881826,3
+2025-06-16,Barranquilla - Buenavista,Tienda física,Blusas,68,69867,4750956,1
+2025-06-16,Barranquilla - Buenavista,Tienda física,Chaquetas,42,160874,6756708,1
+2025-06-16,Barranquilla - Buenavista,Tienda física,Vestidos,35,140302,4910570,0
+2025-06-16,Barranquilla - Buenavista,Tienda física,Calzado,47,152436,7164492,1
+2025-06-16,Barranquilla - Buenavista,Tienda física,Accesorios,34,28845,980730,0
+2025-06-16,Bucaramanga - Cacique,Tienda física,Jeans,119,98647,11738993,3
+2025-06-16,Bucaramanga - Cacique,Tienda física,Camisetas,98,33874,3319652,2
+2025-06-16,Bucaramanga - Cacique,Tienda física,Blusas,39,71749,2798211,0
+2025-06-16,Bucaramanga - Cacique,Tienda física,Chaquetas,37,164550,6088350,0
+2025-06-16,Bucaramanga - Cacique,Tienda física,Vestidos,28,138805,3886540,0
+2025-06-16,Bucaramanga - Cacique,Tienda física,Calzado,22,154148,3391256,0
+2025-06-16,Bucaramanga - Cacique,Tienda física,Accesorios,0,29004,0,0
+2025-06-16,Tienda virtual,Online,Jeans,194,97641,18942354,8
+2025-06-16,Tienda virtual,Online,Camisetas,185,33241,6149585,10
+2025-06-16,Tienda virtual,Online,Blusas,76,71403,5426628,3
+2025-06-16,Tienda virtual,Online,Chaquetas,65,157585,10243025,3
+2025-06-16,Tienda virtual,Online,Vestidos,51,136954,6984654,2
+2025-06-16,Tienda virtual,Online,Calzado,42,158584,6660528,1
+2025-06-16,Tienda virtual,Online,Accesorios,22,30574,672628,0
+2025-06-23,Bogotá - Andino,Tienda física,Jeans,181,97283,17608223,5
+2025-06-23,Bogotá - Andino,Tienda física,Camisetas,214,34073,7291622,5
+2025-06-23,Bogotá - Andino,Tienda física,Blusas,75,71388,5354100,2
+2025-06-23,Bogotá - Andino,Tienda física,Chaquetas,60,161496,9689760,1
+2025-06-23,Bogotá - Andino,Tienda física,Vestidos,44,143570,6317080,1
+2025-06-23,Bogotá - Andino,Tienda física,Calzado,59,153753,9071427,1
+2025-06-23,Bogotá - Andino,Tienda física,Accesorios,30,29343,880290,0
+2025-06-23,Bogotá - Unicentro,Tienda física,Jeans,172,102049,17552428,3
+2025-06-23,Bogotá - Unicentro,Tienda física,Camisetas,163,33696,5492448,3
+2025-06-23,Bogotá - Unicentro,Tienda física,Blusas,71,71874,5103054,1
+2025-06-23,Bogotá - Unicentro,Tienda física,Chaquetas,52,156772,8152144,1
+2025-06-23,Bogotá - Unicentro,Tienda física,Vestidos,23,140847,3239481,0
+2025-06-23,Bogotá - Unicentro,Tienda física,Calzado,45,159262,7166790,1
+2025-06-23,Bogotá - Unicentro,Tienda física,Accesorios,36,30303,1090908,0
+2025-06-23,Medellín - Santafé,Tienda física,Jeans,175,103972,18195100,3
+2025-06-23,Medellín - Santafé,Tienda física,Camisetas,166,34222,5680852,3
+2025-06-23,Medellín - Santafé,Tienda física,Blusas,76,68069,5173244,1
+2025-06-23,Medellín - Santafé,Tienda física,Chaquetas,48,164273,7885104,1
+2025-06-23,Medellín - Santafé,Tienda física,Vestidos,42,143467,6025614,0
+2025-06-23,Medellín - Santafé,Tienda física,Calzado,53,156009,8268477,1
+2025-06-23,Medellín - Santafé,Tienda física,Accesorios,35,29347,1027145,0
+2025-06-23,Cali - Chipichape,Tienda física,Jeans,150,104675,15701250,3
+2025-06-23,Cali - Chipichape,Tienda física,Camisetas,142,33440,4748480,4
+2025-06-23,Cali - Chipichape,Tienda física,Blusas,92,69967,6436964,2
+2025-06-23,Cali - Chipichape,Tienda física,Chaquetas,35,161589,5655615,0
+2025-06-23,Cali - Chipichape,Tienda física,Vestidos,40,139158,5566320,1
+2025-06-23,Cali - Chipichape,Tienda física,Calzado,38,156545,5948710,1
+2025-06-23,Cali - Chipichape,Tienda física,Accesorios,14,29671,415394,0
+2025-06-23,Barranquilla - Buenavista,Tienda física,Jeans,124,103108,12785392,2
+2025-06-23,Barranquilla - Buenavista,Tienda física,Camisetas,114,34462,3928668,2
+2025-06-23,Barranquilla - Buenavista,Tienda física,Blusas,43,67889,2919227,0
+2025-06-23,Barranquilla - Buenavista,Tienda física,Chaquetas,57,152798,8709486,1
+2025-06-23,Barranquilla - Buenavista,Tienda física,Vestidos,30,137524,4125720,0
+2025-06-23,Barranquilla - Buenavista,Tienda física,Calzado,16,153328,2453248,0
+2025-06-23,Barranquilla - Buenavista,Tienda física,Accesorios,2,29921,59842,0
+2025-06-23,Bucaramanga - Cacique,Tienda física,Jeans,83,103134,8560122,1
+2025-06-23,Bucaramanga - Cacique,Tienda física,Camisetas,119,33146,3944374,2
+2025-06-23,Bucaramanga - Cacique,Tienda física,Blusas,43,70910,3049130,1
+2025-06-23,Bucaramanga - Cacique,Tienda física,Chaquetas,38,158707,6030866,0
+2025-06-23,Bucaramanga - Cacique,Tienda física,Vestidos,47,140397,6598659,1
+2025-06-23,Bucaramanga - Cacique,Tienda física,Calzado,36,152748,5498928,0
+2025-06-23,Bucaramanga - Cacique,Tienda física,Accesorios,26,29606,769756,0
+2025-06-23,Tienda virtual,Online,Jeans,180,100110,18019800,7
+2025-06-23,Tienda virtual,Online,Camisetas,162,32962,5339844,8
+2025-06-23,Tienda virtual,Online,Blusas,93,67250,6254250,4
+2025-06-23,Tienda virtual,Online,Chaquetas,27,161551,4361877,1
+2025-06-23,Tienda virtual,Online,Vestidos,64,141220,9038080,3
+2025-06-23,Tienda virtual,Online,Calzado,34,160205,5446970,1
+2025-06-23,Tienda virtual,Online,Accesorios,44,30088,1323872,1
+2025-06-30,Bogotá - Andino,Tienda física,Jeans,216,99062,21397392,4
+2025-06-30,Bogotá - Andino,Tienda física,Camisetas,171,32960,5636160,3
+2025-06-30,Bogotá - Andino,Tienda física,Blusas,81,67656,5480136,1
+2025-06-30,Bogotá - Andino,Tienda física,Chaquetas,39,162165,6324435,0
+2025-06-30,Bogotá - Andino,Tienda física,Vestidos,18,140733,2533194,0
+2025-06-30,Bogotá - Andino,Tienda física,Calzado,59,151948,8964932,1
+2025-06-30,Bogotá - Andino,Tienda física,Accesorios,24,28736,689664,0
+2025-06-30,Bogotá - Unicentro,Tienda física,Jeans,186,101343,18849798,5
+2025-06-30,Bogotá - Unicentro,Tienda física,Camisetas,167,32326,5398442,4
+2025-06-30,Bogotá - Unicentro,Tienda física,Blusas,87,69924,6083388,2
+2025-06-30,Bogotá - Unicentro,Tienda física,Chaquetas,51,156139,7963089,1
+2025-06-30,Bogotá - Unicentro,Tienda física,Vestidos,44,135243,5950692,1
+2025-06-30,Bogotá - Unicentro,Tienda física,Calzado,67,162250,10870750,1
+2025-06-30,Bogotá - Unicentro,Tienda física,Accesorios,49,28472,1395128,1
+2025-06-30,Medellín - Santafé,Tienda física,Jeans,170,100275,17046750,3
+2025-06-30,Medellín - Santafé,Tienda física,Camisetas,142,33806,4800452,3
+2025-06-30,Medellín - Santafé,Tienda física,Blusas,63,69268,4363884,1
+2025-06-30,Medellín - Santafé,Tienda física,Chaquetas,48,164641,7902768,1
+2025-06-30,Medellín - Santafé,Tienda física,Vestidos,62,143664,8907168,1
+2025-06-30,Medellín - Santafé,Tienda física,Calzado,49,158017,7742833,1
+2025-06-30,Medellín - Santafé,Tienda física,Accesorios,27,29490,796230,0
+2025-06-30,Cali - Chipichape,Tienda física,Jeans,141,99605,14044305,3
+2025-06-30,Cali - Chipichape,Tienda física,Camisetas,122,33312,4064064,2
+2025-06-30,Cali - Chipichape,Tienda física,Blusas,74,69291,5127534,1
+2025-06-30,Cali - Chipichape,Tienda física,Chaquetas,57,154434,8802738,1
+2025-06-30,Cali - Chipichape,Tienda física,Vestidos,36,139175,5010300,0
+2025-06-30,Cali - Chipichape,Tienda física,Calzado,47,164351,7724497,1
+2025-06-30,Cali - Chipichape,Tienda física,Accesorios,49,30133,1476517,1
+2025-06-30,Barranquilla - Buenavista,Tienda física,Jeans,121,97330,11776930,2
+2025-06-30,Barranquilla - Buenavista,Tienda física,Camisetas,145,34178,4955810,3
+2025-06-30,Barranquilla - Buenavista,Tienda física,Blusas,62,67880,4208560,1
+2025-06-30,Barranquilla - Buenavista,Tienda física,Chaquetas,43,164587,7077241,0
+2025-06-30,Barranquilla - Buenavista,Tienda física,Vestidos,44,133400,5869600,0
+2025-06-30,Barranquilla - Buenavista,Tienda física,Calzado,18,162195,2919510,0
+2025-06-30,Barranquilla - Buenavista,Tienda física,Accesorios,42,28649,1203258,0
+2025-06-30,Bucaramanga - Cacique,Tienda física,Jeans,120,100661,12079320,3
+2025-06-30,Bucaramanga - Cacique,Tienda física,Camisetas,118,34692,4093656,3
+2025-06-30,Bucaramanga - Cacique,Tienda física,Blusas,28,67122,1879416,0
+2025-06-30,Bucaramanga - Cacique,Tienda física,Chaquetas,32,159112,5091584,0
+2025-06-30,Bucaramanga - Cacique,Tienda física,Vestidos,27,133142,3594834,0
+2025-06-30,Bucaramanga - Cacique,Tienda física,Calzado,37,160990,5956630,1
+2025-06-30,Bucaramanga - Cacique,Tienda física,Accesorios,30,30156,904680,0
+2025-06-30,Tienda virtual,Online,Jeans,186,103438,19239468,9
+2025-06-30,Tienda virtual,Online,Camisetas,177,32799,5805423,7
+2025-06-30,Tienda virtual,Online,Blusas,89,68523,6098547,1
+2025-06-30,Tienda virtual,Online,Chaquetas,60,157836,9470160,1
+2025-06-30,Tienda virtual,Online,Vestidos,25,142854,3571350,1
+2025-06-30,Tienda virtual,Online,Calzado,59,159894,9433746,3
+2025-06-30,Tienda virtual,Online,Accesorios,35,29563,1034705,1
+2025-07-07,Bogotá - Andino,Tienda física,Jeans,170,122593,20840810,4
+2025-07-07,Bogotá - Andino,Tienda física,Camisetas,165,38237,6309105,4
+2025-07-07,Bogotá - Andino,Tienda física,Blusas,83,68957,5723431,2
+2025-07-07,Bogotá - Andino,Tienda física,Chaquetas,50,160045,8002250,1
+2025-07-07,Bogotá - Andino,Tienda física,Vestidos,34,141013,4794442,0
+2025-07-07,Bogotá - Andino,Tienda física,Calzado,46,157925,7264550,1
+2025-07-07,Bogotá - Andino,Tienda física,Accesorios,19,28978,550582,0
+2025-07-07,Bogotá - Unicentro,Tienda física,Jeans,126,120542,15188292,3
+2025-07-07,Bogotá - Unicentro,Tienda física,Camisetas,150,39817,5972550,3
+2025-07-07,Bogotá - Unicentro,Tienda física,Blusas,87,67739,5893293,2
+2025-07-07,Bogotá - Unicentro,Tienda física,Chaquetas,39,161985,6317415,1
+2025-07-07,Bogotá - Unicentro,Tienda física,Vestidos,45,139999,6299955,1
+2025-07-07,Bogotá - Unicentro,Tienda física,Calzado,43,164391,7068813,1
+2025-07-07,Bogotá - Unicentro,Tienda física,Accesorios,25,28496,712400,0
+2025-07-07,Medellín - Santafé,Tienda física,Jeans,139,116011,16125529,3
+2025-07-07,Medellín - Santafé,Tienda física,Camisetas,156,40874,6376344,4
+2025-07-07,Medellín - Santafé,Tienda física,Blusas,72,67262,4842864,1
+2025-07-07,Medellín - Santafé,Tienda física,Chaquetas,32,161590,5170880,0
+2025-07-07,Medellín - Santafé,Tienda física,Vestidos,50,134997,6749850,1
+2025-07-07,Medellín - Santafé,Tienda física,Calzado,33,153987,5081571,0
+2025-07-07,Medellín - Santafé,Tienda física,Accesorios,39,30533,1190787,1
+2025-07-07,Cali - Chipichape,Tienda física,Jeans,132,113926,15038232,3
+2025-07-07,Cali - Chipichape,Tienda física,Camisetas,90,39508,3555720,2
+2025-07-07,Cali - Chipichape,Tienda física,Blusas,48,69729,3346992,1
+2025-07-07,Cali - Chipichape,Tienda física,Chaquetas,35,158882,5560870,0
+2025-07-07,Cali - Chipichape,Tienda física,Vestidos,29,137347,3983063,0
+2025-07-07,Cali - Chipichape,Tienda física,Calzado,31,162518,5038058,0
+2025-07-07,Cali - Chipichape,Tienda física,Accesorios,17,29500,501500,0
+2025-07-07,Barranquilla - Buenavista,Tienda física,Jeans,102,118020,12038040,2
+2025-07-07,Barranquilla - Buenavista,Tienda física,Camisetas,93,41021,3814953,2
+2025-07-07,Barranquilla - Buenavista,Tienda física,Blusas,47,70488,3312936,1
+2025-07-07,Barranquilla - Buenavista,Tienda física,Chaquetas,32,162756,5208192,0
+2025-07-07,Barranquilla - Buenavista,Tienda física,Vestidos,18,141438,2545884,0
+2025-07-07,Barranquilla - Buenavista,Tienda física,Calzado,36,159662,5747832,1
+2025-07-07,Barranquilla - Buenavista,Tienda física,Accesorios,18,28584,514512,0
+2025-07-07,Bucaramanga - Cacique,Tienda física,Jeans,88,120547,10608136,2
+2025-07-07,Bucaramanga - Cacique,Tienda física,Camisetas,70,39205,2744350,1
+2025-07-07,Bucaramanga - Cacique,Tienda física,Blusas,40,70031,2801240,1
+2025-07-07,Bucaramanga - Cacique,Tienda física,Chaquetas,21,163582,3435222,0
+2025-07-07,Bucaramanga - Cacique,Tienda física,Vestidos,0,140925,0,0
+2025-07-07,Bucaramanga - Cacique,Tienda física,Calzado,14,157415,2203810,0
+2025-07-07,Bucaramanga - Cacique,Tienda física,Accesorios,0,28835,0,0
+2025-07-07,Tienda virtual,Online,Jeans,138,116328,16053264,4
+2025-07-07,Tienda virtual,Online,Camisetas,151,39017,5891567,4
+2025-07-07,Tienda virtual,Online,Blusas,83,71890,5966870,3
+2025-07-07,Tienda virtual,Online,Chaquetas,48,163829,7863792,2
+2025-07-07,Tienda virtual,Online,Vestidos,56,141329,7914424,1
+2025-07-07,Tienda virtual,Online,Calzado,8,155099,1240792,0
+2025-07-07,Tienda virtual,Online,Accesorios,34,30524,1037816,1
+2025-07-14,Bogotá - Andino,Tienda física,Jeans,168,117057,19665576,4
+2025-07-14,Bogotá - Andino,Tienda física,Camisetas,160,40441,6470560,4
+2025-07-14,Bogotá - Andino,Tienda física,Blusas,53,66991,3550523,1
+2025-07-14,Bogotá - Andino,Tienda física,Chaquetas,38,156601,5950838,0
+2025-07-14,Bogotá - Andino,Tienda física,Vestidos,54,143712,7760448,1
+2025-07-14,Bogotá - Andino,Tienda física,Calzado,27,158792,4287384,0
+2025-07-14,Bogotá - Andino,Tienda física,Accesorios,24,29379,705096,0
+2025-07-14,Bogotá - Unicentro,Tienda física,Jeans,132,114764,15148848,2
+2025-07-14,Bogotá - Unicentro,Tienda física,Camisetas,104,38822,4037488,3
+2025-07-14,Bogotá - Unicentro,Tienda física,Blusas,76,70407,5350932,2
+2025-07-14,Bogotá - Unicentro,Tienda física,Chaquetas,39,154159,6012201,0
+2025-07-14,Bogotá - Unicentro,Tienda física,Vestidos,26,141254,3672604,0
+2025-07-14,Bogotá - Unicentro,Tienda física,Calzado,21,155083,3256743,0
+2025-07-14,Bogotá - Unicentro,Tienda física,Accesorios,42,28905,1214010,0
+2025-07-14,Medellín - Santafé,Tienda física,Jeans,140,123154,17241560,3
+2025-07-14,Medellín - Santafé,Tienda física,Camisetas,113,39813,4498869,3
+2025-07-14,Medellín - Santafé,Tienda física,Blusas,54,68104,3677616,1
+2025-07-14,Medellín - Santafé,Tienda física,Chaquetas,38,156529,5948102,0
+2025-07-14,Medellín - Santafé,Tienda física,Vestidos,32,134168,4293376,0
+2025-07-14,Medellín - Santafé,Tienda física,Calzado,54,155403,8391762,1
+2025-07-14,Medellín - Santafé,Tienda física,Accesorios,19,28830,547770,0
+2025-07-14,Cali - Chipichape,Tienda física,Jeans,115,120518,13859570,2
+2025-07-14,Cali - Chipichape,Tienda física,Camisetas,123,40229,4948167,2
+2025-07-14,Cali - Chipichape,Tienda física,Blusas,65,71059,4618835,1
+2025-07-14,Cali - Chipichape,Tienda física,Chaquetas,27,162506,4387662,0
+2025-07-14,Cali - Chipichape,Tienda física,Vestidos,41,140411,5756851,0
+2025-07-14,Cali - Chipichape,Tienda física,Calzado,14,152030,2128420,0
+2025-07-14,Cali - Chipichape,Tienda física,Accesorios,25,29981,749525,0
+2025-07-14,Barranquilla - Buenavista,Tienda física,Jeans,103,120247,12385441,2
+2025-07-14,Barranquilla - Buenavista,Tienda física,Camisetas,103,41041,4227223,2
+2025-07-14,Barranquilla - Buenavista,Tienda física,Blusas,54,70052,3782808,1
+2025-07-14,Barranquilla - Buenavista,Tienda física,Chaquetas,29,152094,4410726,0
+2025-07-14,Barranquilla - Buenavista,Tienda física,Vestidos,29,134360,3896440,0
+2025-07-14,Barranquilla - Buenavista,Tienda física,Calzado,16,153674,2458784,0
+2025-07-14,Barranquilla - Buenavista,Tienda física,Accesorios,32,29006,928192,0
+2025-07-14,Bucaramanga - Cacique,Tienda física,Jeans,84,116286,9768024,2
+2025-07-14,Bucaramanga - Cacique,Tienda física,Camisetas,82,38815,3182830,1
+2025-07-14,Bucaramanga - Cacique,Tienda física,Blusas,42,67489,2834538,0
+2025-07-14,Bucaramanga - Cacique,Tienda física,Chaquetas,15,156819,2352285,0
+2025-07-14,Bucaramanga - Cacique,Tienda física,Vestidos,12,142638,1711656,0
+2025-07-14,Bucaramanga - Cacique,Tienda física,Calzado,13,160394,2085122,0
+2025-07-14,Bucaramanga - Cacique,Tienda física,Accesorios,15,29453,441795,0
+2025-07-14,Tienda virtual,Online,Jeans,158,118316,18693928,7
+2025-07-14,Tienda virtual,Online,Camisetas,150,39435,5915250,4
+2025-07-14,Tienda virtual,Online,Blusas,75,67695,5077125,2
+2025-07-14,Tienda virtual,Online,Chaquetas,44,156524,6887056,1
+2025-07-14,Tienda virtual,Online,Vestidos,39,143387,5592093,1
+2025-07-14,Tienda virtual,Online,Calzado,49,161425,7909825,2
+2025-07-14,Tienda virtual,Online,Accesorios,29,30486,884094,1
+2025-07-21,Bogotá - Andino,Tienda física,Jeans,171,122956,21025476,4
+2025-07-21,Bogotá - Andino,Tienda física,Camisetas,151,38670,5839170,3
+2025-07-21,Bogotá - Andino,Tienda física,Blusas,83,66869,5550127,1
+2025-07-21,Bogotá - Andino,Tienda física,Chaquetas,38,163726,6221588,0
+2025-07-21,Bogotá - Andino,Tienda física,Vestidos,38,137975,5243050,0
+2025-07-21,Bogotá - Andino,Tienda física,Calzado,40,154531,6181240,1
+2025-07-21,Bogotá - Andino,Tienda física,Accesorios,24,30759,738216,0
+2025-07-21,Bogotá - Unicentro,Tienda física,Jeans,148,115631,17113388,2
+2025-07-21,Bogotá - Unicentro,Tienda física,Camisetas,125,37983,4747875,3
+2025-07-21,Bogotá - Unicentro,Tienda física,Blusas,55,70545,3879975,1
+2025-07-21,Bogotá - Unicentro,Tienda física,Chaquetas,39,159643,6226077,1
+2025-07-21,Bogotá - Unicentro,Tienda física,Vestidos,47,134528,6322816,1
+2025-07-21,Bogotá - Unicentro,Tienda física,Calzado,56,162871,9120776,1
+2025-07-21,Bogotá - Unicentro,Tienda física,Accesorios,17,30564,519588,0
+2025-07-21,Medellín - Santafé,Tienda física,Jeans,139,122553,17034867,2
+2025-07-21,Medellín - Santafé,Tienda física,Camisetas,144,38597,5557968,2
+2025-07-21,Medellín - Santafé,Tienda física,Blusas,58,67476,3913608,1
+2025-07-21,Medellín - Santafé,Tienda física,Chaquetas,39,159366,6215274,1
+2025-07-21,Medellín - Santafé,Tienda física,Vestidos,17,133046,2261782,0
+2025-07-21,Medellín - Santafé,Tienda física,Calzado,47,154886,7279642,1
+2025-07-21,Medellín - Santafé,Tienda física,Accesorios,0,29582,0,0
+2025-07-21,Cali - Chipichape,Tienda física,Jeans,117,119863,14023971,2
+2025-07-21,Cali - Chipichape,Tienda física,Camisetas,115,41095,4725925,2
+2025-07-21,Cali - Chipichape,Tienda física,Blusas,48,67670,3248160,1
+2025-07-21,Cali - Chipichape,Tienda física,Chaquetas,26,156294,4063644,0
+2025-07-21,Cali - Chipichape,Tienda física,Vestidos,38,133161,5060118,0
+2025-07-21,Cali - Chipichape,Tienda física,Calzado,43,151907,6532001,1
+2025-07-21,Cali - Chipichape,Tienda física,Accesorios,39,29021,1131819,0
+2025-07-21,Barranquilla - Buenavista,Tienda física,Jeans,90,115225,10370250,2
+2025-07-21,Barranquilla - Buenavista,Tienda física,Camisetas,93,38289,3560877,2
+2025-07-21,Barranquilla - Buenavista,Tienda física,Blusas,54,69325,3743550,1
+2025-07-21,Barranquilla - Buenavista,Tienda física,Chaquetas,33,163245,5387085,0
+2025-07-21,Barranquilla - Buenavista,Tienda física,Vestidos,25,139458,3486450,0
+2025-07-21,Barranquilla - Buenavista,Tienda física,Calzado,35,157136,5499760,1
+2025-07-21,Barranquilla - Buenavista,Tienda física,Accesorios,5,30693,153465,0
+2025-07-21,Bucaramanga - Cacique,Tienda física,Jeans,69,122940,8482860,1
+2025-07-21,Bucaramanga - Cacique,Tienda física,Camisetas,109,38237,4167833,2
+2025-07-21,Bucaramanga - Cacique,Tienda física,Blusas,50,68024,3401200,1
+2025-07-21,Bucaramanga - Cacique,Tienda física,Chaquetas,47,157278,7392066,1
+2025-07-21,Bucaramanga - Cacique,Tienda física,Vestidos,15,142404,2136060,0
+2025-07-21,Bucaramanga - Cacique,Tienda física,Calzado,15,153396,2300940,0
+2025-07-21,Bucaramanga - Cacique,Tienda física,Accesorios,3,29979,89937,0
+2025-07-21,Tienda virtual,Online,Jeans,163,123136,20071168,4
+2025-07-21,Tienda virtual,Online,Camisetas,120,38147,4577640,6
+2025-07-21,Tienda virtual,Online,Blusas,65,70275,4567875,1
+2025-07-21,Tienda virtual,Online,Chaquetas,38,154931,5887378,1
+2025-07-21,Tienda virtual,Online,Vestidos,18,133726,2407068,0
+2025-07-21,Tienda virtual,Online,Calzado,38,159890,6075820,1
+2025-07-21,Tienda virtual,Online,Accesorios,15,28427,426405,0
+2025-07-28,Bogotá - Andino,Tienda física,Jeans,148,120407,17820236,4
+2025-07-28,Bogotá - Andino,Tienda física,Camisetas,151,40964,6185564,4
+2025-07-28,Bogotá - Andino,Tienda física,Blusas,72,67707,4874904,1
+2025-07-28,Bogotá - Andino,Tienda física,Chaquetas,52,157138,8171176,1
+2025-07-28,Bogotá - Andino,Tienda física,Vestidos,36,142978,5147208,0
+2025-07-28,Bogotá - Andino,Tienda física,Calzado,43,160390,6896770,1
+2025-07-28,Bogotá - Andino,Tienda física,Accesorios,16,28710,459360,0
+2025-07-28,Bogotá - Unicentro,Tienda física,Jeans,145,114247,16565815,3
+2025-07-28,Bogotá - Unicentro,Tienda física,Camisetas,143,39201,5605743,3
+2025-07-28,Bogotá - Unicentro,Tienda física,Blusas,81,71674,5805594,2
+2025-07-28,Bogotá - Unicentro,Tienda física,Chaquetas,45,156454,7040430,1
+2025-07-28,Bogotá - Unicentro,Tienda física,Vestidos,26,138296,3595696,0
+2025-07-28,Bogotá - Unicentro,Tienda física,Calzado,41,160551,6582591,0
+2025-07-28,Bogotá - Unicentro,Tienda física,Accesorios,2,30239,60478,0
+2025-07-28,Medellín - Santafé,Tienda física,Jeans,160,120063,19210080,4
+2025-07-28,Medellín - Santafé,Tienda física,Camisetas,119,38531,4585189,3
+2025-07-28,Medellín - Santafé,Tienda física,Blusas,34,68087,2314958,0
+2025-07-28,Medellín - Santafé,Tienda física,Chaquetas,43,162773,6999239,1
+2025-07-28,Medellín - Santafé,Tienda física,Vestidos,17,139494,2371398,0
+2025-07-28,Medellín - Santafé,Tienda física,Calzado,51,161187,8220537,1
+2025-07-28,Medellín - Santafé,Tienda física,Accesorios,24,28572,685728,0
+2025-07-28,Cali - Chipichape,Tienda física,Jeans,128,113942,14584576,2
+2025-07-28,Cali - Chipichape,Tienda física,Camisetas,128,38751,4960128,3
+2025-07-28,Cali - Chipichape,Tienda física,Blusas,58,67043,3888494,1
+2025-07-28,Cali - Chipichape,Tienda física,Chaquetas,31,164312,5093672,0
+2025-07-28,Cali - Chipichape,Tienda física,Vestidos,20,136488,2729760,0
+2025-07-28,Cali - Chipichape,Tienda física,Calzado,44,158030,6953320,0
+2025-07-28,Cali - Chipichape,Tienda física,Accesorios,24,28793,691032,0
+2025-07-28,Barranquilla - Buenavista,Tienda física,Jeans,109,119890,13068010,2
+2025-07-28,Barranquilla - Buenavista,Tienda física,Camisetas,98,40231,3942638,2
+2025-07-28,Barranquilla - Buenavista,Tienda física,Blusas,71,69155,4910005,1
+2025-07-28,Barranquilla - Buenavista,Tienda física,Chaquetas,42,152560,6407520,0
+2025-07-28,Barranquilla - Buenavista,Tienda física,Vestidos,18,140656,2531808,0
+2025-07-28,Barranquilla - Buenavista,Tienda física,Calzado,26,162102,4214652,0
+2025-07-28,Barranquilla - Buenavista,Tienda física,Accesorios,9,28630,257670,0
+2025-07-28,Bucaramanga - Cacique,Tienda física,Jeans,96,121617,11675232,2
+2025-07-28,Bucaramanga - Cacique,Tienda física,Camisetas,101,38643,3902943,2
+2025-07-28,Bucaramanga - Cacique,Tienda física,Blusas,33,67177,2216841,0
+2025-07-28,Bucaramanga - Cacique,Tienda física,Chaquetas,10,159356,1593560,0
+2025-07-28,Bucaramanga - Cacique,Tienda física,Vestidos,15,135798,2036970,0
+2025-07-28,Bucaramanga - Cacique,Tienda física,Calzado,17,158725,2698325,0
+2025-07-28,Bucaramanga - Cacique,Tienda física,Accesorios,33,28933,954789,0
+2025-07-28,Tienda virtual,Online,Jeans,159,120041,19086519,7
+2025-07-28,Tienda virtual,Online,Camisetas,125,38558,4819750,4
+2025-07-28,Tienda virtual,Online,Blusas,55,70109,3855995,1
+2025-07-28,Tienda virtual,Online,Chaquetas,46,161771,7441466,2
+2025-07-28,Tienda virtual,Online,Vestidos,43,140921,6059603,2
+2025-07-28,Tienda virtual,Online,Calzado,44,155940,6861360,2
+2025-07-28,Tienda virtual,Online,Accesorios,16,28538,456608,0
+2025-08-04,Bogotá - Andino,Tienda física,Jeans,161,118832,19131952,3
+2025-08-04,Bogotá - Andino,Tienda física,Camisetas,150,40878,6131700,4
+2025-08-04,Bogotá - Andino,Tienda física,Blusas,66,67073,4426818,1
+2025-08-04,Bogotá - Andino,Tienda física,Chaquetas,44,158573,6977212,1
+2025-08-04,Bogotá - Andino,Tienda física,Vestidos,33,141583,4672239,0
+2025-08-04,Bogotá - Andino,Tienda física,Calzado,27,152801,4125627,0
+2025-08-04,Bogotá - Andino,Tienda física,Accesorios,17,30004,510068,0
+2025-08-04,Bogotá - Unicentro,Tienda física,Jeans,137,116957,16023109,3
+2025-08-04,Bogotá - Unicentro,Tienda física,Camisetas,122,39091,4769102,2
+2025-08-04,Bogotá - Unicentro,Tienda física,Blusas,43,71591,3078413,1
+2025-08-04,Bogotá - Unicentro,Tienda física,Chaquetas,32,157734,5047488,0
+2025-08-04,Bogotá - Unicentro,Tienda física,Vestidos,27,136022,3672594,0
+2025-08-04,Bogotá - Unicentro,Tienda física,Calzado,62,153554,9520348,1
+2025-08-04,Bogotá - Unicentro,Tienda física,Accesorios,19,29886,567834,0
+2025-08-04,Medellín - Santafé,Tienda física,Jeans,148,121298,17952104,3
+2025-08-04,Medellín - Santafé,Tienda física,Camisetas,130,38178,4963140,3
+2025-08-04,Medellín - Santafé,Tienda física,Blusas,86,66691,5735426,1
+2025-08-04,Medellín - Santafé,Tienda física,Chaquetas,51,161728,8248128,1
+2025-08-04,Medellín - Santafé,Tienda física,Vestidos,34,134740,4581160,0
+2025-08-04,Medellín - Santafé,Tienda física,Calzado,37,162561,6014757,0
+2025-08-04,Medellín - Santafé,Tienda física,Accesorios,31,29423,912113,0
+2025-08-04,Cali - Chipichape,Tienda física,Jeans,131,115087,15076397,2
+2025-08-04,Cali - Chipichape,Tienda física,Camisetas,111,38733,4299363,3
+2025-08-04,Cali - Chipichape,Tienda física,Blusas,51,71391,3640941,1
+2025-08-04,Cali - Chipichape,Tienda física,Chaquetas,0,159632,0,0
+2025-08-04,Cali - Chipichape,Tienda física,Vestidos,31,138111,4281441,0
+2025-08-04,Cali - Chipichape,Tienda física,Calzado,29,154382,4477078,0
+2025-08-04,Cali - Chipichape,Tienda física,Accesorios,12,28660,343920,0
+2025-08-04,Barranquilla - Buenavista,Tienda física,Jeans,97,116352,11286144,2
+2025-08-04,Barranquilla - Buenavista,Tienda física,Camisetas,102,41066,4188732,2
+2025-08-04,Barranquilla - Buenavista,Tienda física,Blusas,54,67371,3638034,1
+2025-08-04,Barranquilla - Buenavista,Tienda física,Chaquetas,18,156274,2812932,0
+2025-08-04,Barranquilla - Buenavista,Tienda física,Vestidos,4,142564,570256,0
+2025-08-04,Barranquilla - Buenavista,Tienda física,Calzado,38,152038,5777444,1
+2025-08-04,Barranquilla - Buenavista,Tienda física,Accesorios,0,30682,0,0
+2025-08-04,Bucaramanga - Cacique,Tienda física,Jeans,69,122043,8420967,1
+2025-08-04,Bucaramanga - Cacique,Tienda física,Camisetas,78,39100,3049800,1
+2025-08-04,Bucaramanga - Cacique,Tienda física,Blusas,51,68520,3494520,1
+2025-08-04,Bucaramanga - Cacique,Tienda física,Chaquetas,26,157157,4086082,0
+2025-08-04,Bucaramanga - Cacique,Tienda física,Vestidos,45,142835,6427575,1
+2025-08-04,Bucaramanga - Cacique,Tienda física,Calzado,23,162192,3730416,0
+2025-08-04,Bucaramanga - Cacique,Tienda física,Accesorios,41,30146,1235986,1
+2025-08-04,Tienda virtual,Online,Jeans,150,120196,18029400,5
+2025-08-04,Tienda virtual,Online,Camisetas,129,40585,5235465,3
+2025-08-04,Tienda virtual,Online,Blusas,58,70993,4117594,1
+2025-08-04,Tienda virtual,Online,Chaquetas,36,162699,5857164,1
+2025-08-04,Tienda virtual,Online,Vestidos,39,143405,5592795,1
+2025-08-04,Tienda virtual,Online,Calzado,34,160564,5459176,1
+2025-08-04,Tienda virtual,Online,Accesorios,47,29715,1396605,1
+2025-08-11,Bogotá - Andino,Tienda física,Jeans,165,117159,19331235,4
+2025-08-11,Bogotá - Andino,Tienda física,Camisetas,153,38588,5903964,3
+2025-08-11,Bogotá - Andino,Tienda física,Blusas,50,67799,3389950,1
+2025-08-11,Bogotá - Andino,Tienda física,Chaquetas,41,162094,6645854,0
+2025-08-11,Bogotá - Andino,Tienda física,Vestidos,39,133695,5214105,0
+2025-08-11,Bogotá - Andino,Tienda física,Calzado,41,157815,6470415,0
+2025-08-11,Bogotá - Andino,Tienda física,Accesorios,18,30324,545832,0
+2025-08-11,Bogotá - Unicentro,Tienda física,Jeans,129,122487,15800823,3
+2025-08-11,Bogotá - Unicentro,Tienda física,Camisetas,142,40776,5790192,3
+2025-08-11,Bogotá - Unicentro,Tienda física,Blusas,54,69610,3758940,1
+2025-08-11,Bogotá - Unicentro,Tienda física,Chaquetas,58,159420,9246360,1
+2025-08-11,Bogotá - Unicentro,Tienda física,Vestidos,18,137565,2476170,0
+2025-08-11,Bogotá - Unicentro,Tienda física,Calzado,34,160418,5454212,0
+2025-08-11,Bogotá - Unicentro,Tienda física,Accesorios,15,30698,460470,0
+2025-08-11,Medellín - Santafé,Tienda física,Jeans,139,115102,15999178,4
+2025-08-11,Medellín - Santafé,Tienda física,Camisetas,137,39285,5382045,3
+2025-08-11,Medellín - Santafé,Tienda física,Blusas,64,68805,4403520,1
+2025-08-11,Medellín - Santafé,Tienda física,Chaquetas,12,161996,1943952,0
+2025-08-11,Medellín - Santafé,Tienda física,Vestidos,27,135393,3655611,0
+2025-08-11,Medellín - Santafé,Tienda física,Calzado,37,163201,6038437,1
+2025-08-11,Medellín - Santafé,Tienda física,Accesorios,13,29441,382733,0
+2025-08-11,Cali - Chipichape,Tienda física,Jeans,106,115839,12278934,2
+2025-08-11,Cali - Chipichape,Tienda física,Camisetas,79,38955,3077445,2
+2025-08-11,Cali - Chipichape,Tienda física,Blusas,58,69202,4013716,1
+2025-08-11,Cali - Chipichape,Tienda física,Chaquetas,44,153737,6764428,1
+2025-08-11,Cali - Chipichape,Tienda física,Vestidos,41,141805,5814005,0
+2025-08-11,Cali - Chipichape,Tienda física,Calzado,30,163548,4906440,0
+2025-08-11,Cali - Chipichape,Tienda física,Accesorios,20,29270,585400,0
+2025-08-11,Barranquilla - Buenavista,Tienda física,Jeans,77,115894,8923838,1
+2025-08-11,Barranquilla - Buenavista,Tienda física,Camisetas,69,40779,2813751,2
+2025-08-11,Barranquilla - Buenavista,Tienda física,Blusas,47,69261,3255267,1
+2025-08-11,Barranquilla - Buenavista,Tienda física,Chaquetas,21,159977,3359517,0
+2025-08-11,Barranquilla - Buenavista,Tienda física,Vestidos,21,137648,2890608,0
+2025-08-11,Barranquilla - Buenavista,Tienda física,Calzado,26,157281,4089306,0
+2025-08-11,Barranquilla - Buenavista,Tienda física,Accesorios,26,29525,767650,0
+2025-08-11,Bucaramanga - Cacique,Tienda física,Jeans,95,120781,11474195,2
+2025-08-11,Bucaramanga - Cacique,Tienda física,Camisetas,79,38661,3054219,1
+2025-08-11,Bucaramanga - Cacique,Tienda física,Blusas,32,69776,2232832,0
+2025-08-11,Bucaramanga - Cacique,Tienda física,Chaquetas,21,154488,3244248,0
+2025-08-11,Bucaramanga - Cacique,Tienda física,Vestidos,16,140874,2253984,0
+2025-08-11,Bucaramanga - Cacique,Tienda física,Calzado,3,155391,466173,0
+2025-08-11,Bucaramanga - Cacique,Tienda física,Accesorios,17,30663,521271,0
+2025-08-11,Tienda virtual,Online,Jeans,145,114733,16636285,3
+2025-08-11,Tienda virtual,Online,Camisetas,142,38358,5446836,5
+2025-08-11,Tienda virtual,Online,Blusas,51,69976,3568776,3
+2025-08-11,Tienda virtual,Online,Chaquetas,28,155040,4341120,0
+2025-08-11,Tienda virtual,Online,Vestidos,51,134709,6870159,1
+2025-08-11,Tienda virtual,Online,Calzado,31,153976,4773256,0
+2025-08-11,Tienda virtual,Online,Accesorios,17,28608,486336,0
+2025-08-18,Bogotá - Andino,Tienda física,Jeans,153,115666,17696898,3
+2025-08-18,Bogotá - Andino,Tienda física,Camisetas,161,39308,6328588,4
+2025-08-18,Bogotá - Andino,Tienda física,Blusas,45,69041,3106845,0
+2025-08-18,Bogotá - Andino,Tienda física,Chaquetas,44,159477,7016988,0
+2025-08-18,Bogotá - Andino,Tienda física,Vestidos,39,140754,5489406,1
+2025-08-18,Bogotá - Andino,Tienda física,Calzado,46,157065,7224990,1
+2025-08-18,Bogotá - Andino,Tienda física,Accesorios,16,30057,480912,0
+2025-08-18,Bogotá - Unicentro,Tienda física,Jeans,141,115366,16266606,4
+2025-08-18,Bogotá - Unicentro,Tienda física,Camisetas,125,40616,5077000,3
+2025-08-18,Bogotá - Unicentro,Tienda física,Blusas,62,68387,4239994,1
+2025-08-18,Bogotá - Unicentro,Tienda física,Chaquetas,46,157438,7242148,1
+2025-08-18,Bogotá - Unicentro,Tienda física,Vestidos,25,139107,3477675,0
+2025-08-18,Bogotá - Unicentro,Tienda física,Calzado,33,153763,5074179,0
+2025-08-18,Bogotá - Unicentro,Tienda física,Accesorios,0,30441,0,0
+2025-08-18,Medellín - Santafé,Tienda física,Jeans,115,117166,13474090,3
+2025-08-18,Medellín - Santafé,Tienda física,Camisetas,112,39658,4441696,2
+2025-08-18,Medellín - Santafé,Tienda física,Blusas,63,71423,4499649,1
+2025-08-18,Medellín - Santafé,Tienda física,Chaquetas,40,152247,6089880,0
+2025-08-18,Medellín - Santafé,Tienda física,Vestidos,16,136972,2191552,0
+2025-08-18,Medellín - Santafé,Tienda física,Calzado,36,156380,5629680,0
+2025-08-18,Medellín - Santafé,Tienda física,Accesorios,37,29545,1093165,0
+2025-08-18,Cali - Chipichape,Tienda física,Jeans,106,117618,12467508,2
+2025-08-18,Cali - Chipichape,Tienda física,Camisetas,107,39087,4182309,2
+2025-08-18,Cali - Chipichape,Tienda física,Blusas,43,68434,2942662,1
+2025-08-18,Cali - Chipichape,Tienda física,Chaquetas,20,156156,3123120,0
+2025-08-18,Cali - Chipichape,Tienda física,Vestidos,24,134698,3232752,0
+2025-08-18,Cali - Chipichape,Tienda física,Calzado,38,152665,5801270,1
+2025-08-18,Cali - Chipichape,Tienda física,Accesorios,19,28756,546364,0
+2025-08-18,Barranquilla - Buenavista,Tienda física,Jeans,110,120939,13303290,2
+2025-08-18,Barranquilla - Buenavista,Tienda física,Camisetas,98,40810,3999380,2
+2025-08-18,Barranquilla - Buenavista,Tienda física,Blusas,21,66905,1405005,0
+2025-08-18,Barranquilla - Buenavista,Tienda física,Chaquetas,18,157457,2834226,0
+2025-08-18,Barranquilla - Buenavista,Tienda física,Vestidos,23,137222,3156106,0
+2025-08-18,Barranquilla - Buenavista,Tienda física,Calzado,3,163071,489213,0
+2025-08-18,Barranquilla - Buenavista,Tienda física,Accesorios,0,28496,0,0
+2025-08-18,Bucaramanga - Cacique,Tienda física,Jeans,66,115096,7596336,1
+2025-08-18,Bucaramanga - Cacique,Tienda física,Camisetas,74,38263,2831462,1
+2025-08-18,Bucaramanga - Cacique,Tienda física,Blusas,23,67416,1550568,0
+2025-08-18,Bucaramanga - Cacique,Tienda física,Chaquetas,7,156518,1095626,0
+2025-08-18,Bucaramanga - Cacique,Tienda física,Vestidos,0,137767,0,0
+2025-08-18,Bucaramanga - Cacique,Tienda física,Calzado,22,164372,3616184,0
+2025-08-18,Bucaramanga - Cacique,Tienda física,Accesorios,22,30093,662046,0
+2025-08-18,Tienda virtual,Online,Jeans,150,117271,17590650,7
+2025-08-18,Tienda virtual,Online,Camisetas,143,38093,5447299,5
+2025-08-18,Tienda virtual,Online,Blusas,67,68863,4613821,3
+2025-08-18,Tienda virtual,Online,Chaquetas,36,159269,5733684,1
+2025-08-18,Tienda virtual,Online,Vestidos,46,136676,6287096,1
+2025-08-18,Tienda virtual,Online,Calzado,28,163972,4591216,1
+2025-08-18,Tienda virtual,Online,Accesorios,37,28745,1063565,0
+2025-08-25,Bogotá - Andino,Tienda física,Jeans,150,117581,17637150,4
+2025-08-25,Bogotá - Andino,Tienda física,Camisetas,169,40413,6829797,4
+2025-08-25,Bogotá - Andino,Tienda física,Blusas,74,66436,4916264,2
+2025-08-25,Bogotá - Andino,Tienda física,Chaquetas,27,159194,4298238,0
+2025-08-25,Bogotá - Andino,Tienda física,Vestidos,46,137480,6324080,1
+2025-08-25,Bogotá - Andino,Tienda física,Calzado,68,159774,10864632,1
+2025-08-25,Bogotá - Andino,Tienda física,Accesorios,18,29305,527490,0
+2025-08-25,Bogotá - Unicentro,Tienda física,Jeans,153,121464,18583992,4
+2025-08-25,Bogotá - Unicentro,Tienda física,Camisetas,114,41067,4681638,3
+2025-08-25,Bogotá - Unicentro,Tienda física,Blusas,55,67871,3732905,1
+2025-08-25,Bogotá - Unicentro,Tienda física,Chaquetas,54,153931,8312274,1
+2025-08-25,Bogotá - Unicentro,Tienda física,Vestidos,22,143234,3151148,0
+2025-08-25,Bogotá - Unicentro,Tienda física,Calzado,36,163804,5896944,0
+2025-08-25,Bogotá - Unicentro,Tienda física,Accesorios,34,29776,1012384,0
+2025-08-25,Medellín - Santafé,Tienda física,Jeans,146,119530,17451380,3
+2025-08-25,Medellín - Santafé,Tienda física,Camisetas,126,40385,5088510,2
+2025-08-25,Medellín - Santafé,Tienda física,Blusas,58,67951,3941158,1
+2025-08-25,Medellín - Santafé,Tienda física,Chaquetas,43,161196,6931428,0
+2025-08-25,Medellín - Santafé,Tienda física,Vestidos,21,141078,2962638,0
+2025-08-25,Medellín - Santafé,Tienda física,Calzado,46,161138,7412348,1
+2025-08-25,Medellín - Santafé,Tienda física,Accesorios,29,29970,869130,0
+2025-08-25,Cali - Chipichape,Tienda física,Jeans,94,122951,11557394,2
+2025-08-25,Cali - Chipichape,Tienda física,Camisetas,125,39267,4908375,3
+2025-08-25,Cali - Chipichape,Tienda física,Blusas,60,68956,4137360,1
+2025-08-25,Cali - Chipichape,Tienda física,Chaquetas,11,157037,1727407,0
+2025-08-25,Cali - Chipichape,Tienda física,Vestidos,20,141289,2825780,0
+2025-08-25,Cali - Chipichape,Tienda física,Calzado,31,160597,4978507,0
+2025-08-25,Cali - Chipichape,Tienda física,Accesorios,33,30176,995808,0
+2025-08-25,Barranquilla - Buenavista,Tienda física,Jeans,100,120013,12001300,2
+2025-08-25,Barranquilla - Buenavista,Tienda física,Camisetas,95,38011,3611045,2
+2025-08-25,Barranquilla - Buenavista,Tienda física,Blusas,69,66890,4615410,1
+2025-08-25,Barranquilla - Buenavista,Tienda física,Chaquetas,29,157847,4577563,0
+2025-08-25,Barranquilla - Buenavista,Tienda física,Vestidos,21,140948,2959908,0
+2025-08-25,Barranquilla - Buenavista,Tienda física,Calzado,11,154275,1697025,0
+2025-08-25,Barranquilla - Buenavista,Tienda física,Accesorios,40,30353,1214120,0
+2025-08-25,Bucaramanga - Cacique,Tienda física,Jeans,90,117131,10541790,1
+2025-08-25,Bucaramanga - Cacique,Tienda física,Camisetas,92,40873,3760316,2
+2025-08-25,Bucaramanga - Cacique,Tienda física,Blusas,41,71508,2931828,0
+2025-08-25,Bucaramanga - Cacique,Tienda física,Chaquetas,13,163500,2125500,0
+2025-08-25,Bucaramanga - Cacique,Tienda física,Vestidos,40,139965,5598600,1
+2025-08-25,Bucaramanga - Cacique,Tienda física,Calzado,18,162840,2931120,0
+2025-08-25,Bucaramanga - Cacique,Tienda física,Accesorios,35,30331,1061585,0
+2025-08-25,Tienda virtual,Online,Jeans,162,121048,19609776,4
+2025-08-25,Tienda virtual,Online,Camisetas,115,40975,4712125,6
+2025-08-25,Tienda virtual,Online,Blusas,73,67302,4913046,3
+2025-08-25,Tienda virtual,Online,Chaquetas,27,154050,4159350,0
+2025-08-25,Tienda virtual,Online,Vestidos,30,138168,4145040,1
+2025-08-25,Tienda virtual,Online,Calzado,38,158992,6041696,1
+2025-08-25,Tienda virtual,Online,Accesorios,35,29814,1043490,0
+2025-09-01,Bogotá - Andino,Tienda física,Jeans,167,123111,20559537,4
+2025-09-01,Bogotá - Andino,Tienda física,Camisetas,140,38352,5369280,3
+2025-09-01,Bogotá - Andino,Tienda física,Blusas,85,69466,5904610,1
+2025-09-01,Bogotá - Andino,Tienda física,Chaquetas,39,152271,5938569,0
+2025-09-01,Bogotá - Andino,Tienda física,Vestidos,44,139950,6157800,1
+2025-09-01,Bogotá - Andino,Tienda física,Calzado,49,164034,8037666,1
+2025-09-01,Bogotá - Andino,Tienda física,Accesorios,7,29921,209447,0
+2025-09-01,Bogotá - Unicentro,Tienda física,Jeans,158,122178,19304124,4
+2025-09-01,Bogotá - Unicentro,Tienda física,Camisetas,116,38863,4508108,3
+2025-09-01,Bogotá - Unicentro,Tienda física,Blusas,76,67770,5150520,2
+2025-09-01,Bogotá - Unicentro,Tienda física,Chaquetas,37,158981,5882297,0
+2025-09-01,Bogotá - Unicentro,Tienda física,Vestidos,32,138584,4434688,0
+2025-09-01,Bogotá - Unicentro,Tienda física,Calzado,45,160657,7229565,1
+2025-09-01,Bogotá - Unicentro,Tienda física,Accesorios,7,30778,215446,0
+2025-09-01,Medellín - Santafé,Tienda física,Jeans,130,114377,14869010,3
+2025-09-01,Medellín - Santafé,Tienda física,Camisetas,121,40998,4960758,2
+2025-09-01,Medellín - Santafé,Tienda física,Blusas,59,68729,4055011,1
+2025-09-01,Medellín - Santafé,Tienda física,Chaquetas,34,159445,5421130,0
+2025-09-01,Medellín - Santafé,Tienda física,Vestidos,38,134911,5126618,1
+2025-09-01,Medellín - Santafé,Tienda física,Calzado,35,153205,5362175,1
+2025-09-01,Medellín - Santafé,Tienda física,Accesorios,19,29638,563122,0
+2025-09-01,Cali - Chipichape,Tienda física,Jeans,137,123174,16874838,3
+2025-09-01,Cali - Chipichape,Tienda física,Camisetas,104,40555,4217720,3
+2025-09-01,Cali - Chipichape,Tienda física,Blusas,48,67022,3217056,1
+2025-09-01,Cali - Chipichape,Tienda física,Chaquetas,29,156564,4540356,0
+2025-09-01,Cali - Chipichape,Tienda física,Vestidos,33,143577,4738041,0
+2025-09-01,Cali - Chipichape,Tienda física,Calzado,46,160263,7372098,0
+2025-09-01,Cali - Chipichape,Tienda física,Accesorios,18,30141,542538,0
+2025-09-01,Barranquilla - Buenavista,Tienda física,Jeans,85,116351,9889835,1
+2025-09-01,Barranquilla - Buenavista,Tienda física,Camisetas,115,38409,4417035,2
+2025-09-01,Barranquilla - Buenavista,Tienda física,Blusas,29,67299,1951671,0
+2025-09-01,Barranquilla - Buenavista,Tienda física,Chaquetas,15,159253,2388795,0
+2025-09-01,Barranquilla - Buenavista,Tienda física,Vestidos,10,133074,1330740,0
+2025-09-01,Barranquilla - Buenavista,Tienda física,Calzado,35,157311,5505885,0
+2025-09-01,Barranquilla - Buenavista,Tienda física,Accesorios,17,30375,516375,0
+2025-09-01,Bucaramanga - Cacique,Tienda física,Jeans,76,114793,8724268,1
+2025-09-01,Bucaramanga - Cacique,Tienda física,Camisetas,71,40347,2864637,1
+2025-09-01,Bucaramanga - Cacique,Tienda física,Blusas,46,70151,3226946,1
+2025-09-01,Bucaramanga - Cacique,Tienda física,Chaquetas,9,163720,1473480,0
+2025-09-01,Bucaramanga - Cacique,Tienda física,Vestidos,24,134929,3238296,0
+2025-09-01,Bucaramanga - Cacique,Tienda física,Calzado,32,153041,4897312,0
+2025-09-01,Bucaramanga - Cacique,Tienda física,Accesorios,19,29418,558942,0
+2025-09-01,Tienda virtual,Online,Jeans,119,116249,13833631,3
+2025-09-01,Tienda virtual,Online,Camisetas,135,38879,5248665,4
+2025-09-01,Tienda virtual,Online,Blusas,84,68803,5779452,2
+2025-09-01,Tienda virtual,Online,Chaquetas,29,152485,4422065,0
+2025-09-01,Tienda virtual,Online,Vestidos,44,134657,5924908,1
+2025-09-01,Tienda virtual,Online,Calzado,25,152651,3816275,1
+2025-09-01,Tienda virtual,Online,Accesorios,21,30181,633801,1
+2025-09-08,Bogotá - Andino,Tienda física,Jeans,163,118803,19364889,3
+2025-09-08,Bogotá - Andino,Tienda física,Camisetas,141,40015,5642115,2
+2025-09-08,Bogotá - Andino,Tienda física,Blusas,62,71452,4430024,1
+2025-09-08,Bogotá - Andino,Tienda física,Chaquetas,44,154442,6795448,0
+2025-09-08,Bogotá - Andino,Tienda física,Vestidos,48,140598,6748704,1
+2025-09-08,Bogotá - Andino,Tienda física,Calzado,37,160484,5937908,0
+2025-09-08,Bogotá - Andino,Tienda física,Accesorios,34,29363,998342,0
+2025-09-08,Bogotá - Unicentro,Tienda física,Jeans,129,114580,14780820,3
+2025-09-08,Bogotá - Unicentro,Tienda física,Camisetas,129,41067,5297643,3
+2025-09-08,Bogotá - Unicentro,Tienda física,Blusas,74,69136,5116064,1
+2025-09-08,Bogotá - Unicentro,Tienda física,Chaquetas,44,160473,7060812,1
+2025-09-08,Bogotá - Unicentro,Tienda física,Vestidos,35,143357,5017495,0
+2025-09-08,Bogotá - Unicentro,Tienda física,Calzado,26,157962,4107012,0
+2025-09-08,Bogotá - Unicentro,Tienda física,Accesorios,16,30045,480720,0
+2025-09-08,Medellín - Santafé,Tienda física,Jeans,131,119450,15647950,3
+2025-09-08,Medellín - Santafé,Tienda física,Camisetas,139,40461,5624079,2
+2025-09-08,Medellín - Santafé,Tienda física,Blusas,66,68205,4501530,1
+2025-09-08,Medellín - Santafé,Tienda física,Chaquetas,18,156356,2814408,0
+2025-09-08,Medellín - Santafé,Tienda física,Vestidos,20,137009,2740180,0
+2025-09-08,Medellín - Santafé,Tienda física,Calzado,29,157507,4567703,0
+2025-09-08,Medellín - Santafé,Tienda física,Accesorios,54,28623,1545642,1
+2025-09-08,Cali - Chipichape,Tienda física,Jeans,124,115395,14308980,3
+2025-09-08,Cali - Chipichape,Tienda física,Camisetas,93,40193,3737949,1
+2025-09-08,Cali - Chipichape,Tienda física,Blusas,39,66425,2590575,0
+2025-09-08,Cali - Chipichape,Tienda física,Chaquetas,42,156428,6569976,1
+2025-09-08,Cali - Chipichape,Tienda física,Vestidos,36,143077,5150772,1
+2025-09-08,Cali - Chipichape,Tienda física,Calzado,29,162971,4726159,0
+2025-09-08,Cali - Chipichape,Tienda física,Accesorios,35,30672,1073520,0
+2025-09-08,Barranquilla - Buenavista,Tienda física,Jeans,98,115790,11347420,2
+2025-09-08,Barranquilla - Buenavista,Tienda física,Camisetas,84,39097,3284148,2
+2025-09-08,Barranquilla - Buenavista,Tienda física,Blusas,48,69693,3345264,1
+2025-09-08,Barranquilla - Buenavista,Tienda física,Chaquetas,24,158350,3800400,0
+2025-09-08,Barranquilla - Buenavista,Tienda física,Vestidos,37,140338,5192506,0
+2025-09-08,Barranquilla - Buenavista,Tienda física,Calzado,17,161755,2749835,0
+2025-09-08,Barranquilla - Buenavista,Tienda física,Accesorios,15,30273,454095,0
+2025-09-08,Bucaramanga - Cacique,Tienda física,Jeans,85,118804,10098340,2
+2025-09-08,Bucaramanga - Cacique,Tienda física,Camisetas,106,38831,4116086,2
+2025-09-08,Bucaramanga - Cacique,Tienda física,Blusas,33,69103,2280399,0
+2025-09-08,Bucaramanga - Cacique,Tienda física,Chaquetas,1,154628,154628,0
+2025-09-08,Bucaramanga - Cacique,Tienda física,Vestidos,13,136928,1780064,0
+2025-09-08,Bucaramanga - Cacique,Tienda física,Calzado,30,161286,4838580,0
+2025-09-08,Bucaramanga - Cacique,Tienda física,Accesorios,16,29970,479520,0
+2025-09-08,Tienda virtual,Online,Jeans,168,119998,20159664,8
+2025-09-08,Tienda virtual,Online,Camisetas,136,39056,5311616,2
+2025-09-08,Tienda virtual,Online,Blusas,73,71784,5240232,2
+2025-09-08,Tienda virtual,Online,Chaquetas,24,162195,3892680,0
+2025-09-08,Tienda virtual,Online,Vestidos,6,136675,820050,0
+2025-09-08,Tienda virtual,Online,Calzado,44,158143,6958292,1
+2025-09-08,Tienda virtual,Online,Accesorios,5,29050,145250,0
+2025-09-15,Bogotá - Andino,Tienda física,Jeans,152,122047,18551144,4
+2025-09-15,Bogotá - Andino,Tienda física,Camisetas,123,39307,4834761,2
+2025-09-15,Bogotá - Andino,Tienda física,Blusas,61,67430,4113230,1
+2025-09-15,Bogotá - Andino,Tienda física,Chaquetas,72,155498,11195856,2
+2025-09-15,Bogotá - Andino,Tienda física,Vestidos,43,142436,6124748,1
+2025-09-15,Bogotá - Andino,Tienda física,Calzado,33,157370,5193210,0
+2025-09-15,Bogotá - Andino,Tienda física,Accesorios,28,28690,803320,0
+2025-09-15,Bogotá - Unicentro,Tienda física,Jeans,124,118120,14646880,2
+2025-09-15,Bogotá - Unicentro,Tienda física,Camisetas,119,37969,4518311,2
+2025-09-15,Bogotá - Unicentro,Tienda física,Blusas,58,68525,3974450,1
+2025-09-15,Bogotá - Unicentro,Tienda física,Chaquetas,22,156164,3435608,0
+2025-09-15,Bogotá - Unicentro,Tienda física,Vestidos,46,139895,6435170,1
+2025-09-15,Bogotá - Unicentro,Tienda física,Calzado,54,159720,8624880,1
+2025-09-15,Bogotá - Unicentro,Tienda física,Accesorios,24,28883,693192,0
+2025-09-15,Medellín - Santafé,Tienda física,Jeans,137,119525,16374925,3
+2025-09-15,Medellín - Santafé,Tienda física,Camisetas,116,38932,4516112,2
+2025-09-15,Medellín - Santafé,Tienda física,Blusas,52,69771,3628092,1
+2025-09-15,Medellín - Santafé,Tienda física,Chaquetas,50,153469,7673450,1
+2025-09-15,Medellín - Santafé,Tienda física,Vestidos,25,136970,3424250,0
+2025-09-15,Medellín - Santafé,Tienda física,Calzado,46,153388,7055848,1
+2025-09-15,Medellín - Santafé,Tienda física,Accesorios,23,28987,666701,0
+2025-09-15,Cali - Chipichape,Tienda física,Jeans,137,117523,16100651,2
+2025-09-15,Cali - Chipichape,Tienda física,Camisetas,112,38764,4341568,3
+2025-09-15,Cali - Chipichape,Tienda física,Blusas,31,69084,2141604,0
+2025-09-15,Cali - Chipichape,Tienda física,Chaquetas,41,154819,6347579,1
+2025-09-15,Cali - Chipichape,Tienda física,Vestidos,30,141611,4248330,0
+2025-09-15,Cali - Chipichape,Tienda física,Calzado,18,162134,2918412,0
+2025-09-15,Cali - Chipichape,Tienda física,Accesorios,15,29026,435390,0
+2025-09-15,Barranquilla - Buenavista,Tienda física,Jeans,66,114777,7575282,1
+2025-09-15,Barranquilla - Buenavista,Tienda física,Camisetas,109,38583,4205547,2
+2025-09-15,Barranquilla - Buenavista,Tienda física,Blusas,51,68468,3491868,1
+2025-09-15,Barranquilla - Buenavista,Tienda física,Chaquetas,30,158400,4752000,0
+2025-09-15,Barranquilla - Buenavista,Tienda física,Vestidos,19,143893,2733967,0
+2025-09-15,Barranquilla - Buenavista,Tienda física,Calzado,13,158436,2059668,0
+2025-09-15,Barranquilla - Buenavista,Tienda física,Accesorios,0,28906,0,0
+2025-09-15,Bucaramanga - Cacique,Tienda física,Jeans,102,117336,11968272,2
+2025-09-15,Bucaramanga - Cacique,Tienda física,Camisetas,67,38811,2600337,1
+2025-09-15,Bucaramanga - Cacique,Tienda física,Blusas,29,71746,2080634,0
+2025-09-15,Bucaramanga - Cacique,Tienda física,Chaquetas,35,158710,5554850,0
+2025-09-15,Bucaramanga - Cacique,Tienda física,Vestidos,31,136580,4233980,0
+2025-09-15,Bucaramanga - Cacique,Tienda física,Calzado,16,164145,2626320,0
+2025-09-15,Bucaramanga - Cacique,Tienda física,Accesorios,24,29366,704784,0
+2025-09-15,Tienda virtual,Online,Jeans,138,118186,16309668,5
+2025-09-15,Tienda virtual,Online,Camisetas,122,38647,4714934,6
+2025-09-15,Tienda virtual,Online,Blusas,46,68501,3151046,2
+2025-09-15,Tienda virtual,Online,Chaquetas,45,152272,6852240,1
+2025-09-15,Tienda virtual,Online,Vestidos,52,140467,7304284,2
+2025-09-15,Tienda virtual,Online,Calzado,34,157947,5370198,0
+2025-09-15,Tienda virtual,Online,Accesorios,32,30064,962048,0
+2025-09-22,Bogotá - Andino,Tienda física,Jeans,174,120087,20895138,3
+2025-09-22,Bogotá - Andino,Tienda física,Camisetas,142,39531,5613402,3
+2025-09-22,Bogotá - Andino,Tienda física,Blusas,69,69484,4794396,1
+2025-09-22,Bogotá - Andino,Tienda física,Chaquetas,25,153628,3840700,0
+2025-09-22,Bogotá - Andino,Tienda física,Vestidos,38,140500,5339000,0
+2025-09-22,Bogotá - Andino,Tienda física,Calzado,26,159215,4139590,0
+2025-09-22,Bogotá - Andino,Tienda física,Accesorios,12,29463,353556,0
+2025-09-22,Bogotá - Unicentro,Tienda física,Jeans,117,117396,13735332,2
+2025-09-22,Bogotá - Unicentro,Tienda física,Camisetas,118,41000,4838000,3
+2025-09-22,Bogotá - Unicentro,Tienda física,Blusas,60,69826,4189560,1
+2025-09-22,Bogotá - Unicentro,Tienda física,Chaquetas,31,163851,5079381,0
+2025-09-22,Bogotá - Unicentro,Tienda física,Vestidos,30,142371,4271130,0
+2025-09-22,Bogotá - Unicentro,Tienda física,Calzado,26,162495,4224870,0
+2025-09-22,Bogotá - Unicentro,Tienda física,Accesorios,47,29457,1384479,1
+2025-09-22,Medellín - Santafé,Tienda física,Jeans,132,120508,15907056,3
+2025-09-22,Medellín - Santafé,Tienda física,Camisetas,126,40773,5137398,2
+2025-09-22,Medellín - Santafé,Tienda física,Blusas,54,66550,3593700,1
+2025-09-22,Medellín - Santafé,Tienda física,Chaquetas,39,159889,6235671,0
+2025-09-22,Medellín - Santafé,Tienda física,Vestidos,32,134692,4310144,0
+2025-09-22,Medellín - Santafé,Tienda física,Calzado,29,163486,4741094,0
+2025-09-22,Medellín - Santafé,Tienda física,Accesorios,48,30772,1477056,1
+2025-09-22,Cali - Chipichape,Tienda física,Jeans,116,122791,14243756,3
+2025-09-22,Cali - Chipichape,Tienda física,Camisetas,96,40242,3863232,2
+2025-09-22,Cali - Chipichape,Tienda física,Blusas,75,69492,5211900,1
+2025-09-22,Cali - Chipichape,Tienda física,Chaquetas,45,162931,7331895,0
+2025-09-22,Cali - Chipichape,Tienda física,Vestidos,22,141702,3117444,0
+2025-09-22,Cali - Chipichape,Tienda física,Calzado,17,154421,2625157,0
+2025-09-22,Cali - Chipichape,Tienda física,Accesorios,15,30393,455895,0
+2025-09-22,Barranquilla - Buenavista,Tienda física,Jeans,121,120571,14589091,2
+2025-09-22,Barranquilla - Buenavista,Tienda física,Camisetas,96,40950,3931200,2
+2025-09-22,Barranquilla - Buenavista,Tienda física,Blusas,55,69256,3809080,1
+2025-09-22,Barranquilla - Buenavista,Tienda física,Chaquetas,47,161436,7587492,1
+2025-09-22,Barranquilla - Buenavista,Tienda física,Vestidos,27,136899,3696273,0
+2025-09-22,Barranquilla - Buenavista,Tienda física,Calzado,16,160321,2565136,0
+2025-09-22,Barranquilla - Buenavista,Tienda física,Accesorios,32,29659,949088,0
+2025-09-22,Bucaramanga - Cacique,Tienda física,Jeans,96,118766,11401536,2
+2025-09-22,Bucaramanga - Cacique,Tienda física,Camisetas,72,38536,2774592,1
+2025-09-22,Bucaramanga - Cacique,Tienda física,Blusas,26,66932,1740232,0
+2025-09-22,Bucaramanga - Cacique,Tienda física,Chaquetas,40,160035,6401400,0
+2025-09-22,Bucaramanga - Cacique,Tienda física,Vestidos,8,135342,1082736,0
+2025-09-22,Bucaramanga - Cacique,Tienda física,Calzado,33,151929,5013657,0
+2025-09-22,Bucaramanga - Cacique,Tienda física,Accesorios,13,29725,386425,0
+2025-09-22,Tienda virtual,Online,Jeans,170,119909,20384530,4
+2025-09-22,Tienda virtual,Online,Camisetas,139,40658,5651462,7
+2025-09-22,Tienda virtual,Online,Blusas,58,70197,4071426,3
+2025-09-22,Tienda virtual,Online,Chaquetas,22,164093,3610046,0
+2025-09-22,Tienda virtual,Online,Vestidos,41,134032,5495312,1
+2025-09-22,Tienda virtual,Online,Calzado,32,154734,4951488,1
+2025-09-22,Tienda virtual,Online,Accesorios,24,29333,703992,0
+2025-09-29,Bogotá - Andino,Tienda física,Jeans,165,115727,19094955,4
+2025-09-29,Bogotá - Andino,Tienda física,Camisetas,162,39621,6418602,3
+2025-09-29,Bogotá - Andino,Tienda física,Blusas,51,66498,3391398,1
+2025-09-29,Bogotá - Andino,Tienda física,Chaquetas,41,154453,6332573,0
+2025-09-29,Bogotá - Andino,Tienda física,Vestidos,38,138925,5279150,0
+2025-09-29,Bogotá - Andino,Tienda física,Calzado,26,161896,4209296,0
+2025-09-29,Bogotá - Andino,Tienda física,Accesorios,25,29775,744375,0
+2025-09-29,Bogotá - Unicentro,Tienda física,Jeans,127,117469,14918563,3
+2025-09-29,Bogotá - Unicentro,Tienda física,Camisetas,142,40111,5695762,3
+2025-09-29,Bogotá - Unicentro,Tienda física,Blusas,70,69484,4863880,1
+2025-09-29,Bogotá - Unicentro,Tienda física,Chaquetas,54,163039,8804106,1
+2025-09-29,Bogotá - Unicentro,Tienda física,Vestidos,45,135685,6105825,0
+2025-09-29,Bogotá - Unicentro,Tienda física,Calzado,36,158164,5693904,0
+2025-09-29,Bogotá - Unicentro,Tienda física,Accesorios,27,29122,786294,0
+2025-09-29,Medellín - Santafé,Tienda física,Jeans,115,120837,13896255,2
+2025-09-29,Medellín - Santafé,Tienda física,Camisetas,136,38618,5252048,2
+2025-09-29,Medellín - Santafé,Tienda física,Blusas,58,70303,4077574,1
+2025-09-29,Medellín - Santafé,Tienda física,Chaquetas,39,164643,6421077,0
+2025-09-29,Medellín - Santafé,Tienda física,Vestidos,50,137513,6875650,1
+2025-09-29,Medellín - Santafé,Tienda física,Calzado,39,156925,6120075,0
+2025-09-29,Medellín - Santafé,Tienda física,Accesorios,47,29630,1392610,1
+2025-09-29,Cali - Chipichape,Tienda física,Jeans,126,118097,14880222,3
+2025-09-29,Cali - Chipichape,Tienda física,Camisetas,112,38473,4308976,2
+2025-09-29,Cali - Chipichape,Tienda física,Blusas,40,71389,2855560,0
+2025-09-29,Cali - Chipichape,Tienda física,Chaquetas,22,157806,3471732,0
+2025-09-29,Cali - Chipichape,Tienda física,Vestidos,13,135648,1763424,0
+2025-09-29,Cali - Chipichape,Tienda física,Calzado,33,156624,5168592,0
+2025-09-29,Cali - Chipichape,Tienda física,Accesorios,15,30744,461160,0
+2025-09-29,Barranquilla - Buenavista,Tienda física,Jeans,90,121991,10979190,2
+2025-09-29,Barranquilla - Buenavista,Tienda física,Camisetas,83,38323,3180809,1
+2025-09-29,Barranquilla - Buenavista,Tienda física,Blusas,43,67549,2904607,1
+2025-09-29,Barranquilla - Buenavista,Tienda física,Chaquetas,8,160306,1282448,0
+2025-09-29,Barranquilla - Buenavista,Tienda física,Vestidos,36,136542,4915512,0
+2025-09-29,Barranquilla - Buenavista,Tienda física,Calzado,28,156212,4373936,0
+2025-09-29,Barranquilla - Buenavista,Tienda física,Accesorios,12,30296,363552,0
+2025-09-29,Bucaramanga - Cacique,Tienda física,Jeans,76,119140,9054640,2
+2025-09-29,Bucaramanga - Cacique,Tienda física,Camisetas,93,38122,3545346,2
+2025-09-29,Bucaramanga - Cacique,Tienda física,Blusas,52,66545,3460340,1
+2025-09-29,Bucaramanga - Cacique,Tienda física,Chaquetas,17,156957,2668269,0
+2025-09-29,Bucaramanga - Cacique,Tienda física,Vestidos,25,137548,3438700,0
+2025-09-29,Bucaramanga - Cacique,Tienda física,Calzado,12,164277,1971324,0
+2025-09-29,Bucaramanga - Cacique,Tienda física,Accesorios,12,29446,353352,0
+2025-09-29,Tienda virtual,Online,Jeans,157,120103,18856171,8
+2025-09-29,Tienda virtual,Online,Camisetas,135,39160,5286600,6
+2025-09-29,Tienda virtual,Online,Blusas,67,66640,4464880,2
+2025-09-29,Tienda virtual,Online,Chaquetas,44,163084,7175696,1
+2025-09-29,Tienda virtual,Online,Vestidos,15,135995,2039925,0
+2025-09-29,Tienda virtual,Online,Calzado,46,158547,7293162,1
+2025-09-29,Tienda virtual,Online,Accesorios,48,28974,1390752,2
+2025-10-06,Bogotá - Andino,Tienda física,Jeans,166,117897,19570902,3
+2025-10-06,Bogotá - Andino,Tienda física,Camisetas,139,38871,5403069,3
+2025-10-06,Bogotá - Andino,Tienda física,Blusas,91,70377,6404307,1
+2025-10-06,Bogotá - Andino,Tienda física,Chaquetas,52,155762,8099624,1
+2025-10-06,Bogotá - Andino,Tienda física,Vestidos,38,133121,5058598,0
+2025-10-06,Bogotá - Andino,Tienda física,Calzado,56,152107,8517992,1
+2025-10-06,Bogotá - Andino,Tienda física,Accesorios,39,28937,1128543,0
+2025-10-06,Bogotá - Unicentro,Tienda física,Jeans,157,118870,18662590,3
+2025-10-06,Bogotá - Unicentro,Tienda física,Camisetas,145,40526,5876270,3
+2025-10-06,Bogotá - Unicentro,Tienda física,Blusas,70,71099,4976930,1
+2025-10-06,Bogotá - Unicentro,Tienda física,Chaquetas,49,161399,7908551,1
+2025-10-06,Bogotá - Unicentro,Tienda física,Vestidos,46,139593,6421278,1
+2025-10-06,Bogotá - Unicentro,Tienda física,Calzado,36,153189,5514804,0
+2025-10-06,Bogotá - Unicentro,Tienda física,Accesorios,19,30129,572451,0
+2025-10-06,Medellín - Santafé,Tienda física,Jeans,129,118671,15308559,2
+2025-10-06,Medellín - Santafé,Tienda física,Camisetas,126,39774,5011524,2
+2025-10-06,Medellín - Santafé,Tienda física,Blusas,71,67941,4823811,1
+2025-10-06,Medellín - Santafé,Tienda física,Chaquetas,57,158246,9020022,1
+2025-10-06,Medellín - Santafé,Tienda física,Vestidos,44,134191,5904404,1
+2025-10-06,Medellín - Santafé,Tienda física,Calzado,19,156687,2977053,0
+2025-10-06,Medellín - Santafé,Tienda física,Accesorios,23,30540,702420,0
+2025-10-06,Cali - Chipichape,Tienda física,Jeans,151,123403,18633853,4
+2025-10-06,Cali - Chipichape,Tienda física,Camisetas,114,38725,4414650,3
+2025-10-06,Cali - Chipichape,Tienda física,Blusas,52,71983,3743116,1
+2025-10-06,Cali - Chipichape,Tienda física,Chaquetas,28,162262,4543336,0
+2025-10-06,Cali - Chipichape,Tienda física,Vestidos,50,134868,6743400,1
+2025-10-06,Cali - Chipichape,Tienda física,Calzado,45,159787,7190415,0
+2025-10-06,Cali - Chipichape,Tienda física,Accesorios,2,28634,57268,0
+2025-10-06,Barranquilla - Buenavista,Tienda física,Jeans,117,114907,13444119,2
+2025-10-06,Barranquilla - Buenavista,Tienda física,Camisetas,95,38042,3613990,2
+2025-10-06,Barranquilla - Buenavista,Tienda física,Blusas,38,71774,2727412,0
+2025-10-06,Barranquilla - Buenavista,Tienda física,Chaquetas,19,160810,3055390,0
+2025-10-06,Barranquilla - Buenavista,Tienda física,Vestidos,31,140182,4345642,0
+2025-10-06,Barranquilla - Buenavista,Tienda física,Calzado,17,154308,2623236,0
+2025-10-06,Barranquilla - Buenavista,Tienda física,Accesorios,12,30712,368544,0
+2025-10-06,Bucaramanga - Cacique,Tienda física,Jeans,107,121953,13048971,2
+2025-10-06,Bucaramanga - Cacique,Tienda física,Camisetas,87,40275,3503925,2
+2025-10-06,Bucaramanga - Cacique,Tienda física,Blusas,65,71322,4635930,1
+2025-10-06,Bucaramanga - Cacique,Tienda física,Chaquetas,16,161977,2591632,0
+2025-10-06,Bucaramanga - Cacique,Tienda física,Vestidos,17,141846,2411382,0
+2025-10-06,Bucaramanga - Cacique,Tienda física,Calzado,35,162709,5694815,0
+2025-10-06,Bucaramanga - Cacique,Tienda física,Accesorios,19,29763,565497,0
+2025-10-06,Tienda virtual,Online,Jeans,169,117133,19795477,4
+2025-10-06,Tienda virtual,Online,Camisetas,163,38618,6294734,8
+2025-10-06,Tienda virtual,Online,Blusas,92,68245,6278540,4
+2025-10-06,Tienda virtual,Online,Chaquetas,40,156955,6278200,0
+2025-10-06,Tienda virtual,Online,Vestidos,47,137779,6475613,1
+2025-10-06,Tienda virtual,Online,Calzado,67,156704,10499168,1
+2025-10-06,Tienda virtual,Online,Accesorios,29,30702,890358,0
+2025-10-13,Bogotá - Andino,Tienda física,Jeans,176,114859,20215184,4
+2025-10-13,Bogotá - Andino,Tienda física,Camisetas,167,39762,6640254,4
+2025-10-13,Bogotá - Andino,Tienda física,Blusas,82,71829,5889978,1
+2025-10-13,Bogotá - Andino,Tienda física,Chaquetas,56,164562,9215472,1
+2025-10-13,Bogotá - Andino,Tienda física,Vestidos,57,133140,7588980,1
+2025-10-13,Bogotá - Andino,Tienda física,Calzado,63,162261,10222443,1
+2025-10-13,Bogotá - Andino,Tienda física,Accesorios,8,28774,230192,0
+2025-10-13,Bogotá - Unicentro,Tienda física,Jeans,144,116455,16769520,3
+2025-10-13,Bogotá - Unicentro,Tienda física,Camisetas,147,39734,5840898,4
+2025-10-13,Bogotá - Unicentro,Tienda física,Blusas,88,69918,6152784,2
+2025-10-13,Bogotá - Unicentro,Tienda física,Chaquetas,59,159154,9390086,1
+2025-10-13,Bogotá - Unicentro,Tienda física,Vestidos,24,143289,3438936,0
+2025-10-13,Bogotá - Unicentro,Tienda física,Calzado,48,160941,7725168,1
+2025-10-13,Bogotá - Unicentro,Tienda física,Accesorios,31,29949,928419,0
+2025-10-13,Medellín - Santafé,Tienda física,Jeans,164,118177,19381028,4
+2025-10-13,Medellín - Santafé,Tienda física,Camisetas,127,40329,5121783,2
+2025-10-13,Medellín - Santafé,Tienda física,Blusas,80,70928,5674240,1
+2025-10-13,Medellín - Santafé,Tienda física,Chaquetas,49,160650,7871850,1
+2025-10-13,Medellín - Santafé,Tienda física,Vestidos,38,138422,5260036,0
+2025-10-13,Medellín - Santafé,Tienda física,Calzado,43,164049,7054107,1
+2025-10-13,Medellín - Santafé,Tienda física,Accesorios,4,29916,119664,0
+2025-10-13,Cali - Chipichape,Tienda física,Jeans,133,123226,16389058,2
+2025-10-13,Cali - Chipichape,Tienda física,Camisetas,129,37961,4896969,3
+2025-10-13,Cali - Chipichape,Tienda física,Blusas,64,68709,4397376,1
+2025-10-13,Cali - Chipichape,Tienda física,Chaquetas,13,161879,2104427,0
+2025-10-13,Cali - Chipichape,Tienda física,Vestidos,41,135566,5558206,0
+2025-10-13,Cali - Chipichape,Tienda física,Calzado,21,160163,3363423,0
+2025-10-13,Cali - Chipichape,Tienda física,Accesorios,21,29177,612717,0
+2025-10-13,Barranquilla - Buenavista,Tienda física,Jeans,121,117124,14172004,2
+2025-10-13,Barranquilla - Buenavista,Tienda física,Camisetas,105,38204,4011420,2
+2025-10-13,Barranquilla - Buenavista,Tienda física,Blusas,32,70306,2249792,0
+2025-10-13,Barranquilla - Buenavista,Tienda física,Chaquetas,40,162611,6504440,1
+2025-10-13,Barranquilla - Buenavista,Tienda física,Vestidos,24,137197,3292728,0
+2025-10-13,Barranquilla - Buenavista,Tienda física,Calzado,29,159845,4635505,0
+2025-10-13,Barranquilla - Buenavista,Tienda física,Accesorios,7,29581,207067,0
+2025-10-13,Bucaramanga - Cacique,Tienda física,Jeans,91,114885,10454535,2
+2025-10-13,Bucaramanga - Cacique,Tienda física,Camisetas,93,38274,3559482,2
+2025-10-13,Bucaramanga - Cacique,Tienda física,Blusas,28,71275,1995700,0
+2025-10-13,Bucaramanga - Cacique,Tienda física,Chaquetas,25,163142,4078550,0
+2025-10-13,Bucaramanga - Cacique,Tienda física,Vestidos,18,136000,2448000,0
+2025-10-13,Bucaramanga - Cacique,Tienda física,Calzado,36,155071,5582556,0
+2025-10-13,Bucaramanga - Cacique,Tienda física,Accesorios,0,29311,0,0
+2025-10-13,Tienda virtual,Online,Jeans,164,117087,19202268,6
+2025-10-13,Tienda virtual,Online,Camisetas,136,40868,5558048,5
+2025-10-13,Tienda virtual,Online,Blusas,89,71953,6403817,1
+2025-10-13,Tienda virtual,Online,Chaquetas,35,157788,5522580,1
+2025-10-13,Tienda virtual,Online,Vestidos,33,139880,4616040,1
+2025-10-13,Tienda virtual,Online,Calzado,12,160018,1920216,0
+2025-10-13,Tienda virtual,Online,Accesorios,19,28438,540322,0
+2025-10-20,Bogotá - Andino,Tienda física,Jeans,148,122311,18102028,3
+2025-10-20,Bogotá - Andino,Tienda física,Camisetas,165,39974,6595710,4
+2025-10-20,Bogotá - Andino,Tienda física,Blusas,79,67736,5351144,1
+2025-10-20,Bogotá - Andino,Tienda física,Chaquetas,49,158669,7774781,1
+2025-10-20,Bogotá - Andino,Tienda física,Vestidos,59,136547,8056273,1
+2025-10-20,Bogotá - Andino,Tienda física,Calzado,67,164079,10993293,1
+2025-10-20,Bogotá - Andino,Tienda física,Accesorios,23,29639,681697,0
+2025-10-20,Bogotá - Unicentro,Tienda física,Jeans,138,115583,15950454,3
+2025-10-20,Bogotá - Unicentro,Tienda física,Camisetas,158,40375,6379250,4
+2025-10-20,Bogotá - Unicentro,Tienda física,Blusas,80,69162,5532960,2
+2025-10-20,Bogotá - Unicentro,Tienda física,Chaquetas,41,153992,6313672,1
+2025-10-20,Bogotá - Unicentro,Tienda física,Vestidos,23,143291,3295693,0
+2025-10-20,Bogotá - Unicentro,Tienda física,Calzado,49,156120,7649880,1
+2025-10-20,Bogotá - Unicentro,Tienda física,Accesorios,32,30081,962592,0
+2025-10-20,Medellín - Santafé,Tienda física,Jeans,152,115073,17491096,4
+2025-10-20,Medellín - Santafé,Tienda física,Camisetas,128,40523,5186944,3
+2025-10-20,Medellín - Santafé,Tienda física,Blusas,67,67617,4530339,1
+2025-10-20,Medellín - Santafé,Tienda física,Chaquetas,41,151917,6228597,1
+2025-10-20,Medellín - Santafé,Tienda física,Vestidos,25,142150,3553750,0
+2025-10-20,Medellín - Santafé,Tienda física,Calzado,40,160011,6400440,1
+2025-10-20,Medellín - Santafé,Tienda física,Accesorios,3,30760,92280,0
+2025-10-20,Cali - Chipichape,Tienda física,Jeans,139,116912,16250768,3
+2025-10-20,Cali - Chipichape,Tienda física,Camisetas,94,40089,3768366,2
+2025-10-20,Cali - Chipichape,Tienda física,Blusas,50,67812,3390600,1
+2025-10-20,Cali - Chipichape,Tienda física,Chaquetas,29,153636,4455444,0
+2025-10-20,Cali - Chipichape,Tienda física,Vestidos,36,140708,5065488,0
+2025-10-20,Cali - Chipichape,Tienda física,Calzado,27,153463,4143501,0
+2025-10-20,Cali - Chipichape,Tienda física,Accesorios,22,28639,630058,0
+2025-10-20,Barranquilla - Buenavista,Tienda física,Jeans,103,121306,12494518,2
+2025-10-20,Barranquilla - Buenavista,Tienda física,Camisetas,108,38244,4130352,2
+2025-10-20,Barranquilla - Buenavista,Tienda física,Blusas,46,71325,3280950,0
+2025-10-20,Barranquilla - Buenavista,Tienda física,Chaquetas,48,153073,7347504,1
+2025-10-20,Barranquilla - Buenavista,Tienda física,Vestidos,35,133839,4684365,0
+2025-10-20,Barranquilla - Buenavista,Tienda física,Calzado,17,157139,2671363,0
+2025-10-20,Barranquilla - Buenavista,Tienda física,Accesorios,0,28479,0,0
+2025-10-20,Bucaramanga - Cacique,Tienda física,Jeans,95,120755,11471725,2
+2025-10-20,Bucaramanga - Cacique,Tienda física,Camisetas,109,39602,4316618,2
+2025-10-20,Bucaramanga - Cacique,Tienda física,Blusas,52,68043,3538236,1
+2025-10-20,Bucaramanga - Cacique,Tienda física,Chaquetas,33,161360,5324880,0
+2025-10-20,Bucaramanga - Cacique,Tienda física,Vestidos,17,142575,2423775,0
+2025-10-20,Bucaramanga - Cacique,Tienda física,Calzado,33,158053,5215749,0
+2025-10-20,Bucaramanga - Cacique,Tienda física,Accesorios,40,29480,1179200,1
+2025-10-20,Tienda virtual,Online,Jeans,150,122178,18326700,4
+2025-10-20,Tienda virtual,Online,Camisetas,152,39507,6005064,7
+2025-10-20,Tienda virtual,Online,Blusas,82,67280,5516960,3
+2025-10-20,Tienda virtual,Online,Chaquetas,57,156796,8937372,3
+2025-10-20,Tienda virtual,Online,Vestidos,37,142889,5286893,1
+2025-10-20,Tienda virtual,Online,Calzado,55,161376,8875680,3
+2025-10-20,Tienda virtual,Online,Accesorios,39,29983,1169337,1
+2025-10-27,Bogotá - Andino,Tienda física,Jeans,166,118183,19618378,4
+2025-10-27,Bogotá - Andino,Tienda física,Camisetas,163,40816,6653008,4
+2025-10-27,Bogotá - Andino,Tienda física,Blusas,94,71797,6748918,2
+2025-10-27,Bogotá - Andino,Tienda física,Chaquetas,40,163687,6547480,1
+2025-10-27,Bogotá - Andino,Tienda física,Vestidos,49,143995,7055755,0
+2025-10-27,Bogotá - Andino,Tienda física,Calzado,38,162750,6184500,1
+2025-10-27,Bogotá - Andino,Tienda física,Accesorios,13,28916,375908,0
+2025-10-27,Bogotá - Unicentro,Tienda física,Jeans,167,118398,19772466,4
+2025-10-27,Bogotá - Unicentro,Tienda física,Camisetas,148,40238,5955224,3
+2025-10-27,Bogotá - Unicentro,Tienda física,Blusas,90,71874,6468660,1
+2025-10-27,Bogotá - Unicentro,Tienda física,Chaquetas,31,159279,4937649,0
+2025-10-27,Bogotá - Unicentro,Tienda física,Vestidos,44,143483,6313252,1
+2025-10-27,Bogotá - Unicentro,Tienda física,Calzado,36,152785,5500260,0
+2025-10-27,Bogotá - Unicentro,Tienda física,Accesorios,29,29800,864200,0
+2025-10-27,Medellín - Santafé,Tienda física,Jeans,157,117271,18411547,3
+2025-10-27,Medellín - Santafé,Tienda física,Camisetas,133,38453,5114249,3
+2025-10-27,Medellín - Santafé,Tienda física,Blusas,54,68786,3714444,1
+2025-10-27,Medellín - Santafé,Tienda física,Chaquetas,30,155939,4678170,0
+2025-10-27,Medellín - Santafé,Tienda física,Vestidos,2,139206,278412,0
+2025-10-27,Medellín - Santafé,Tienda física,Calzado,49,152591,7476959,1
+2025-10-27,Medellín - Santafé,Tienda física,Accesorios,12,30532,366384,0
+2025-10-27,Cali - Chipichape,Tienda física,Jeans,143,121389,17358627,3
+2025-10-27,Cali - Chipichape,Tienda física,Camisetas,103,38040,3918120,2
+2025-10-27,Cali - Chipichape,Tienda física,Blusas,55,70137,3857535,1
+2025-10-27,Cali - Chipichape,Tienda física,Chaquetas,13,162393,2111109,0
+2025-10-27,Cali - Chipichape,Tienda física,Vestidos,47,133654,6281738,1
+2025-10-27,Cali - Chipichape,Tienda física,Calzado,28,152465,4269020,0
+2025-10-27,Cali - Chipichape,Tienda física,Accesorios,13,28486,370318,0
+2025-10-27,Barranquilla - Buenavista,Tienda física,Jeans,106,118179,12526974,2
+2025-10-27,Barranquilla - Buenavista,Tienda física,Camisetas,98,38498,3772804,2
+2025-10-27,Barranquilla - Buenavista,Tienda física,Blusas,58,70406,4083548,1
+2025-10-27,Barranquilla - Buenavista,Tienda física,Chaquetas,18,162226,2920068,0
+2025-10-27,Barranquilla - Buenavista,Tienda física,Vestidos,19,139192,2644648,0
+2025-10-27,Barranquilla - Buenavista,Tienda física,Calzado,20,164361,3287220,0
+2025-10-27,Barranquilla - Buenavista,Tienda física,Accesorios,2,28644,57288,0
+2025-10-27,Bucaramanga - Cacique,Tienda física,Jeans,91,116117,10566647,2
+2025-10-27,Bucaramanga - Cacique,Tienda física,Camisetas,101,40677,4108377,2
+2025-10-27,Bucaramanga - Cacique,Tienda física,Blusas,45,70424,3169080,1
+2025-10-27,Bucaramanga - Cacique,Tienda física,Chaquetas,27,155725,4204575,0
+2025-10-27,Bucaramanga - Cacique,Tienda física,Vestidos,40,136822,5472880,1
+2025-10-27,Bucaramanga - Cacique,Tienda física,Calzado,5,164513,822565,0
+2025-10-27,Bucaramanga - Cacique,Tienda física,Accesorios,5,30764,153820,0
+2025-10-27,Tienda virtual,Online,Jeans,165,119135,19657275,5
+2025-10-27,Tienda virtual,Online,Camisetas,150,40362,6054300,4
+2025-10-27,Tienda virtual,Online,Blusas,81,69482,5628042,4
+2025-10-27,Tienda virtual,Online,Chaquetas,63,158164,9964332,1
+2025-10-27,Tienda virtual,Online,Vestidos,39,138185,5389215,0
+2025-10-27,Tienda virtual,Online,Calzado,35,155217,5432595,1
+2025-10-27,Tienda virtual,Online,Accesorios,28,29465,825020,1
+2025-11-03,Bogotá - Andino,Tienda física,Jeans,203,102272,20761216,4
+2025-11-03,Bogotá - Andino,Tienda física,Camisetas,189,34196,6463044,4
+2025-11-03,Bogotá - Andino,Tienda física,Blusas,99,68142,6746058,2
+2025-11-03,Bogotá - Andino,Tienda física,Chaquetas,67,161237,10802879,1
+2025-11-03,Bogotá - Andino,Tienda física,Vestidos,57,134840,7685880,1
+2025-11-03,Bogotá - Andino,Tienda física,Calzado,73,153794,11226962,1
+2025-11-03,Bogotá - Andino,Tienda física,Accesorios,50,29007,1450350,1
+2025-11-03,Bogotá - Unicentro,Tienda física,Jeans,185,104469,19326765,4
+2025-11-03,Bogotá - Unicentro,Tienda física,Camisetas,201,34253,6884853,5
+2025-11-03,Bogotá - Unicentro,Tienda física,Blusas,79,71714,5665406,2
+2025-11-03,Bogotá - Unicentro,Tienda física,Chaquetas,46,152073,6995358,1
+2025-11-03,Bogotá - Unicentro,Tienda física,Vestidos,40,137720,5508800,1
+2025-11-03,Bogotá - Unicentro,Tienda física,Calzado,57,152210,8675970,1
+2025-11-03,Bogotá - Unicentro,Tienda física,Accesorios,30,30557,916710,0
+2025-11-03,Medellín - Santafé,Tienda física,Jeans,182,98548,17935736,3
+2025-11-03,Medellín - Santafé,Tienda física,Camisetas,164,32706,5363784,3
+2025-11-03,Medellín - Santafé,Tienda física,Blusas,89,69639,6197871,2
+2025-11-03,Medellín - Santafé,Tienda física,Chaquetas,43,161807,6957701,1
+2025-11-03,Medellín - Santafé,Tienda física,Vestidos,56,136749,7657944,1
+2025-11-03,Medellín - Santafé,Tienda física,Calzado,52,157988,8215376,1
+2025-11-03,Medellín - Santafé,Tienda física,Accesorios,15,28725,430875,0
+2025-11-03,Cali - Chipichape,Tienda física,Jeans,153,104365,15967845,4
+2025-11-03,Cali - Chipichape,Tienda física,Camisetas,143,32310,4620330,3
+2025-11-03,Cali - Chipichape,Tienda física,Blusas,74,71069,5259106,1
+2025-11-03,Cali - Chipichape,Tienda física,Chaquetas,56,158279,8863624,1
+2025-11-03,Cali - Chipichape,Tienda física,Vestidos,42,137664,5781888,1
+2025-11-03,Cali - Chipichape,Tienda física,Calzado,57,154305,8795385,1
+2025-11-03,Cali - Chipichape,Tienda física,Accesorios,35,28686,1004010,0
+2025-11-03,Barranquilla - Buenavista,Tienda física,Jeans,144,101126,14562144,3
+2025-11-03,Barranquilla - Buenavista,Tienda física,Camisetas,133,33909,4509897,3
+2025-11-03,Barranquilla - Buenavista,Tienda física,Blusas,60,67112,4026720,1
+2025-11-03,Barranquilla - Buenavista,Tienda física,Chaquetas,39,163829,6389331,0
+2025-11-03,Barranquilla - Buenavista,Tienda física,Vestidos,19,137359,2609821,0
+2025-11-03,Barranquilla - Buenavista,Tienda física,Calzado,20,163302,3266040,0
+2025-11-03,Barranquilla - Buenavista,Tienda física,Accesorios,49,29710,1455790,1
+2025-11-03,Bucaramanga - Cacique,Tienda física,Jeans,135,103131,13922685,3
+2025-11-03,Bucaramanga - Cacique,Tienda física,Camisetas,125,33849,4231125,2
+2025-11-03,Bucaramanga - Cacique,Tienda física,Blusas,60,70786,4247160,1
+2025-11-03,Bucaramanga - Cacique,Tienda física,Chaquetas,30,155965,4678950,0
+2025-11-03,Bucaramanga - Cacique,Tienda física,Vestidos,10,133390,1333900,0
+2025-11-03,Bucaramanga - Cacique,Tienda física,Calzado,42,156822,6586524,1
+2025-11-03,Bucaramanga - Cacique,Tienda física,Accesorios,0,29125,0,0
+2025-11-03,Tienda virtual,Online,Jeans,208,97024,20180992,8
+2025-11-03,Tienda virtual,Online,Camisetas,211,34056,7185816,7
+2025-11-03,Tienda virtual,Online,Blusas,106,71853,7616418,6
+2025-11-03,Tienda virtual,Online,Chaquetas,59,160911,9493749,2
+2025-11-03,Tienda virtual,Online,Vestidos,46,139686,6425556,0
+2025-11-03,Tienda virtual,Online,Calzado,66,159516,10528056,3
+2025-11-03,Tienda virtual,Online,Accesorios,28,29063,813764,0
+2025-11-10,Bogotá - Andino,Tienda física,Jeans,228,97154,22151112,4
+2025-11-10,Bogotá - Andino,Tienda física,Camisetas,201,34918,7018518,5
+2025-11-10,Bogotá - Andino,Tienda física,Blusas,104,71425,7428200,2
+2025-11-10,Bogotá - Andino,Tienda física,Chaquetas,65,159363,10358595,1
+2025-11-10,Bogotá - Andino,Tienda física,Vestidos,26,132941,3456466,0
+2025-11-10,Bogotá - Andino,Tienda física,Calzado,73,152634,11142282,2
+2025-11-10,Bogotá - Andino,Tienda física,Accesorios,60,30417,1825020,1
+2025-11-10,Bogotá - Unicentro,Tienda física,Jeans,207,97163,20112741,5
+2025-11-10,Bogotá - Unicentro,Tienda física,Camisetas,162,32613,5283306,4
+2025-11-10,Bogotá - Unicentro,Tienda física,Blusas,88,70889,6238232,1
+2025-11-10,Bogotá - Unicentro,Tienda física,Chaquetas,59,155309,9163231,1
+2025-11-10,Bogotá - Unicentro,Tienda física,Vestidos,35,138050,4831750,0
+2025-11-10,Bogotá - Unicentro,Tienda física,Calzado,27,158447,4278069,0
+2025-11-10,Bogotá - Unicentro,Tienda física,Accesorios,20,30770,615400,0
+2025-11-10,Medellín - Santafé,Tienda física,Jeans,191,99372,18980052,4
+2025-11-10,Medellín - Santafé,Tienda física,Camisetas,170,33353,5670010,3
+2025-11-10,Medellín - Santafé,Tienda física,Blusas,96,71319,6846624,2
+2025-11-10,Medellín - Santafé,Tienda física,Chaquetas,41,161241,6610881,1
+2025-11-10,Medellín - Santafé,Tienda física,Vestidos,36,135211,4867596,0
+2025-11-10,Medellín - Santafé,Tienda física,Calzado,66,159520,10528320,1
+2025-11-10,Medellín - Santafé,Tienda física,Accesorios,35,30376,1063160,0
+2025-11-10,Cali - Chipichape,Tienda física,Jeans,167,104792,17500264,3
+2025-11-10,Cali - Chipichape,Tienda física,Camisetas,148,34182,5058936,4
+2025-11-10,Cali - Chipichape,Tienda física,Blusas,79,70029,5532291,2
+2025-11-10,Cali - Chipichape,Tienda física,Chaquetas,26,163686,4255836,0
+2025-11-10,Cali - Chipichape,Tienda física,Vestidos,35,140246,4908610,0
+2025-11-10,Cali - Chipichape,Tienda física,Calzado,21,159229,3343809,0
+2025-11-10,Cali - Chipichape,Tienda física,Accesorios,27,29423,794421,0
+2025-11-10,Barranquilla - Buenavista,Tienda física,Jeans,127,99768,12670536,3
+2025-11-10,Barranquilla - Buenavista,Tienda física,Camisetas,138,33377,4606026,3
+2025-11-10,Barranquilla - Buenavista,Tienda física,Blusas,71,66499,4721429,1
+2025-11-10,Barranquilla - Buenavista,Tienda física,Chaquetas,36,156960,5650560,0
+2025-11-10,Barranquilla - Buenavista,Tienda física,Vestidos,23,135581,3118363,0
+2025-11-10,Barranquilla - Buenavista,Tienda física,Calzado,31,163082,5055542,0
+2025-11-10,Barranquilla - Buenavista,Tienda física,Accesorios,20,29179,583580,0
+2025-11-10,Bucaramanga - Cacique,Tienda física,Jeans,131,104097,13636707,3
+2025-11-10,Bucaramanga - Cacique,Tienda física,Camisetas,110,34113,3752430,3
+2025-11-10,Bucaramanga - Cacique,Tienda física,Blusas,64,69031,4417984,1
+2025-11-10,Bucaramanga - Cacique,Tienda física,Chaquetas,33,162951,5377383,0
+2025-11-10,Bucaramanga - Cacique,Tienda física,Vestidos,48,134185,6440880,1
+2025-11-10,Bucaramanga - Cacique,Tienda física,Calzado,50,157779,7888950,1
+2025-11-10,Bucaramanga - Cacique,Tienda física,Accesorios,17,28549,485333,0
+2025-11-10,Tienda virtual,Online,Jeans,224,102246,22903104,8
+2025-11-10,Tienda virtual,Online,Camisetas,200,34638,6927600,11
+2025-11-10,Tienda virtual,Online,Blusas,91,69696,6342336,3
+2025-11-10,Tienda virtual,Online,Chaquetas,50,155097,7754850,2
+2025-11-10,Tienda virtual,Online,Vestidos,47,135467,6366949,1
+2025-11-10,Tienda virtual,Online,Calzado,48,159233,7643184,1
+2025-11-10,Tienda virtual,Online,Accesorios,13,28839,374907,0
+2025-11-17,Bogotá - Andino,Tienda física,Jeans,228,99515,22689420,6
+2025-11-17,Bogotá - Andino,Tienda física,Camisetas,216,33863,7314408,4
+2025-11-17,Bogotá - Andino,Tienda física,Blusas,99,68700,6801300,2
+2025-11-17,Bogotá - Andino,Tienda física,Chaquetas,51,152338,7769238,1
+2025-11-17,Bogotá - Andino,Tienda física,Vestidos,43,139177,5984611,0
+2025-11-17,Bogotá - Andino,Tienda física,Calzado,53,163427,8661631,1
+2025-11-17,Bogotá - Andino,Tienda física,Accesorios,52,29014,1508728,1
+2025-11-17,Bogotá - Unicentro,Tienda física,Jeans,185,98091,18146835,4
+2025-11-17,Bogotá - Unicentro,Tienda física,Camisetas,197,33409,6581573,5
+2025-11-17,Bogotá - Unicentro,Tienda física,Blusas,92,67141,6176972,2
+2025-11-17,Bogotá - Unicentro,Tienda física,Chaquetas,57,156155,8900835,1
+2025-11-17,Bogotá - Unicentro,Tienda física,Vestidos,44,138222,6081768,1
+2025-11-17,Bogotá - Unicentro,Tienda física,Calzado,38,161808,6148704,1
+2025-11-17,Bogotá - Unicentro,Tienda física,Accesorios,7,29004,203028,0
+2025-11-17,Medellín - Santafé,Tienda física,Jeans,193,101102,19512686,5
+2025-11-17,Medellín - Santafé,Tienda física,Camisetas,162,32585,5278770,4
+2025-11-17,Medellín - Santafé,Tienda física,Blusas,91,68415,6225765,2
+2025-11-17,Medellín - Santafé,Tienda física,Chaquetas,34,154551,5254734,0
+2025-11-17,Medellín - Santafé,Tienda física,Vestidos,45,136668,6150060,1
+2025-11-17,Medellín - Santafé,Tienda física,Calzado,47,160997,7566859,1
+2025-11-17,Medellín - Santafé,Tienda física,Accesorios,29,28569,828501,0
+2025-11-17,Cali - Chipichape,Tienda física,Jeans,162,101303,16411086,3
+2025-11-17,Cali - Chipichape,Tienda física,Camisetas,168,32893,5526024,3
+2025-11-17,Cali - Chipichape,Tienda física,Blusas,71,70826,5028646,1
+2025-11-17,Cali - Chipichape,Tienda física,Chaquetas,52,160835,8363420,1
+2025-11-17,Cali - Chipichape,Tienda física,Vestidos,33,133403,4402299,0
+2025-11-17,Cali - Chipichape,Tienda física,Calzado,37,155206,5742622,0
+2025-11-17,Cali - Chipichape,Tienda física,Accesorios,33,29432,971256,0
+2025-11-17,Barranquilla - Buenavista,Tienda física,Jeans,127,104823,13312521,3
+2025-11-17,Barranquilla - Buenavista,Tienda física,Camisetas,130,34883,4534790,2
+2025-11-17,Barranquilla - Buenavista,Tienda física,Blusas,69,71145,4909005,1
+2025-11-17,Barranquilla - Buenavista,Tienda física,Chaquetas,31,163276,5061556,0
+2025-11-17,Barranquilla - Buenavista,Tienda física,Vestidos,23,134032,3082736,0
+2025-11-17,Barranquilla - Buenavista,Tienda física,Calzado,49,160129,7846321,1
+2025-11-17,Barranquilla - Buenavista,Tienda física,Accesorios,0,29079,0,0
+2025-11-17,Bucaramanga - Cacique,Tienda física,Jeans,147,97173,14284431,3
+2025-11-17,Bucaramanga - Cacique,Tienda física,Camisetas,128,33168,4245504,2
+2025-11-17,Bucaramanga - Cacique,Tienda física,Blusas,29,67790,1965910,0
+2025-11-17,Bucaramanga - Cacique,Tienda física,Chaquetas,42,159956,6718152,1
+2025-11-17,Bucaramanga - Cacique,Tienda física,Vestidos,20,142688,2853760,0
+2025-11-17,Bucaramanga - Cacique,Tienda física,Calzado,30,154132,4623960,0
+2025-11-17,Bucaramanga - Cacique,Tienda física,Accesorios,6,29729,178374,0
+2025-11-17,Tienda virtual,Online,Jeans,203,104108,21133924,7
+2025-11-17,Tienda virtual,Online,Camisetas,212,32269,6841028,6
+2025-11-17,Tienda virtual,Online,Blusas,101,67205,6787705,4
+2025-11-17,Tienda virtual,Online,Chaquetas,55,155670,8561850,2
+2025-11-17,Tienda virtual,Online,Vestidos,41,140617,5765297,0
+2025-11-17,Tienda virtual,Online,Calzado,46,157131,7228026,1
+2025-11-17,Tienda virtual,Online,Accesorios,14,29981,419734,0
+2025-11-24,Bogotá - Andino,Tienda física,Jeans,225,100100,22522500,4
+2025-11-24,Bogotá - Andino,Tienda física,Camisetas,211,33264,7018704,5
+2025-11-24,Bogotá - Andino,Tienda física,Blusas,91,70879,6449989,1
+2025-11-24,Bogotá - Andino,Tienda física,Chaquetas,54,156123,8430642,1
+2025-11-24,Bogotá - Andino,Tienda física,Vestidos,69,141469,9761361,1
+2025-11-24,Bogotá - Andino,Tienda física,Calzado,38,161979,6155202,0
+2025-11-24,Bogotá - Andino,Tienda física,Accesorios,43,28638,1231434,1
+2025-11-24,Bogotá - Unicentro,Tienda física,Jeans,195,99444,19391580,4
+2025-11-24,Bogotá - Unicentro,Tienda física,Camisetas,171,34134,5836914,4
+2025-11-24,Bogotá - Unicentro,Tienda física,Blusas,86,70856,6093616,2
+2025-11-24,Bogotá - Unicentro,Tienda física,Chaquetas,47,161647,7597409,1
+2025-11-24,Bogotá - Unicentro,Tienda física,Vestidos,50,137063,6853150,1
+2025-11-24,Bogotá - Unicentro,Tienda física,Calzado,63,157797,9941211,1
+2025-11-24,Bogotá - Unicentro,Tienda física,Accesorios,50,29217,1460850,1
+2025-11-24,Medellín - Santafé,Tienda física,Jeans,161,104016,16746576,3
+2025-11-24,Medellín - Santafé,Tienda física,Camisetas,167,34100,5694700,4
+2025-11-24,Medellín - Santafé,Tienda física,Blusas,97,69510,6742470,2
+2025-11-24,Medellín - Santafé,Tienda física,Chaquetas,32,155406,4972992,0
+2025-11-24,Medellín - Santafé,Tienda física,Vestidos,45,133853,6023385,0
+2025-11-24,Medellín - Santafé,Tienda física,Calzado,38,164239,6241082,0
+2025-11-24,Medellín - Santafé,Tienda física,Accesorios,35,29730,1040550,0
+2025-11-24,Cali - Chipichape,Tienda física,Jeans,143,100164,14323452,3
+2025-11-24,Cali - Chipichape,Tienda física,Camisetas,169,32498,5492162,3
+2025-11-24,Cali - Chipichape,Tienda física,Blusas,87,70165,6104355,2
+2025-11-24,Cali - Chipichape,Tienda física,Chaquetas,48,163810,7862880,0
+2025-11-24,Cali - Chipichape,Tienda física,Vestidos,19,133024,2527456,0
+2025-11-24,Cali - Chipichape,Tienda física,Calzado,43,158700,6824100,1
+2025-11-24,Cali - Chipichape,Tienda física,Accesorios,19,28778,546782,0
+2025-11-24,Barranquilla - Buenavista,Tienda física,Jeans,157,100063,15709891,3
+2025-11-24,Barranquilla - Buenavista,Tienda física,Camisetas,120,32973,3956760,3
+2025-11-24,Barranquilla - Buenavista,Tienda física,Blusas,69,68106,4699314,1
+2025-11-24,Barranquilla - Buenavista,Tienda física,Chaquetas,20,158131,3162620,0
+2025-11-24,Barranquilla - Buenavista,Tienda física,Vestidos,16,140567,2249072,0
+2025-11-24,Barranquilla - Buenavista,Tienda física,Calzado,56,159103,8909768,1
+2025-11-24,Barranquilla - Buenavista,Tienda física,Accesorios,0,28422,0,0
+2025-11-24,Bucaramanga - Cacique,Tienda física,Jeans,112,102641,11495792,2
+2025-11-24,Bucaramanga - Cacique,Tienda física,Camisetas,114,33135,3777390,3
+2025-11-24,Bucaramanga - Cacique,Tienda física,Blusas,49,71009,3479441,1
+2025-11-24,Bucaramanga - Cacique,Tienda física,Chaquetas,48,152484,7319232,1
+2025-11-24,Bucaramanga - Cacique,Tienda física,Vestidos,26,133759,3477734,0
+2025-11-24,Bucaramanga - Cacique,Tienda física,Calzado,27,157630,4256010,0
+2025-11-24,Bucaramanga - Cacique,Tienda física,Accesorios,28,30579,856212,0
+2025-11-24,Tienda virtual,Online,Jeans,192,99333,19071936,8
+2025-11-24,Tienda virtual,Online,Camisetas,186,33160,6167760,10
+2025-11-24,Tienda virtual,Online,Blusas,114,71023,8096622,2
+2025-11-24,Tienda virtual,Online,Chaquetas,49,153486,7520814,1
+2025-11-24,Tienda virtual,Online,Vestidos,56,143941,8060696,2
+2025-11-24,Tienda virtual,Online,Calzado,63,164169,10342647,1
+2025-11-24,Tienda virtual,Online,Accesorios,34,29059,988006,0
+2025-12-01,Bogotá - Andino,Tienda física,Jeans,284,101125,28719500,6
+2025-12-01,Bogotá - Andino,Tienda física,Camisetas,256,33839,8662784,5
+2025-12-01,Bogotá - Andino,Tienda física,Blusas,118,70514,8320652,3
+2025-12-01,Bogotá - Andino,Tienda física,Chaquetas,72,157838,11364336,1
+2025-12-01,Bogotá - Andino,Tienda física,Vestidos,52,133353,6934356,1
+2025-12-01,Bogotá - Andino,Tienda física,Calzado,69,162906,11240514,1
+2025-12-01,Bogotá - Andino,Tienda física,Accesorios,41,30446,1248286,1
+2025-12-01,Bogotá - Unicentro,Tienda física,Jeans,234,99029,23172786,6
+2025-12-01,Bogotá - Unicentro,Tienda física,Camisetas,226,34890,7885140,4
+2025-12-01,Bogotá - Unicentro,Tienda física,Blusas,124,68358,8476392,3
+2025-12-01,Bogotá - Unicentro,Tienda física,Chaquetas,64,153341,9813824,1
+2025-12-01,Bogotá - Unicentro,Tienda física,Vestidos,42,136590,5736780,0
+2025-12-01,Bogotá - Unicentro,Tienda física,Calzado,86,154154,13257244,2
+2025-12-01,Bogotá - Unicentro,Tienda física,Accesorios,21,28555,599655,0
+2025-12-01,Medellín - Santafé,Tienda física,Jeans,219,102795,22512105,6
+2025-12-01,Medellín - Santafé,Tienda física,Camisetas,221,33231,7344051,6
+2025-12-01,Medellín - Santafé,Tienda física,Blusas,106,69396,7355976,3
+2025-12-01,Medellín - Santafé,Tienda física,Chaquetas,61,164008,10004488,1
+2025-12-01,Medellín - Santafé,Tienda física,Vestidos,56,139179,7794024,1
+2025-12-01,Medellín - Santafé,Tienda física,Calzado,37,164017,6068629,1
+2025-12-01,Medellín - Santafé,Tienda física,Accesorios,25,29019,725475,0
+2025-12-01,Cali - Chipichape,Tienda física,Jeans,213,104516,22261908,4
+2025-12-01,Cali - Chipichape,Tienda física,Camisetas,189,33215,6277635,4
+2025-12-01,Cali - Chipichape,Tienda física,Blusas,95,70053,6655035,1
+2025-12-01,Cali - Chipichape,Tienda física,Chaquetas,72,163675,11784600,1
+2025-12-01,Cali - Chipichape,Tienda física,Vestidos,43,134511,5783973,0
+2025-12-01,Cali - Chipichape,Tienda física,Calzado,43,164668,7080724,1
+2025-12-01,Cali - Chipichape,Tienda física,Accesorios,12,30724,368688,0
+2025-12-01,Barranquilla - Buenavista,Tienda física,Jeans,186,101161,18815946,4
+2025-12-01,Barranquilla - Buenavista,Tienda física,Camisetas,135,34200,4617000,3
+2025-12-01,Barranquilla - Buenavista,Tienda física,Blusas,80,71118,5689440,1
+2025-12-01,Barranquilla - Buenavista,Tienda física,Chaquetas,26,154452,4015752,0
+2025-12-01,Barranquilla - Buenavista,Tienda física,Vestidos,33,133180,4394940,0
+2025-12-01,Barranquilla - Buenavista,Tienda física,Calzado,42,163699,6875358,1
+2025-12-01,Barranquilla - Buenavista,Tienda física,Accesorios,27,28847,778869,0
+2025-12-01,Bucaramanga - Cacique,Tienda física,Jeans,140,96843,13558020,2
+2025-12-01,Bucaramanga - Cacique,Tienda física,Camisetas,134,34154,4576636,2
+2025-12-01,Bucaramanga - Cacique,Tienda física,Blusas,69,71223,4914387,1
+2025-12-01,Bucaramanga - Cacique,Tienda física,Chaquetas,62,154137,9556494,1
+2025-12-01,Bucaramanga - Cacique,Tienda física,Vestidos,35,136984,4794440,0
+2025-12-01,Bucaramanga - Cacique,Tienda física,Calzado,24,157424,3778176,0
+2025-12-01,Bucaramanga - Cacique,Tienda física,Accesorios,0,28905,0,0
+2025-12-01,Tienda virtual,Online,Jeans,244,102481,25005364,5
+2025-12-01,Tienda virtual,Online,Camisetas,246,34894,8583924,8
+2025-12-01,Tienda virtual,Online,Blusas,135,68171,9203085,5
+2025-12-01,Tienda virtual,Online,Chaquetas,76,160863,12225588,2
+2025-12-01,Tienda virtual,Online,Vestidos,71,141817,10069007,1
+2025-12-01,Tienda virtual,Online,Calzado,83,157698,13088934,4
+2025-12-01,Tienda virtual,Online,Accesorios,53,28656,1518768,2
+2025-12-08,Bogotá - Andino,Tienda física,Jeans,276,97865,27010740,7
+2025-12-08,Bogotá - Andino,Tienda física,Camisetas,253,34276,8671828,6
+2025-12-08,Bogotá - Andino,Tienda física,Blusas,113,69812,7888756,2
+2025-12-08,Bogotá - Andino,Tienda física,Chaquetas,78,154285,12034230,1
+2025-12-08,Bogotá - Andino,Tienda física,Vestidos,41,144039,5905599,1
+2025-12-08,Bogotá - Andino,Tienda física,Calzado,67,156107,10459169,1
+2025-12-08,Bogotá - Andino,Tienda física,Accesorios,33,28997,956901,0
+2025-12-08,Bogotá - Unicentro,Tienda física,Jeans,227,104966,23827282,5
+2025-12-08,Bogotá - Unicentro,Tienda física,Camisetas,237,33988,8055156,6
+2025-12-08,Bogotá - Unicentro,Tienda física,Blusas,108,67542,7294536,2
+2025-12-08,Bogotá - Unicentro,Tienda física,Chaquetas,68,155821,10595828,1
+2025-12-08,Bogotá - Unicentro,Tienda física,Vestidos,56,141241,7909496,1
+2025-12-08,Bogotá - Unicentro,Tienda física,Calzado,80,151924,12153920,1
+2025-12-08,Bogotá - Unicentro,Tienda física,Accesorios,32,28492,911744,0
+2025-12-08,Medellín - Santafé,Tienda física,Jeans,246,101976,25086096,5
+2025-12-08,Medellín - Santafé,Tienda física,Camisetas,218,34542,7530156,5
+2025-12-08,Medellín - Santafé,Tienda física,Blusas,119,69871,8314649,3
+2025-12-08,Medellín - Santafé,Tienda física,Chaquetas,59,155269,9160871,1
+2025-12-08,Medellín - Santafé,Tienda física,Vestidos,63,136494,8599122,1
+2025-12-08,Medellín - Santafé,Tienda física,Calzado,62,158308,9815096,1
+2025-12-08,Medellín - Santafé,Tienda física,Accesorios,33,30339,1001187,0
+2025-12-08,Cali - Chipichape,Tienda física,Jeans,217,103172,22388324,5
+2025-12-08,Cali - Chipichape,Tienda física,Camisetas,175,33408,5846400,5
+2025-12-08,Cali - Chipichape,Tienda física,Blusas,92,71544,6582048,2
+2025-12-08,Cali - Chipichape,Tienda física,Chaquetas,52,153715,7993180,1
+2025-12-08,Cali - Chipichape,Tienda física,Vestidos,28,142204,3981712,0
+2025-12-08,Cali - Chipichape,Tienda física,Calzado,46,155321,7144766,1
+2025-12-08,Cali - Chipichape,Tienda física,Accesorios,25,29677,741925,0
+2025-12-08,Barranquilla - Buenavista,Tienda física,Jeans,175,97370,17039750,5
+2025-12-08,Barranquilla - Buenavista,Tienda física,Camisetas,178,34669,6171082,5
+2025-12-08,Barranquilla - Buenavista,Tienda física,Blusas,97,67029,6501813,2
+2025-12-08,Barranquilla - Buenavista,Tienda física,Chaquetas,48,162259,7788432,1
+2025-12-08,Barranquilla - Buenavista,Tienda física,Vestidos,43,133054,5721322,0
+2025-12-08,Barranquilla - Buenavista,Tienda física,Calzado,42,162680,6832560,1
+2025-12-08,Barranquilla - Buenavista,Tienda física,Accesorios,21,30454,639534,0
+2025-12-08,Bucaramanga - Cacique,Tienda física,Jeans,150,99468,14920200,3
+2025-12-08,Bucaramanga - Cacique,Tienda física,Camisetas,153,34311,5249583,4
+2025-12-08,Bucaramanga - Cacique,Tienda física,Blusas,69,69653,4806057,2
+2025-12-08,Bucaramanga - Cacique,Tienda física,Chaquetas,44,164228,7226032,0
+2025-12-08,Bucaramanga - Cacique,Tienda física,Vestidos,8,141305,1130440,0
+2025-12-08,Bucaramanga - Cacique,Tienda física,Calzado,35,164550,5759250,0
+2025-12-08,Bucaramanga - Cacique,Tienda física,Accesorios,34,29445,1001130,0
+2025-12-08,Tienda virtual,Online,Jeans,276,102541,28301316,11
+2025-12-08,Tienda virtual,Online,Camisetas,244,34300,8369200,8
+2025-12-08,Tienda virtual,Online,Blusas,105,70334,7385070,5
+2025-12-08,Tienda virtual,Online,Chaquetas,80,155861,12468880,4
+2025-12-08,Tienda virtual,Online,Vestidos,59,137472,8110848,2
+2025-12-08,Tienda virtual,Online,Calzado,54,152887,8255898,1
+2025-12-08,Tienda virtual,Online,Accesorios,41,28521,1169361,1
+2025-12-15,Bogotá - Andino,Tienda física,Jeans,287,102782,29498434,7
+2025-12-15,Bogotá - Andino,Tienda física,Camisetas,268,34459,9235012,7
+2025-12-15,Bogotá - Andino,Tienda física,Blusas,150,67676,10151400,3
+2025-12-15,Bogotá - Andino,Tienda física,Chaquetas,67,153805,10304935,1
+2025-12-15,Bogotá - Andino,Tienda física,Vestidos,71,139981,9938651,2
+2025-12-15,Bogotá - Andino,Tienda física,Calzado,79,158420,12515180,1
+2025-12-15,Bogotá - Andino,Tienda física,Accesorios,55,29127,1601985,1
+2025-12-15,Bogotá - Unicentro,Tienda física,Jeans,215,101526,21828090,5
+2025-12-15,Bogotá - Unicentro,Tienda física,Camisetas,228,33806,7707768,6
+2025-12-15,Bogotá - Unicentro,Tienda física,Blusas,112,71887,8051344,3
+2025-12-15,Bogotá - Unicentro,Tienda física,Chaquetas,64,153525,9825600,1
+2025-12-15,Bogotá - Unicentro,Tienda física,Vestidos,59,134371,7927889,1
+2025-12-15,Bogotá - Unicentro,Tienda física,Calzado,81,158226,12816306,1
+2025-12-15,Bogotá - Unicentro,Tienda física,Accesorios,39,28895,1126905,0
+2025-12-15,Medellín - Santafé,Tienda física,Jeans,243,98938,24041934,5
+2025-12-15,Medellín - Santafé,Tienda física,Camisetas,210,33195,6970950,4
+2025-12-15,Medellín - Santafé,Tienda física,Blusas,119,66512,7914928,3
+2025-12-15,Medellín - Santafé,Tienda física,Chaquetas,60,151941,9116460,1
+2025-12-15,Medellín - Santafé,Tienda física,Vestidos,40,142984,5719360,0
+2025-12-15,Medellín - Santafé,Tienda física,Calzado,67,163308,10941636,1
+2025-12-15,Medellín - Santafé,Tienda física,Accesorios,59,29603,1746577,1
+2025-12-15,Cali - Chipichape,Tienda física,Jeans,209,101859,21288531,5
+2025-12-15,Cali - Chipichape,Tienda física,Camisetas,195,33924,6615180,5
+2025-12-15,Cali - Chipichape,Tienda física,Blusas,90,66495,5984550,2
+2025-12-15,Cali - Chipichape,Tienda física,Chaquetas,56,162967,9126152,1
+2025-12-15,Cali - Chipichape,Tienda física,Vestidos,65,134828,8763820,1
+2025-12-15,Cali - Chipichape,Tienda física,Calzado,63,154467,9731421,1
+2025-12-15,Cali - Chipichape,Tienda física,Accesorios,43,29317,1260631,1
+2025-12-15,Barranquilla - Buenavista,Tienda física,Jeans,160,98939,15830240,4
+2025-12-15,Barranquilla - Buenavista,Tienda física,Camisetas,165,33254,5486910,3
+2025-12-15,Barranquilla - Buenavista,Tienda física,Blusas,76,70859,5385284,1
+2025-12-15,Barranquilla - Buenavista,Tienda física,Chaquetas,54,160095,8645130,1
+2025-12-15,Barranquilla - Buenavista,Tienda física,Vestidos,49,138777,6800073,1
+2025-12-15,Barranquilla - Buenavista,Tienda física,Calzado,48,158744,7619712,1
+2025-12-15,Barranquilla - Buenavista,Tienda física,Accesorios,22,28983,637626,0
+2025-12-15,Bucaramanga - Cacique,Tienda física,Jeans,161,104046,16751406,4
+2025-12-15,Bucaramanga - Cacique,Tienda física,Camisetas,146,32457,4738722,3
+2025-12-15,Bucaramanga - Cacique,Tienda física,Blusas,58,66553,3860074,1
+2025-12-15,Bucaramanga - Cacique,Tienda física,Chaquetas,32,159144,5092608,0
+2025-12-15,Bucaramanga - Cacique,Tienda física,Vestidos,53,135595,7186535,1
+2025-12-15,Bucaramanga - Cacique,Tienda física,Calzado,50,158680,7934000,1
+2025-12-15,Bucaramanga - Cacique,Tienda física,Accesorios,36,29417,1059012,0
+2025-12-15,Tienda virtual,Online,Jeans,258,103665,26745570,15
+2025-12-15,Tienda virtual,Online,Camisetas,246,34164,8404344,11
+2025-12-15,Tienda virtual,Online,Blusas,107,71769,7679283,6
+2025-12-15,Tienda virtual,Online,Chaquetas,70,159177,11142390,2
+2025-12-15,Tienda virtual,Online,Vestidos,52,135493,7045636,2
+2025-12-15,Tienda virtual,Online,Calzado,73,158164,11545972,2
+2025-12-15,Tienda virtual,Online,Accesorios,62,30095,1865890,3
+2025-12-22,Bogotá - Andino,Tienda física,Jeans,326,103341,33689166,7
+2025-12-22,Bogotá - Andino,Tienda física,Camisetas,260,34034,8848840,6
+2025-12-22,Bogotá - Andino,Tienda física,Blusas,143,68403,9781629,2
+2025-12-22,Bogotá - Andino,Tienda física,Chaquetas,70,157919,11054330,1
+2025-12-22,Bogotá - Andino,Tienda física,Vestidos,63,138321,8714223,1
+2025-12-22,Bogotá - Andino,Tienda física,Calzado,80,154101,12328080,1
+2025-12-22,Bogotá - Andino,Tienda física,Accesorios,38,29673,1127574,0
+2025-12-22,Bogotá - Unicentro,Tienda física,Jeans,253,97908,24770724,5
+2025-12-22,Bogotá - Unicentro,Tienda física,Camisetas,196,32982,6464472,4
+2025-12-22,Bogotá - Unicentro,Tienda física,Blusas,101,68191,6887291,2
+2025-12-22,Bogotá - Unicentro,Tienda física,Chaquetas,43,151971,6534753,0
+2025-12-22,Bogotá - Unicentro,Tienda física,Vestidos,57,135212,7707084,1
+2025-12-22,Bogotá - Unicentro,Tienda física,Calzado,54,164258,8869932,1
+2025-12-22,Bogotá - Unicentro,Tienda física,Accesorios,47,29781,1399707,1
+2025-12-22,Medellín - Santafé,Tienda física,Jeans,221,103572,22889412,5
+2025-12-22,Medellín - Santafé,Tienda física,Camisetas,203,32316,6560148,6
+2025-12-22,Medellín - Santafé,Tienda física,Blusas,92,66777,6143484,2
+2025-12-22,Medellín - Santafé,Tienda física,Chaquetas,58,156686,9087788,1
+2025-12-22,Medellín - Santafé,Tienda física,Vestidos,48,137032,6577536,1
+2025-12-22,Medellín - Santafé,Tienda física,Calzado,88,163339,14373832,1
+2025-12-22,Medellín - Santafé,Tienda física,Accesorios,36,30751,1107036,0
+2025-12-22,Cali - Chipichape,Tienda física,Jeans,215,98534,21184810,6
+2025-12-22,Cali - Chipichape,Tienda física,Camisetas,199,34343,6834257,5
+2025-12-22,Cali - Chipichape,Tienda física,Blusas,99,70840,7013160,2
+2025-12-22,Cali - Chipichape,Tienda física,Chaquetas,62,162320,10063840,1
+2025-12-22,Cali - Chipichape,Tienda física,Vestidos,39,142881,5572359,0
+2025-12-22,Cali - Chipichape,Tienda física,Calzado,53,158255,8387515,1
+2025-12-22,Cali - Chipichape,Tienda física,Accesorios,40,28797,1151880,1
+2025-12-22,Barranquilla - Buenavista,Tienda física,Jeans,160,98049,15687840,3
+2025-12-22,Barranquilla - Buenavista,Tienda física,Camisetas,158,33490,5291420,3
+2025-12-22,Barranquilla - Buenavista,Tienda física,Blusas,82,70451,5776982,2
+2025-12-22,Barranquilla - Buenavista,Tienda física,Chaquetas,75,159701,11977575,2
+2025-12-22,Barranquilla - Buenavista,Tienda física,Vestidos,57,133468,7607676,1
+2025-12-22,Barranquilla - Buenavista,Tienda física,Calzado,43,154011,6622473,0
+2025-12-22,Barranquilla - Buenavista,Tienda física,Accesorios,39,29798,1162122,0
+2025-12-22,Bucaramanga - Cacique,Tienda física,Jeans,162,100651,16305462,3
+2025-12-22,Bucaramanga - Cacique,Tienda física,Camisetas,138,33057,4561866,3
+2025-12-22,Bucaramanga - Cacique,Tienda física,Blusas,55,71655,3941025,1
+2025-12-22,Bucaramanga - Cacique,Tienda física,Chaquetas,44,156875,6902500,1
+2025-12-22,Bucaramanga - Cacique,Tienda física,Vestidos,34,135777,4616418,0
+2025-12-22,Bucaramanga - Cacique,Tienda física,Calzado,45,158379,7127055,1
+2025-12-22,Bucaramanga - Cacique,Tienda física,Accesorios,21,30530,641130,0
+2025-12-22,Tienda virtual,Online,Jeans,272,101039,27482608,13
+2025-12-22,Tienda virtual,Online,Camisetas,252,32724,8246448,7
+2025-12-22,Tienda virtual,Online,Blusas,124,69821,8657804,2
+2025-12-22,Tienda virtual,Online,Chaquetas,69,161505,11143845,2
+2025-12-22,Tienda virtual,Online,Vestidos,68,142725,9705300,1
+2025-12-22,Tienda virtual,Online,Calzado,66,152514,10065924,1
+2025-12-22,Tienda virtual,Online,Accesorios,54,30729,1659366,1
+2025-12-29,Bogotá - Andino,Tienda física,Jeans,287,102663,29464281,5
+2025-12-29,Bogotá - Andino,Tienda física,Camisetas,248,32485,8056280,6
+2025-12-29,Bogotá - Andino,Tienda física,Blusas,130,68899,8956870,3
+2025-12-29,Bogotá - Andino,Tienda física,Chaquetas,84,153444,12889296,1
+2025-12-29,Bogotá - Andino,Tienda física,Vestidos,49,133491,6541059,1
+2025-12-29,Bogotá - Andino,Tienda física,Calzado,54,164297,8872038,1
+2025-12-29,Bogotá - Andino,Tienda física,Accesorios,23,28702,660146,0
+2025-12-29,Bogotá - Unicentro,Tienda física,Jeans,242,104937,25394754,6
+2025-12-29,Bogotá - Unicentro,Tienda física,Camisetas,212,32540,6898480,4
+2025-12-29,Bogotá - Unicentro,Tienda física,Blusas,124,69895,8666980,3
+2025-12-29,Bogotá - Unicentro,Tienda física,Chaquetas,76,152036,11554736,1
+2025-12-29,Bogotá - Unicentro,Tienda física,Vestidos,65,135862,8831030,1
+2025-12-29,Bogotá - Unicentro,Tienda física,Calzado,62,153329,9506398,1
+2025-12-29,Bogotá - Unicentro,Tienda física,Accesorios,52,29860,1552720,1
+2025-12-29,Medellín - Santafé,Tienda física,Jeans,222,101765,22591830,5
+2025-12-29,Medellín - Santafé,Tienda física,Camisetas,218,32528,7091104,4
+2025-12-29,Medellín - Santafé,Tienda física,Blusas,93,70057,6515301,1
+2025-12-29,Medellín - Santafé,Tienda física,Chaquetas,68,162091,11022188,1
+2025-12-29,Medellín - Santafé,Tienda física,Vestidos,59,136899,8077041,1
+2025-12-29,Medellín - Santafé,Tienda física,Calzado,54,159138,8593452,1
+2025-12-29,Medellín - Santafé,Tienda física,Accesorios,34,29286,995724,0
+2025-12-29,Cali - Chipichape,Tienda física,Jeans,170,102025,17344250,3
+2025-12-29,Cali - Chipichape,Tienda física,Camisetas,171,33798,5779458,3
+2025-12-29,Cali - Chipichape,Tienda física,Blusas,75,66518,4988850,1
+2025-12-29,Cali - Chipichape,Tienda física,Chaquetas,56,155923,8731688,1
+2025-12-29,Cali - Chipichape,Tienda física,Vestidos,52,139953,7277556,1
+2025-12-29,Cali - Chipichape,Tienda física,Calzado,41,155179,6362339,1
+2025-12-29,Cali - Chipichape,Tienda física,Accesorios,25,30235,755875,0
+2025-12-29,Barranquilla - Buenavista,Tienda física,Jeans,179,99718,17849522,4
+2025-12-29,Barranquilla - Buenavista,Tienda física,Camisetas,182,34764,6327048,4
+2025-12-29,Barranquilla - Buenavista,Tienda física,Blusas,62,66803,4141786,1
+2025-12-29,Barranquilla - Buenavista,Tienda física,Chaquetas,71,160591,11401961,1
+2025-12-29,Barranquilla - Buenavista,Tienda física,Vestidos,45,137845,6203025,1
+2025-12-29,Barranquilla - Buenavista,Tienda física,Calzado,54,161970,8746380,1
+2025-12-29,Barranquilla - Buenavista,Tienda física,Accesorios,39,29805,1162395,0
+2025-12-29,Bucaramanga - Cacique,Tienda física,Jeans,153,97075,14852475,4
+2025-12-29,Bucaramanga - Cacique,Tienda física,Camisetas,150,33773,5065950,4
+2025-12-29,Bucaramanga - Cacique,Tienda física,Blusas,45,69026,3106170,1
+2025-12-29,Bucaramanga - Cacique,Tienda física,Chaquetas,31,155503,4820593,0
+2025-12-29,Bucaramanga - Cacique,Tienda física,Vestidos,48,132929,6380592,1
+2025-12-29,Bucaramanga - Cacique,Tienda física,Calzado,34,154435,5250790,0
+2025-12-29,Bucaramanga - Cacique,Tienda física,Accesorios,11,30622,336842,0
+2025-12-29,Tienda virtual,Online,Jeans,261,97530,25455330,5
+2025-12-29,Tienda virtual,Online,Camisetas,239,33989,8123371,9
+2025-12-29,Tienda virtual,Online,Blusas,106,66605,7060130,4
+2025-12-29,Tienda virtual,Online,Chaquetas,78,152470,11892660,1
+2025-12-29,Tienda virtual,Online,Vestidos,47,143030,6722410,1
+2025-12-29,Tienda virtual,Online,Calzado,79,163734,12934986,4
+2025-12-29,Tienda virtual,Online,Accesorios,59,29948,1766932,3

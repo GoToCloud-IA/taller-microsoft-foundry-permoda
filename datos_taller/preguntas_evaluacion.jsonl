@@ -1,0 +1,10 @@
+{"query": "¿Cuánto tiempo tengo para cambiar una prenda comprada en tienda?", "ground_truth": "Hasta 30 días calendario desde la fecha de compra, en cualquier tienda física, con la prenda sin uso, con etiquetas y la factura."}
+{"query": "Compré un vestido el 20 de diciembre, ¿hasta cuándo lo puedo cambiar?", "ground_truth": "Hasta el 15 de enero del año siguiente, por la extensión de temporada de fin de año."}
+{"query": "¿Puedo cambiar un traje de baño?", "ground_truth": "No. Los trajes de baño no tienen cambio."}
+{"query": "Me devuelven el dinero si compré en la tienda física?", "ground_truth": "No hay devolución de dinero en tienda física; se entrega una nota crédito válida por 1 año."}
+{"query": "Mido 72 cm de cintura y 98 de cadera, ¿qué talla de jean de mujer me sirve?", "ground_truth": "Talla 10 (cintura 71–74 y cadera 97–100 cm)."}
+{"query": "¿Con qué combino el jean mom tiro alto?", "ground_truth": "Con la blusa manga bombacha MA-BL-204 y la chaqueta denim oversize MA-CH-310."}
+{"query": "¿Cuánto cuesta la chaqueta denim y en qué tallas viene?", "ground_truth": "159.900 COP, tallas S a XL, color azul medio."}
+{"query": "¿Tienen envío gratis?", "ground_truth": "Sí, en tienda virtual por compras superiores a 199.900 COP."}
+{"query": "Mi jean se descosió a los dos meses, ¿qué hago?", "ground_truth": "Aplica la garantía por defectos de fabricación (90 días). La prenda va a revisión de calidad y la respuesta llega en máximo 8 días hábiles."}
+{"query": "¿Cuál es la capital de Francia?", "ground_truth": "El asistente debe indicar que solo responde temas de la tienda (productos, tallas, cambios) y redirigir amablemente."}
